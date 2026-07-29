@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046990809908879368",
+    "conversation_id": "2053289237831958924",
+    "created_at": "2026-05-10T03:07:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T04:07:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053310870072303856"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1684269091849404416",
+          "start": 0,
+          "username": "hg3551019177402"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053310870072303856",
+    "in_reply_to_user_id": "1684269091849404416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053309697261002901",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hg3551019177402 对🤤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046990809908879368",
+        "conversation_id": "2053289237831958924",
+        "created_at": "2026-05-10T03:07:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T04:07:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053310870072303856"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1684269091849404416",
+              "start": 0,
+              "username": "hg3551019177402"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053310870072303856",
+        "in_reply_to_user_id": "1684269091849404416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053309697261002901",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hg3551019177402 对🤤"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684269091849404416",
+        "conversation_id": "2053289237831958924",
+        "created_at": "2026-05-10T03:02:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T04:02:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053309697261002901"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2046990809908879368",
+              "start": 0,
+              "username": "silentbleeding1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053309697261002901",
+        "in_reply_to_user_id": "2046990809908879368",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053309492197306681",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@silentbleeding1 懂你意思🤤打折就是便宜"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-22T16:36:22.000Z",
+        "description": "08 he/they enby.双相、焦虑症正在治疗。烟鬼、酗酒、#shtwt、#odtwt。成分复杂，日本文学/拉康精神分析，钢琴，硬/前卫/蓝调/独立摇滚…虚无主义重建欲望中…负能，日常发神经吐苦水，友所有群体，查成分回fo。永远怀念——我的上一世@Lizzy_522 里推@pillsandblood",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 39,
+                "start": 33,
+                "tag": "shtwt"
+              },
+              {
+                "end": 46,
+                "start": 40,
+                "tag": "odtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 136,
+                "start": 126,
+                "username": "Lizzy_522"
+              },
+              {
+                "end": 153,
+                "start": 139,
+                "username": "pillsandblood"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizzy_522",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizzy_522",
+                "start": 0,
+                "url": "https://t.co/AQMnPR82BG"
+              }
+            ]
+          }
+        },
+        "id": "2046990809908879368",
+        "name": "リジー",
+        "pinned_tweet_id": "2051150939533590911",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047319984494534656/-SRMKdXI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 361,
+          "following_count": 332,
+          "like_count": 1359,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 309
+        },
+        "url": "https://t.co/AQMnPR82BG",
+        "username": "silentbleeding1",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-26T18:27:14.000Z",
+        "description": "烟袋，欢迎咨询/合法物质研究中",
+        "id": "1684269091849404416",
+        "name": "12（男子日常）",
+        "pinned_tweet_id": "2053168409064661324",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052935146790326272/SSGFJI8i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 888,
+          "following_count": 866,
+          "like_count": 18218,
+          "listed_count": 1,
+          "media_count": 728,
+          "tweet_count": 9619
+        },
+        "username": "hg3551019177402",
+        "verified": false
+      }
+    ]
+  }
+}

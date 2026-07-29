@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046990809908879368",
+    "conversation_id": "2055309784715231380",
+    "created_at": "2026-05-15T16:11:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T17:11:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055320259352232237"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1987138845058736133",
+          "start": 0,
+          "username": "maipianaini0930"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055320259352232237",
+    "in_reply_to_user_id": "1987138845058736133",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055309784715231380",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@maipianaini0930 这玩意味道大吗，比起香烟的话"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2055309784715231380].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2055309784715231380",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2055309784715231380"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046990809908879368",
+        "conversation_id": "2055309784715231380",
+        "created_at": "2026-05-15T16:11:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T17:11:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055320259352232237"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1987138845058736133",
+              "start": 0,
+              "username": "maipianaini0930"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055320259352232237",
+        "in_reply_to_user_id": "1987138845058736133",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055309784715231380",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maipianaini0930 这玩意味道大吗，比起香烟的话"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-22T16:36:22.000Z",
+        "description": "08 he/they enby.双相、焦虑症正在治疗。烟鬼、酗酒、#shtwt、#odtwt。成分复杂，日本文学/拉康精神分析，钢琴，硬/前卫/蓝调/独立摇滚，虚无主义重建欲望中…负能，日常发神经吐苦水，友所有群体，查成分回fo。前世@Lizzy_522 里推@pillsandblood",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 39,
+                "start": 33,
+                "tag": "shtwt"
+              },
+              {
+                "end": 46,
+                "start": 40,
+                "tag": "odtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 127,
+                "start": 117,
+                "username": "Lizzy_522"
+              },
+              {
+                "end": 144,
+                "start": 130,
+                "username": "pillsandblood"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizzy_522",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizzy_522",
+                "start": 0,
+                "url": "https://t.co/AQMnPR82BG"
+              }
+            ]
+          }
+        },
+        "id": "2046990809908879368",
+        "name": "リジー",
+        "pinned_tweet_id": "2051150939533590911",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047319984494534656/-SRMKdXI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 392,
+          "following_count": 353,
+          "like_count": 1952,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 430
+        },
+        "url": "https://t.co/AQMnPR82BG",
+        "username": "silentbleeding1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "希望点进来的人中有发掘我的伯乐",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2045840146235584576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049364889576284160/7hQGdBDi_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 381,
+          "following_count": 284,
+          "like_count": 9423,
+          "listed_count": 2,
+          "media_count": 599,
+          "tweet_count": 3855
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      }
+    ]
+  }
+}

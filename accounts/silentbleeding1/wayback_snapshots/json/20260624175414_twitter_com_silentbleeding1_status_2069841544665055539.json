@@ -1,0 +1,428 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046990809908879368",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1303989823011606528",
+          "name": "Tech events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "10044903039",
+          "name": "Apple - iOS"
+        }
+      }
+    ],
+    "conversation_id": "2069736740181655782",
+    "created_at": "2026-06-24T17:54:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T18:54:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069841544665055539"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1868562193484251136",
+          "start": 0,
+          "username": "LengChamSayBye"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069841544665055539",
+    "in_reply_to_user_id": "1868562193484251136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069840096069820704",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LengChamSayBye 确实挺小众的 国内音乐软件一个都找不到🌚我ios换到菲律宾去才有冰岛宝妈，词和曲写的确实棒啊🤤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046990809908879368",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10044903039",
+              "name": "Apple - iOS"
+            }
+          }
+        ],
+        "conversation_id": "2069736740181655782",
+        "created_at": "2026-06-24T17:54:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T18:54:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069841544665055539"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1868562193484251136",
+              "start": 0,
+              "username": "LengChamSayBye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069841544665055539",
+        "in_reply_to_user_id": "1868562193484251136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069840096069820704",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LengChamSayBye 确实挺小众的 国内音乐软件一个都找不到🌚我ios换到菲律宾去才有冰岛宝妈，词和曲写的确实棒啊🤤"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2069736740181655782",
+        "created_at": "2026-06-24T17:48:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T18:48:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069840096069820704"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2046990809908879368",
+              "start": 0,
+              "username": "silentbleeding1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069840096069820704",
+        "in_reply_to_user_id": "2046990809908879368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069736740181655782",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@silentbleeding1 空气逐渐稀薄，海拔急剧升高，卧槽我一直以为听冰岛宝妈是个很小众的事"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-22T16:36:22.000Z",
+        "description": "前世@Lizzy_522 \n08 he/they enby.双相、焦虑症正在治疗。烟鬼、酗酒、#shtwt、#odtwt。成分复杂，公路车，日本文学/拉康精神分析，钢琴，硬/前卫/蓝调/独立摇滚，负能，日常发神经吐苦水，友所有群体，查成分回fo。里推@pillsandblood",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 53,
+                "start": 47,
+                "tag": "shtwt"
+              },
+              {
+                "end": 60,
+                "start": 54,
+                "tag": "odtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "Lizzy_522"
+              },
+              {
+                "end": 139,
+                "start": 125,
+                "username": "pillsandblood"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizzy_5221",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizzy_5221",
+                "start": 0,
+                "url": "https://t.co/TdKmbtj5RY"
+              }
+            ]
+          }
+        },
+        "id": "2046990809908879368",
+        "name": "リジー",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060729372013895680/wVCe3wl1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 540,
+          "following_count": 457,
+          "like_count": 5558,
+          "listed_count": 0,
+          "media_count": 122,
+          "tweet_count": 1572
+        },
+        "url": "https://t.co/TdKmbtj5RY",
+        "username": "silentbleeding1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n黄推建政账号一律拒fo  \n05 |欧德尔 |不摄政 |不涉黄 |#病み垢 |严重精神焦虑",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 51,
+                "tag": "病み垢"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044662107904659456/-Qd1LT8I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 503,
+          "following_count": 215,
+          "like_count": 5995,
+          "listed_count": 0,
+          "media_count": 889,
+          "tweet_count": 4861
+        },
+        "url": "",
+        "username": "LengChamSayBye",
+        "verified": false
+      }
+    ]
+  }
+}

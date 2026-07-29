@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046990809908879368",
+    "conversation_id": "2047264532599640292",
+    "created_at": "2026-04-23T15:56:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T16:56:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047343755783803171"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1684269091849404416",
+          "start": 0,
+          "username": "hg3551019177402"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047343755783803171",
+    "in_reply_to_user_id": "1684269091849404416",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047264532599640292",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hg3551019177402 抱抱12🫂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046990809908879368",
+        "conversation_id": "2047264532599640292",
+        "created_at": "2026-04-23T15:56:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T16:56:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047343755783803171"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1684269091849404416",
+              "start": 0,
+              "username": "hg3551019177402"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047343755783803171",
+        "in_reply_to_user_id": "1684269091849404416",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047264532599640292",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hg3551019177402 抱抱12🫂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684269091849404416",
+        "conversation_id": "2047264532599640292",
+        "created_at": "2026-04-23T10:41:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T11:41:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047264532599640292"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047264532599640292",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 21469,
+          "like_count": 149,
+          "quote_count": 1,
+          "reply_count": 40,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "被晶\n被开除\n取保候审"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-22T16:36:22.000Z",
+        "description": "磕药发颠支黑负能号，关注请求会慢慢通过，怕被限关注…\n大号在此@Lizzy_522",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 31,
+                "username": "Lizzy_522"
+              }
+            ]
+          }
+        },
+        "id": "2046990809908879368",
+        "name": "リジー（二世推u巡回中…",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047319984494534656/-SRMKdXI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 69,
+          "like_count": 79,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 18
+        },
+        "username": "silentbleeding1",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-26T18:27:14.000Z",
+        "description": "黑圣徒和白罪女 我主人@Orion2588 药物治疗精神病中（每天吃很多就是了），每天直播一下精神病日常，我的语言自知门里下贱20万bei。黑色柳丁：@rinii165892",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 11,
+                "username": "Orion2588"
+              },
+              {
+                "end": 87,
+                "start": 75,
+                "username": "rinii165892"
+              }
+            ]
+          }
+        },
+        "id": "1684269091849404416",
+        "name": "12",
+        "pinned_tweet_id": "2043934459041645045",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045697198890119168/n-jopRK7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 614,
+          "following_count": 561,
+          "like_count": 18605,
+          "listed_count": 0,
+          "media_count": 513,
+          "tweet_count": 8701
+        },
+        "username": "hg3551019177402",
+        "verified": false
+      }
+    ]
+  }
+}

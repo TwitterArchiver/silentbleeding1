@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046990809908879368",
+    "conversation_id": "2047285670817996987",
+    "created_at": "2026-04-23T15:24:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T16:24:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047335690745356764"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1762399735644921856",
+          "start": 0,
+          "username": "Serotonin716"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047335690745356764",
+    "in_reply_to_user_id": "1762399735644921856",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047285670817996987",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Serotonin716 sid and nancy，，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046990809908879368",
+        "conversation_id": "2047285670817996987",
+        "created_at": "2026-04-23T15:24:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T16:24:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047335690745356764"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1762399735644921856",
+              "start": 0,
+              "username": "Serotonin716"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047335690745356764",
+        "in_reply_to_user_id": "1762399735644921856",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047285670817996987",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Serotonin716 sid and nancy，，"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1762399735644921856",
+        "conversation_id": "2047285670817996987",
+        "created_at": "2026-04-23T12:05:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T13:05:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047285670817996987"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/looolzaozimin/…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/looolzaozimin/status/2018653976452018335",
+              "start": 13,
+              "url": "https://t.co/www43txmv0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047285670817996987",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018653976452018335",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "科特柯本和柯特妮爱嗯对🌚 https://t.co/www43txmv0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-22T16:36:22.000Z",
+        "description": "磕药发颠支黑负能号，关注请求会慢慢通过，怕被限关注…\n大号在此@Lizzy_522",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 31,
+                "username": "Lizzy_522"
+              }
+            ]
+          }
+        },
+        "id": "2046990809908879368",
+        "name": "リジー（二世推u巡回中…",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047319984494534656/-SRMKdXI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 52,
+          "like_count": 47,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 12
+        },
+        "username": "silentbleeding1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-27T08:50:30.000Z",
+        "description": "很温良除非遇到贱人/键政给老娘死开/脑部肛裂综合症/喜欢各种艺术作品/板绘学习ing/anti-AIart/欢迎交朋友/沉迷互联网之毒电波中。。。",
+        "id": "1762399735644921856",
+        "location": "在无爱之森呐喊",
+        "name": "肌肉阵挛",
+        "pinned_tweet_id": "1935890736362500245",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040636212218830848/-4Bq_qwI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 234,
+          "following_count": 716,
+          "like_count": 59645,
+          "listed_count": 0,
+          "media_count": 291,
+          "tweet_count": 3073
+        },
+        "username": "Serotonin716",
+        "verified": false
+      }
+    ]
+  }
+}

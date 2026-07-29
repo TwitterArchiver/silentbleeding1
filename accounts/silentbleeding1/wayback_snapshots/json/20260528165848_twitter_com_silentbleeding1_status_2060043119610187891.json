@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060005576877260801"
+      ],
+      "media_source_tweet_id": [
+        "2060005604127576550"
+      ]
+    },
+    "author_id": "2046990809908879368",
+    "conversation_id": "2060043119610187891",
+    "created_at": "2026-05-28T16:58:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T17:58:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060043119610187891"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1632832954421633029",
+          "start": 3,
+          "username": "482xxnay"
+        },
+        {
+          "end": 35,
+          "id": "1452123941686976519",
+          "start": 25,
+          "username": "C21Koy_7c"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/MViVITEXdo",
+          "end": 88,
+          "expanded_url": "https://x.com/482xxnay/status/2060005604127576550/photo/1",
+          "media_key": "3_2060005576877260801",
+          "start": 65,
+          "url": "https://t.co/MViVITEXdo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060043119610187891",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060005604127576550",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @482xxnay: 帮我转转 我被冻了宝们@C21Koy_7c \n可以帮我申诉吗 我已经提交了很难过 21年就用起来的了 https://t.co/MViVITEXdo"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [C21Koy_7c].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "C21Koy_7c",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "C21Koy_7c"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2060005576877260801",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJacKGUXwAE6Ohq.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060005576877260801"
+          ],
+          "media_source_tweet_id": [
+            "2060005604127576550"
+          ]
+        },
+        "author_id": "2046990809908879368",
+        "conversation_id": "2060043119610187891",
+        "created_at": "2026-05-28T16:58:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T17:58:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060043119610187891"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1632832954421633029",
+              "start": 3,
+              "username": "482xxnay"
+            },
+            {
+              "end": 35,
+              "id": "1452123941686976519",
+              "start": 25,
+              "username": "C21Koy_7c"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MViVITEXdo",
+              "end": 88,
+              "expanded_url": "https://x.com/482xxnay/status/2060005604127576550/photo/1",
+              "media_key": "3_2060005576877260801",
+              "start": 65,
+              "url": "https://t.co/MViVITEXdo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060043119610187891",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060005604127576550",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @482xxnay: 帮我转转 我被冻了宝们@C21Koy_7c \n可以帮我申诉吗 我已经提交了很难过 21年就用起来的了 https://t.co/MViVITEXdo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060005576877260801"
+          ]
+        },
+        "author_id": "1632832954421633029",
+        "conversation_id": "2060005604127576550",
+        "created_at": "2026-05-28T14:29:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T15:29:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060005604127576550"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 21,
+              "id": "1452123941686976519",
+              "start": 11,
+              "username": "C21Koy_7c"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MViVITEXdo",
+              "end": 74,
+              "expanded_url": "https://x.com/482xxnay/status/2060005604127576550/photo/1",
+              "media_key": "3_2060005576877260801",
+              "start": 51,
+              "url": "https://t.co/MViVITEXdo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060005604127576550",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 559,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "帮我转转 我被冻了宝们@C21Koy_7c \n可以帮我申诉吗 我已经提交了很难过 21年就用起来的了 https://t.co/MViVITEXdo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-22T16:36:22.000Z",
+        "description": "前世@Lizzy_522 \n08 he/they enby.双相、焦虑症正在治疗。烟鬼、酗酒、#shtwt、#odtwt。成分复杂，公路车，日本文学/拉康精神分析，钢琴，硬/前卫/蓝调/独立摇滚，虚无主义重建欲望中…负能，日常发神经吐苦水，友所有群体，查成分回fo。里推@pillsandblood",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 53,
+                "start": 47,
+                "tag": "shtwt"
+              },
+              {
+                "end": 60,
+                "start": 54,
+                "tag": "odtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "Lizzy_522"
+              },
+              {
+                "end": 149,
+                "start": 135,
+                "username": "pillsandblood"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizzy_522",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizzy_522",
+                "start": 0,
+                "url": "https://t.co/AQMnPR82BG"
+              }
+            ]
+          }
+        },
+        "id": "2046990809908879368",
+        "name": "リジー",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047319984494534656/-SRMKdXI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 449,
+          "following_count": 398,
+          "like_count": 3127,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 813
+        },
+        "url": "https://t.co/AQMnPR82BG",
+        "username": "silentbleeding1",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-06T19:58:19.000Z",
+        "description": "no way…！my life is so suck\n各类型一次性电子烟 烟弹 烟杆 锐克五六代杆子正品还有其他的杆子 冰熊 等 青海+10运费 禁发西藏/新疆/海南 库存消耗快 备注请填写主口味和备用口味 售后需要一口气的开箱视频不然没有视频拒绝守候 请拍摄第一次使用 不接急单 不接急单 如果可以请给我一些客返哦",
+        "id": "1632832954421633029",
+        "name": "im gay（yan的电子烟版）",
+        "pinned_tweet_id": "2052774374865006816",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052762986327240704/uZOTKK3r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 535,
+          "like_count": 3979,
+          "listed_count": 0,
+          "media_count": 277,
+          "tweet_count": 4256
+        },
+        "username": "482xxnay",
+        "verified": false
+      }
+    ]
+  }
+}

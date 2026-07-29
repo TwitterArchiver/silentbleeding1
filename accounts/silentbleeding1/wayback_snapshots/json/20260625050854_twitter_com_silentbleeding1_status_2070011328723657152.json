@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046990809908879368",
+    "conversation_id": "2069930004339909117",
+    "created_at": "2026-06-25T05:08:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T06:08:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070011328723657152"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2058029942198374400",
+          "start": 0,
+          "username": "yudia666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070011328723657152",
+    "in_reply_to_user_id": "2058029942198374400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069930004339909117",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yudia666 这个好像没用来着（"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2069930000934141952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLneXm-agAASL_T.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046990809908879368",
+        "conversation_id": "2069930004339909117",
+        "created_at": "2026-06-25T05:08:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T06:08:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070011328723657152"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2058029942198374400",
+              "start": 0,
+              "username": "yudia666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070011328723657152",
+        "in_reply_to_user_id": "2058029942198374400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069930004339909117",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yudia666 这个好像没用来着（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069930000934141952"
+          ]
+        },
+        "author_id": "2058029942198374400",
+        "conversation_id": "2069930004339909117",
+        "created_at": "2026-06-24T23:45:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T00:45:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069930004339909117"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YLQQ1QJEci",
+              "end": 25,
+              "expanded_url": "https://x.com/yudia666/status/2069930004339909117/photo/1",
+              "media_key": "3_2069930000934141952",
+              "start": 2,
+              "url": "https://t.co/YLQQ1QJEci"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069930004339909117",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 97,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🤔 https://t.co/YLQQ1QJEci"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-22T16:36:22.000Z",
+        "description": "前世@Lizzy_522 \n08 he/they enby.双相、焦虑症正在治疗。烟鬼、酗酒、#shtwt、#odtwt。成分复杂，公路车，日本文学/拉康精神分析，钢琴，硬/前卫/蓝调/独立摇滚，负能，日常发神经吐苦水，友所有群体，查成分回fo。里推@pillsandblood",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 53,
+                "start": 47,
+                "tag": "shtwt"
+              },
+              {
+                "end": 60,
+                "start": 54,
+                "tag": "odtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "Lizzy_522"
+              },
+              {
+                "end": 139,
+                "start": 125,
+                "username": "pillsandblood"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizzy_5221",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizzy_5221",
+                "start": 0,
+                "url": "https://t.co/TdKmbtj5RY"
+              }
+            ]
+          }
+        },
+        "id": "2046990809908879368",
+        "name": "リジー",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060729372013895680/wVCe3wl1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 538,
+          "following_count": 455,
+          "like_count": 5578,
+          "listed_count": 0,
+          "media_count": 123,
+          "tweet_count": 1584
+        },
+        "url": "https://t.co/TdKmbtj5RY",
+        "username": "silentbleeding1",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-23T03:39:58.000Z",
+        "description": "年龄不详,性别:尸体,音乐重度依赖,最❤️的乐队:Crystal Castles,💊🍺🚬,碎碎念,负能量？几乎无精力主动社交,不要把我当傻逼,欢迎互关,看见有互关发帖就点赞tg:YUDAnb8964 /77",
+        "id": "2058029942198374400",
+        "location": "“第二の世界”",
+        "name": "𝖞𝖚𝖉𝖆",
+        "pinned_tweet_id": "2068835774074884255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068942921869758464/UJ-J2j84_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 118,
+          "like_count": 4449,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 618
+        },
+        "url": "",
+        "username": "yudia666",
+        "verified": false
+      }
+    ]
+  }
+}

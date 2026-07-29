@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046990809908879368",
+    "conversation_id": "2048401966951494090",
+    "created_at": "2026-04-26T14:41:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T15:41:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048412048221254120"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1741807657110147073",
+          "start": 0,
+          "username": "yan_huan92807"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048412048221254120",
+    "in_reply_to_user_id": "1741807657110147073",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048401966951494090",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yan_huan92807 其实是都被封了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046990809908879368",
+        "conversation_id": "2048401966951494090",
+        "created_at": "2026-04-26T14:41:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T15:41:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048412048221254120"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1741807657110147073",
+              "start": 0,
+              "username": "yan_huan92807"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048412048221254120",
+        "in_reply_to_user_id": "1741807657110147073",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048401966951494090",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yan_huan92807 其实是都被封了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2048401966951494090",
+        "created_at": "2026-04-26T14:01:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T15:01:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048401966951494090"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048401966951494090",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "怎么推友这几天都不见了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-22T16:36:22.000Z",
+        "description": "🩸图💊发颠支黑负能号\n大号在此@Lizzy_522",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "Lizzy_522"
+              }
+            ]
+          }
+        },
+        "id": "2046990809908879368",
+        "name": "リジー 2.0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047319984494534656/-SRMKdXI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 131,
+          "like_count": 184,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 44
+        },
+        "username": "silentbleeding1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 \nany pronouns\n什么圈都搞/enby，ftx🏳️‍⚧️泛性恋🏳️‍🌈/金采源kim chaewon毒唯🐆🐯 /偶尔在互联网上释放善意 /彩虹友好🌈/查成分互fo喵\n老婆我最爱的母狗婊子宝贝https://t.co/ojLNRKtUJR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/gess828?s=21",
+                "end": 127,
+                "expanded_url": "https://x.com/gess828?s=21",
+                "start": 104,
+                "url": "https://t.co/ojLNRKtUJR"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的右心室",
+        "name": "小利亚是鳄鱼🐊女权人妖美女骚鸡妓妖景观装置法国新浪潮存在主义黑泽明喜欢困苦的雾都孤儿（私处好痒）",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043343874119307264/3Tdu7r0M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 189,
+          "like_count": 3513,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 1296
+        },
+        "username": "yan_huan92807",
+        "verified": false
+      }
+    ]
+  }
+}

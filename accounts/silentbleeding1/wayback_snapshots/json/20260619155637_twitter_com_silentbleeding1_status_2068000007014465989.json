@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046990809908879368",
+    "conversation_id": "2067988843064906178",
+    "created_at": "2026-06-19T15:56:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T16:56:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068000007014465989"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1880803334405435393",
+          "start": 0,
+          "username": "tiantmaoshenshi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068000007014465989",
+    "in_reply_to_user_id": "1880803334405435393",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067999297342509174",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tiantmaoshenshi 114514😎"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046990809908879368",
+        "conversation_id": "2067988843064906178",
+        "created_at": "2026-06-19T15:56:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T16:56:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068000007014465989"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1880803334405435393",
+              "start": 0,
+              "username": "tiantmaoshenshi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068000007014465989",
+        "in_reply_to_user_id": "1880803334405435393",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067999297342509174",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tiantmaoshenshi 114514😎"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880803334405435393",
+        "conversation_id": "2067988843064906178",
+        "created_at": "2026-06-19T15:53:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T16:53:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067999297342509174"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2046990809908879368",
+              "start": 0,
+              "username": "silentbleeding1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067999297342509174",
+        "in_reply_to_user_id": "2046990809908879368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067988843064906178",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@silentbleeding1 捏脸码发来"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-22T16:36:22.000Z",
+        "description": "前世@Lizzy_522 \n08 he/they enby.双相、焦虑症正在治疗。烟鬼、酗酒、#shtwt、#odtwt。成分复杂，公路车，日本文学/拉康精神分析，钢琴，硬/前卫/蓝调/独立摇滚，负能，日常发神经吐苦水，友所有群体，查成分回fo。里推@pillsandblood",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 53,
+                "start": 47,
+                "tag": "shtwt"
+              },
+              {
+                "end": 60,
+                "start": 54,
+                "tag": "odtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "Lizzy_522"
+              },
+              {
+                "end": 139,
+                "start": 125,
+                "username": "pillsandblood"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizzy_5221",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizzy_5221",
+                "start": 0,
+                "url": "https://t.co/TdKmbtj5RY"
+              }
+            ]
+          }
+        },
+        "id": "2046990809908879368",
+        "name": "リジー",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060729372013895680/wVCe3wl1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 525,
+          "following_count": 446,
+          "like_count": 4991,
+          "listed_count": 0,
+          "media_count": 104,
+          "tweet_count": 1394
+        },
+        "url": "https://t.co/TdKmbtj5RY",
+        "username": "silentbleeding1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-19T02:24:18.000Z",
+        "description": "靠近才能了解的兔子\n负能量警告⚠️\n2.3次元人\n不是好人\n双相精分犯抽的时候会很烦，对不起，请蔽我\n不发推就是在现生/思考/浮起\n来和我交朋友互fo吧(`･ω･´)ゞ\n临死前必须捅死恋人的那种🤤",
+        "id": "1880803334405435393",
+        "location": "中北海",
+        "name": "锦玉茉莉",
+        "pinned_tweet_id": "2062000701300244929",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973409019516821504/5wMTL0Wa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 476,
+          "following_count": 764,
+          "like_count": 10996,
+          "listed_count": 0,
+          "media_count": 213,
+          "tweet_count": 6075
+        },
+        "url": "",
+        "username": "tiantmaoshenshi",
+        "verified": false
+      }
+    ]
+  }
+}

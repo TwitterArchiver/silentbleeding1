@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046990809908879368",
+    "conversation_id": "2054586570850889831",
+    "created_at": "2026-05-13T16:13:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T17:13:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054595918037700913"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1999153024019869696",
+          "start": 0,
+          "username": "KKKaoru_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054595918037700913",
+    "in_reply_to_user_id": "1999153024019869696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054595564420165989",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KKKaoru_ 所以终极迪哥可以自己创造音乐鉴赏吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046990809908879368",
+        "conversation_id": "2054586570850889831",
+        "created_at": "2026-05-13T16:13:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T17:13:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054595918037700913"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1999153024019869696",
+              "start": 0,
+              "username": "KKKaoru_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054595918037700913",
+        "in_reply_to_user_id": "1999153024019869696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054595564420165989",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KKKaoru_ 所以终极迪哥可以自己创造音乐鉴赏吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1999153024019869696",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2054586570850889831",
+        "created_at": "2026-05-13T16:12:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T17:12:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054595564420165989"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2046990809908879368",
+              "start": 0,
+              "username": "silentbleeding1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054595564420165989",
+        "in_reply_to_user_id": "2046990809908879368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054594072854384904",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@silentbleeding1 网易云有的就并非啊……\nMatt jones是当时那个地方摇滚音乐的核心人物\natavistic又是一个知名的厂牌"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-22T16:36:22.000Z",
+        "description": "08 he/they enby.双相、焦虑症正在治疗。烟鬼、酗酒、#shtwt、#odtwt。成分复杂，日本文学/拉康精神分析，钢琴，硬/前卫/蓝调/独立摇滚，虚无主义重建欲望中…负能，日常发神经吐苦水，友所有群体，查成分回fo。前世@Lizzy_522 里推@pillsandblood",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 39,
+                "start": 33,
+                "tag": "shtwt"
+              },
+              {
+                "end": 46,
+                "start": 40,
+                "tag": "odtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 127,
+                "start": 117,
+                "username": "Lizzy_522"
+              },
+              {
+                "end": 144,
+                "start": 130,
+                "username": "pillsandblood"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizzy_522",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizzy_522",
+                "start": 0,
+                "url": "https://t.co/AQMnPR82BG"
+              }
+            ]
+          }
+        },
+        "id": "2046990809908879368",
+        "name": "リジー",
+        "pinned_tweet_id": "2051150939533590911",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047319984494534656/-SRMKdXI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 376,
+          "following_count": 339,
+          "like_count": 1722,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 371
+        },
+        "url": "https://t.co/AQMnPR82BG",
+        "username": "silentbleeding1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-11T16:25:44.000Z",
+        "description": "头像很唐致歉，骚逼@lizzy_522，永远爱你@a1yssaTvT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "lizzy_522"
+              },
+              {
+                "end": 34,
+                "start": 24,
+                "username": "a1yssaTvT"
+              }
+            ]
+          }
+        },
+        "id": "1999153024019869696",
+        "name": "Kaoru",
+        "pinned_tweet_id": "2049167826510823759",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038276630154772481/2sQdzYrd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 34,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 521
+        },
+        "username": "KKKaoru_",
+        "verified": false
+      }
+    ]
+  }
+}

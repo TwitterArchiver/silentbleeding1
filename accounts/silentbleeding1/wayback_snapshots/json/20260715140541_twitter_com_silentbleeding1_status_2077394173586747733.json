@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077377779423969281"
+      ],
+      "media_source_tweet_id": [
+        "2077378710391710042"
+      ]
+    },
+    "author_id": "2046990809908879368",
+    "conversation_id": "2077394173586747733",
+    "created_at": "2026-07-15T14:05:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T15:05:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077394173586747733"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1678171777409875968",
+          "start": 3,
+          "username": "420420420CTL"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/EvTWz2FLfT",
+          "end": 104,
+          "expanded_url": "https://x.com/420420420CTL/status/2077378710391710042/photo/1",
+          "media_key": "3_2077377779423969281",
+          "start": 81,
+          "url": "https://t.co/EvTWz2FLfT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077394173586747733",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077378710391710042",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @420420420CTL: 上海空投10，点赞评论转发 ,发送给@caidantu_420，7月18日 22:00开奖 （仅限x有50个以上关注者参加） https://t.co/EvTWz2FLfT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 960,
+        "media_key": "3_2077377779423969281",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNRUFX7bAAEHe0d.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077377779423969281"
+          ],
+          "media_source_tweet_id": [
+            "2077378710391710042"
+          ]
+        },
+        "author_id": "2046990809908879368",
+        "conversation_id": "2077394173586747733",
+        "created_at": "2026-07-15T14:05:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T15:05:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077394173586747733"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1678171777409875968",
+              "start": 3,
+              "username": "420420420CTL"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EvTWz2FLfT",
+              "end": 104,
+              "expanded_url": "https://x.com/420420420CTL/status/2077378710391710042/photo/1",
+              "media_key": "3_2077377779423969281",
+              "start": 81,
+              "url": "https://t.co/EvTWz2FLfT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077394173586747733",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077378710391710042",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @420420420CTL: 上海空投10，点赞评论转发 ,发送给@caidantu_420，7月18日 22:00开奖 （仅限x有50个以上关注者参加） https://t.co/EvTWz2FLfT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077377779423969281"
+          ]
+        },
+        "author_id": "1678171777409875968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2077378710391710042",
+        "created_at": "2026-07-15T13:04:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T14:04:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077378710391710042"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EvTWz2FLfT",
+              "end": 86,
+              "expanded_url": "https://x.com/420420420CTL/status/2077378710391710042/photo/1",
+              "media_key": "3_2077377779423969281",
+              "start": 63,
+              "url": "https://t.co/EvTWz2FLfT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077378710391710042",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 288,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "上海空投10，点赞评论转发 ,发送给@caidantu_420，7月18日 22:00开奖 （仅限x有50个以上关注者参加） https://t.co/EvTWz2FLfT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-22T16:36:22.000Z",
+        "description": "前世@Lizzy_522 \n08 he/they bpd。 #shtwt、#odtwt。喜欢各类摇滚和cult，每日高强度冲浪中。负能，日常吐苦水，友所有群体，迪哥们来找我互fo。里推@pillsandblood\n引路人@KKKaoru_",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 36,
+                "start": 30,
+                "tag": "shtwt"
+              },
+              {
+                "end": 43,
+                "start": 37,
+                "tag": "odtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "Lizzy_522"
+              },
+              {
+                "end": 106,
+                "start": 92,
+                "username": "pillsandblood"
+              },
+              {
+                "end": 119,
+                "start": 110,
+                "username": "KKKaoru_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizzy_5221",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizzy_5221",
+                "start": 0,
+                "url": "https://t.co/TdKmbtj5RY"
+              }
+            ]
+          }
+        },
+        "id": "2046990809908879368",
+        "name": "リジー",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060729372013895680/wVCe3wl1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 609,
+          "following_count": 509,
+          "like_count": 7420,
+          "listed_count": 0,
+          "media_count": 174,
+          "tweet_count": 2078
+        },
+        "url": "https://t.co/TdKmbtj5RY",
+        "username": "silentbleeding1",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-09T22:38:41.000Z",
+        "description": "支持亞洲大麻合法化，大麻除罪，正視醫療大麻用途，MTF🏳️‍⚧️🏳️‍🌈LGBTQ友好🧑‍🤝‍🧑👭只有x和谷歌電郵聯繫方式，會回私信，社群：https://t.co/YwMarw2XdU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/i/communities/…",
+                "end": 93,
+                "expanded_url": "https://x.com/i/communities/2002034506979750304",
+                "start": 70,
+                "url": "https://t.co/YwMarw2XdU"
+              }
+            ]
+          }
+        },
+        "id": "1678171777409875968",
+        "location": "Los Angeles, CA",
+        "name": "邦尼兔weed_420（大麻/電子煙）",
+        "pinned_tweet_id": "2056029691916713996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018807810830770177/xgp8x96H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4372,
+          "following_count": 708,
+          "like_count": 652,
+          "listed_count": 0,
+          "media_count": 195,
+          "tweet_count": 1139
+        },
+        "url": "",
+        "username": "420420420CTL",
+        "verified": true
+      }
+    ]
+  }
+}

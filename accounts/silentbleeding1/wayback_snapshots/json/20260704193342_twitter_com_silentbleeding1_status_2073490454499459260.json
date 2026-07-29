@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046990809908879368",
+    "conversation_id": "2073465216554447051",
+    "created_at": "2026-07-04T19:33:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T20:33:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073490454499459260"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2011793328988438531",
+          "start": 0,
+          "username": "angelkawaii011"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073490454499459260",
+    "in_reply_to_user_id": "2011793328988438531",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073465216554447051",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@angelkawaii011 一个半钟才能导出来的有没有说法的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046990809908879368",
+        "conversation_id": "2073465216554447051",
+        "created_at": "2026-07-04T19:33:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T20:33:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073490454499459260"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2011793328988438531",
+              "start": 0,
+              "username": "angelkawaii011"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073490454499459260",
+        "in_reply_to_user_id": "2011793328988438531",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073465216554447051",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@angelkawaii011 一个半钟才能导出来的有没有说法的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2011793328988438531",
+        "conversation_id": "2073465216554447051",
+        "created_at": "2026-07-04T17:53:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T18:53:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073465216554447051"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073465216554447051",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一分钟半就能导出来的有没有说法的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-22T16:36:22.000Z",
+        "description": "前世@Lizzy_522 \n08 he/they 一般路过普通精神病#shtwt、#odtwt。喜欢各类摇滚和cult，每日高强度冲浪中。负能，日常吐苦水，友所有群体，迪哥们来找我互fo。里推@pillsandblood\n引路人@KKKaoru_",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 47,
+                "start": 41,
+                "tag": "odtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "Lizzy_522"
+              },
+              {
+                "end": 110,
+                "start": 96,
+                "username": "pillsandblood"
+              },
+              {
+                "end": 123,
+                "start": 114,
+                "username": "KKKaoru_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizzy_5221",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizzy_5221",
+                "start": 0,
+                "url": "https://t.co/TdKmbtj5RY"
+              }
+            ]
+          }
+        },
+        "id": "2046990809908879368",
+        "name": "リジー",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060729372013895680/wVCe3wl1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 573,
+          "following_count": 481,
+          "like_count": 6407,
+          "listed_count": 0,
+          "media_count": 151,
+          "tweet_count": 1824
+        },
+        "url": "https://t.co/TdKmbtj5RY",
+        "username": "silentbleeding1",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-15T13:31:28.000Z",
+        "description": "健健康康地爱人 健健康康地被爱",
+        "id": "2011793328988438531",
+        "name": "01全否定bot",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071500253220487168/1EMgAIdM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 127,
+          "like_count": 165,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 255
+        },
+        "url": "",
+        "username": "angelkawaii011",
+        "verified": false
+      }
+    ]
+  }
+}

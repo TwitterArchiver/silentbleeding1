@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046990809908879368",
+    "conversation_id": "2066355019474207222",
+    "created_at": "2026-06-15T06:54:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T07:54:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066414043058098623"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1916113741328093187",
+          "start": 0,
+          "username": "0nemoresec"
+        },
+        {
+          "end": 21,
+          "id": "2057729979677548544",
+          "start": 12,
+          "username": "Numiouoo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066414043058098623",
+    "in_reply_to_user_id": "1916113741328093187",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066411007627624468",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0nemoresec @Numiouoo 港美要处方吗（\n还是说可以直接购入"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046990809908879368",
+        "conversation_id": "2066355019474207222",
+        "created_at": "2026-06-15T06:54:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T07:54:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066414043058098623"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1916113741328093187",
+              "start": 0,
+              "username": "0nemoresec"
+            },
+            {
+              "end": 21,
+              "id": "2057729979677548544",
+              "start": 12,
+              "username": "Numiouoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066414043058098623",
+        "in_reply_to_user_id": "1916113741328093187",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066411007627624468",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0nemoresec @Numiouoo 港美要处方吗（\n还是说可以直接购入"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1916113741328093187",
+        "conversation_id": "2066355019474207222",
+        "created_at": "2026-06-15T06:42:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T07:42:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066411007627624468"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2057729979677548544",
+              "start": 0,
+              "username": "Numiouoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066411007627624468",
+        "in_reply_to_user_id": "2057729979677548544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066355019474207222",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Numiouoo 卧槽我也马上要去香港准备买 看评论哭了😭感觉好难买"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-22T16:36:22.000Z",
+        "description": "前世@Lizzy_522 \n08 he/they enby.双相、焦虑症正在治疗。烟鬼、酗酒、#shtwt、#odtwt。成分复杂，公路车，日本文学/拉康精神分析，钢琴，硬/前卫/蓝调/独立摇滚，负能，日常发神经吐苦水，友所有群体，查成分回fo。里推@pillsandblood",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 53,
+                "start": 47,
+                "tag": "shtwt"
+              },
+              {
+                "end": 60,
+                "start": 54,
+                "tag": "odtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "Lizzy_522"
+              },
+              {
+                "end": 139,
+                "start": 125,
+                "username": "pillsandblood"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizzy_522",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizzy_522",
+                "start": 0,
+                "url": "https://t.co/AQMnPR82BG"
+              }
+            ]
+          }
+        },
+        "id": "2046990809908879368",
+        "name": "リジー",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060729372013895680/wVCe3wl1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 511,
+          "following_count": 433,
+          "like_count": 4441,
+          "listed_count": 0,
+          "media_count": 88,
+          "tweet_count": 1232
+        },
+        "url": "https://t.co/AQMnPR82BG",
+        "username": "silentbleeding1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-26T12:54:58.000Z",
+        "description": "面点师\n匿名信/树洞 https://t.co/dAFmIPsROM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/0nemoresec",
+                "end": 34,
+                "expanded_url": "https://ngl.link/0nemoresec",
+                "start": 11,
+                "url": "https://t.co/dAFmIPsROM"
+              }
+            ]
+          }
+        },
+        "id": "1916113741328093187",
+        "location": "空白",
+        "name": "000",
+        "pinned_tweet_id": "2055873293044043893",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063212015276232704/wKzUSuMr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 145,
+          "like_count": 2681,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 1111
+        },
+        "username": "0nemoresec",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护大家🩷爱与和平🩷偏爱:@jiuyouforwhite\n疯狗神经病绝赞死毒虫🩵Sex&Drug&Harm激推🩵互动查成分感兴趣的互fo(互关重生直接d我!)🩵我素non-binary 友跨友全部 🩵请勿私信⚠️⚠️⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 15,
+                "username": "jiuyouforwhite"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1197,
+          "following_count": 880,
+          "like_count": 2350,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 1760
+        },
+        "username": "Numiouoo",
+        "verified": false
+      }
+    ]
+  }
+}

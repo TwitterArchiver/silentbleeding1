@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065255374593380353"
+      ],
+      "media_source_tweet_id": [
+        "2065255390770786789"
+      ]
+    },
+    "author_id": "2046990809908879368",
+    "conversation_id": "2079208444603797853",
+    "created_at": "2026-07-20T14:14:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T15:14:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079208444603797853"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2058944024078409728",
+          "start": 3,
+          "username": "Suhdhhxdmo"
+        },
+        {
+          "end": 33,
+          "id": "2030304451127631872",
+          "start": 26,
+          "username": "foanax"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Yf8YjuuGgZ",
+          "end": 57,
+          "expanded_url": "https://x.com/Suhdhhxdmo/status/2065255390770786789/photo/1",
+          "media_key": "3_2065255374593380353",
+          "start": 34,
+          "url": "https://t.co/Yf8YjuuGgZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079208444603797853",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065255390770786789",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Suhdhhxdmo: 简简单单招个魂。前世@foanax https://t.co/Yf8YjuuGgZ"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [foanax].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "foanax",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "foanax"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2065255374593380353",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKlC0i0a0AEZu34.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065255374593380353"
+          ]
+        },
+        "author_id": "2058944024078409728",
+        "conversation_id": "2065255390770786789",
+        "created_at": "2026-06-12T02:10:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T03:10:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065255390770786789"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2030304451127631872",
+              "start": 10,
+              "username": "foanax"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Yf8YjuuGgZ",
+              "end": 41,
+              "expanded_url": "https://x.com/Suhdhhxdmo/status/2065255390770786789/photo/1",
+              "media_key": "3_2065255374593380353",
+              "start": 18,
+              "url": "https://t.co/Yf8YjuuGgZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065255390770786789",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 5325,
+          "like_count": 10,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "简简单单招个魂。前世@foanax https://t.co/Yf8YjuuGgZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065255374593380353"
+          ],
+          "media_source_tweet_id": [
+            "2065255390770786789"
+          ]
+        },
+        "author_id": "2046990809908879368",
+        "conversation_id": "2079208444603797853",
+        "created_at": "2026-07-20T14:14:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T15:14:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079208444603797853"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2058944024078409728",
+              "start": 3,
+              "username": "Suhdhhxdmo"
+            },
+            {
+              "end": 33,
+              "id": "2030304451127631872",
+              "start": 26,
+              "username": "foanax"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Yf8YjuuGgZ",
+              "end": 57,
+              "expanded_url": "https://x.com/Suhdhhxdmo/status/2065255390770786789/photo/1",
+              "media_key": "3_2065255374593380353",
+              "start": 34,
+              "url": "https://t.co/Yf8YjuuGgZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079208444603797853",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065255390770786789",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Suhdhhxdmo: 简简单单招个魂。前世@foanax https://t.co/Yf8YjuuGgZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-22T16:36:22.000Z",
+        "description": "前世@Lizzy_522 \nhe/they bpd。 #shtwt、#odtwt。喜各类摇滚和cult，每日高强度冲浪中。负能，日常吐苦水，友所有群体，迪哥们来找我互fo。里推@pillsandblood\n引路人@KKKaoru_",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 33,
+                "start": 27,
+                "tag": "shtwt"
+              },
+              {
+                "end": 40,
+                "start": 34,
+                "tag": "odtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "Lizzy_522"
+              },
+              {
+                "end": 102,
+                "start": 88,
+                "username": "pillsandblood"
+              },
+              {
+                "end": 115,
+                "start": 106,
+                "username": "KKKaoru_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizzy_5221",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizzy_5221",
+                "start": 0,
+                "url": "https://t.co/TdKmbtj5RY"
+              }
+            ]
+          }
+        },
+        "id": "2046990809908879368",
+        "name": "リジー",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060729372013895680/wVCe3wl1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 614,
+          "following_count": 510,
+          "like_count": 7575,
+          "listed_count": 1,
+          "media_count": 179,
+          "tweet_count": 2120
+        },
+        "url": "https://t.co/TdKmbtj5RY",
+        "username": "silentbleeding1",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-25T16:11:54.000Z",
+        "description": "重生。",
+        "id": "2058944024078409728",
+        "name": "骂我的没妈我骂的没妈。",
+        "pinned_tweet_id": "2065255390770786789",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065254202356695041/Z1wu6Ia9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 27,
+          "like_count": 9,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 93
+        },
+        "url": "",
+        "username": "Suhdhhxdmo",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046990809908879368",
+    "conversation_id": "2064532770974773561",
+    "created_at": "2026-06-10T04:15:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T05:15:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064562134059724947"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2054568943256485888",
+          "start": 0,
+          "username": "Riafixcom"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064562134059724947",
+    "in_reply_to_user_id": "2054568943256485888",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064548505361007030",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Riafixcom 🕯️🕯️"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2064548505361007030].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2064548505361007030",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2064548505361007030"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046990809908879368",
+        "conversation_id": "2064532770974773561",
+        "created_at": "2026-06-10T04:15:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T05:15:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064562134059724947"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2054568943256485888",
+              "start": 0,
+              "username": "Riafixcom"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064562134059724947",
+        "in_reply_to_user_id": "2054568943256485888",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064548505361007030",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Riafixcom 🕯️🕯️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-22T16:36:22.000Z",
+        "description": "前世@Lizzy_522 \n08 he/they enby.双相、焦虑症正在治疗。烟鬼、酗酒、#shtwt、#odtwt。成分复杂，公路车，日本文学/拉康精神分析，钢琴，硬/前卫/蓝调/独立摇滚，负能，日常发神经吐苦水，友所有群体，查成分回fo。里推@pillsandblood",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 53,
+                "start": 47,
+                "tag": "shtwt"
+              },
+              {
+                "end": 60,
+                "start": 54,
+                "tag": "odtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "Lizzy_522"
+              },
+              {
+                "end": 139,
+                "start": 125,
+                "username": "pillsandblood"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizzy_522",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizzy_522",
+                "start": 0,
+                "url": "https://t.co/AQMnPR82BG"
+              }
+            ]
+          }
+        },
+        "id": "2046990809908879368",
+        "name": "リジー",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060729372013895680/wVCe3wl1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 494,
+          "following_count": 421,
+          "like_count": 4028,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 1076
+        },
+        "url": "https://t.co/AQMnPR82BG",
+        "username": "silentbleeding1",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-13T14:27:14.000Z",
+        "description": "很神秘",
+        "id": "2054568943256485888",
+        "name": "利亚的里推",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061122317187710976/0RKDvIGL_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 37,
+          "like_count": 103,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 60
+        },
+        "username": "Riafixcom",
+        "verified": false
+      }
+    ]
+  }
+}

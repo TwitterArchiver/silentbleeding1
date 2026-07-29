@@ -1,0 +1,328 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053188464859049985"
+      ],
+      "media_source_tweet_id": [
+        "2053188472073281774"
+      ]
+    },
+    "author_id": "2046990809908879368",
+    "conversation_id": "2053309021411737828",
+    "created_at": "2026-05-10T02:59:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T03:59:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053309021411737828"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2052760341411708928",
+          "start": 3,
+          "username": "Sui17171Fei"
+        },
+        {
+          "end": 34,
+          "id": "1820207828931424256",
+          "start": 22,
+          "username": "neko0202002"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/nSs1HyOtxy",
+          "end": 122,
+          "expanded_url": "https://x.com/Sui17171Fei/status/2053188472073281774/photo/1",
+          "media_key": "3_2053188464859049985",
+          "start": 99,
+          "url": "https://t.co/nSs1HyOtxy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053309021411737828",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053188472073281774",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Sui17171Fei: 你好，我是@neko0202002 姐妹账号妃宫千岁，小千早账号目前被封，相关知识可以来询问妃宫千岁，有小千早列表的话请转发，我不想失去我的朋友，千岁会感谢你们的 https://t.co/nSs1HyOtxy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2053188464859049985",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH5kB9DacAEJ-bR.jpg",
+        "width": 944
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053188464859049985"
+          ],
+          "media_source_tweet_id": [
+            "2053188472073281774"
+          ]
+        },
+        "author_id": "2046990809908879368",
+        "conversation_id": "2053309021411737828",
+        "created_at": "2026-05-10T02:59:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T03:59:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053309021411737828"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2052760341411708928",
+              "start": 3,
+              "username": "Sui17171Fei"
+            },
+            {
+              "end": 34,
+              "id": "1820207828931424256",
+              "start": 22,
+              "username": "neko0202002"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nSs1HyOtxy",
+              "end": 122,
+              "expanded_url": "https://x.com/Sui17171Fei/status/2053188472073281774/photo/1",
+              "media_key": "3_2053188464859049985",
+              "start": 99,
+              "url": "https://t.co/nSs1HyOtxy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053309021411737828",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053188472073281774",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Sui17171Fei: 你好，我是@neko0202002 姐妹账号妃宫千岁，小千早账号目前被封，相关知识可以来询问妃宫千岁，有小千早列表的话请转发，我不想失去我的朋友，千岁会感谢你们的 https://t.co/nSs1HyOtxy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053188464859049985"
+          ]
+        },
+        "author_id": "2052760341411708928",
+        "conversation_id": "2053188472073281774",
+        "created_at": "2026-05-09T19:00:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T20:00:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053188472073281774"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1820207828931424256",
+              "start": 5,
+              "username": "neko0202002"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nSs1HyOtxy",
+              "end": 105,
+              "expanded_url": "https://x.com/Sui17171Fei/status/2053188472073281774/photo/1",
+              "media_key": "3_2053188464859049985",
+              "start": 82,
+              "url": "https://t.co/nSs1HyOtxy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053188472073281774",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 311,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "你好，我是@neko0202002 姐妹账号妃宫千岁，小千早账号目前被封，相关知识可以来询问妃宫千岁，有小千早列表的话请转发，我不想失去我的朋友，千岁会感谢你们的 https://t.co/nSs1HyOtxy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-22T16:36:22.000Z",
+        "description": "08 he/they enby.双相、焦虑症正在治疗。烟鬼、酗酒、#shtwt、#odtwt。成分复杂，日本文学/拉康精神分析，钢琴，硬/前卫/蓝调/独立摇滚…虚无主义重建欲望中…负能，日常发神经吐苦水，友所有群体，查成分回fo。永远怀念——我的上一世@Lizzy_522 里推@pillsandblood",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 39,
+                "start": 33,
+                "tag": "shtwt"
+              },
+              {
+                "end": 46,
+                "start": 40,
+                "tag": "odtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 136,
+                "start": 126,
+                "username": "Lizzy_522"
+              },
+              {
+                "end": 153,
+                "start": 139,
+                "username": "pillsandblood"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizzy_522",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizzy_522",
+                "start": 0,
+                "url": "https://t.co/AQMnPR82BG"
+              }
+            ]
+          }
+        },
+        "id": "2046990809908879368",
+        "name": "リジー",
+        "pinned_tweet_id": "2051150939533590911",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047319984494534656/-SRMKdXI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 361,
+          "following_count": 332,
+          "like_count": 1345,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 307
+        },
+        "url": "https://t.co/AQMnPR82BG",
+        "username": "silentbleeding1",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-08T14:39:47.000Z",
+        "description": "是千早的姐姐大人千岁/药理学习中/可以称为千岁/心理学重度依赖/魔法少女千岁/LGBT全友好/提供自杀干预思路详解",
+        "id": "2052760341411708928",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2053188472073281774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053203840141500416/0ozHzqR0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 127,
+          "like_count": 16,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 27
+        },
+        "username": "Sui17171Fei",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "药理学习中/可以称为千早/心理学重度依赖/魔法少女千早/LGBT全友好/请和我做朋友ᗜ𖥦ᗜ✝︎/可提供心理问题咨询思路解决方案",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 721,
+          "following_count": 959,
+          "like_count": 1573,
+          "listed_count": 2,
+          "media_count": 1388,
+          "tweet_count": 3897
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046990809908879368",
+    "conversation_id": "2079432090039591188",
+    "created_at": "2026-07-21T17:29:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T18:29:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079619817276100790"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1211485046680350720",
+          "start": 0,
+          "username": "kabadjafode1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079619817276100790",
+    "in_reply_to_user_id": "1211485046680350720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079619343567171720",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kabadjafode1 我已经联系邦尼兔他派人去挖走了😭\n实在找不到不然是可以"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046990809908879368",
+        "conversation_id": "2079432090039591188",
+        "created_at": "2026-07-21T17:29:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T18:29:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079619817276100790"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1211485046680350720",
+              "start": 0,
+              "username": "kabadjafode1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079619817276100790",
+        "in_reply_to_user_id": "1211485046680350720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079619343567171720",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kabadjafode1 我已经联系邦尼兔他派人去挖走了😭\n实在找不到不然是可以"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1211485046680350720",
+        "conversation_id": "2079432090039591188",
+        "created_at": "2026-07-21T17:27:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T18:27:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079619343567171720"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2046990809908879368",
+              "start": 0,
+              "username": "silentbleeding1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079619343567171720",
+        "in_reply_to_user_id": "2046990809908879368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079432090039591188",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@silentbleeding1 我飞到上海帮你 能不能给我抽一口🥹😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-22T16:36:22.000Z",
+        "description": "前世@Lizzy_522 \nhe/they bpd。 #shtwt、#odtwt。喜各类摇滚和cult，每日高强度冲浪中。负能，日常吐苦水，友所有群体，迪哥们来找我互fo。里推@pillsandblood\n引路人@KKKaoru_",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 33,
+                "start": 27,
+                "tag": "shtwt"
+              },
+              {
+                "end": 40,
+                "start": 34,
+                "tag": "odtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "Lizzy_522"
+              },
+              {
+                "end": 102,
+                "start": 88,
+                "username": "pillsandblood"
+              },
+              {
+                "end": 115,
+                "start": 106,
+                "username": "KKKaoru_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizzy_5221",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizzy_5221",
+                "start": 0,
+                "url": "https://t.co/TdKmbtj5RY"
+              }
+            ]
+          }
+        },
+        "id": "2046990809908879368",
+        "name": "リジー",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060729372013895680/wVCe3wl1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 615,
+          "following_count": 507,
+          "like_count": 7644,
+          "listed_count": 1,
+          "media_count": 182,
+          "tweet_count": 2139
+        },
+        "url": "https://t.co/TdKmbtj5RY",
+        "username": "silentbleeding1",
+        "verified": false
+      },
+      {
+        "created_at": "2019-12-30T03:12:12.000Z",
+        "description": "我是小叶 08年 坐标深圳 接广东 香港 爸爸活全国可✈️🚪52 188🚪288🚪520 🚪1314只回复口",
+        "id": "1211485046680350720",
+        "name": "言叶",
+        "pinned_tweet_id": "2063651863166435610",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040701386036559872/FnIIwp1u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1387,
+          "following_count": 191,
+          "like_count": 677,
+          "listed_count": 1,
+          "media_count": 145,
+          "tweet_count": 428
+        },
+        "url": "",
+        "username": "kabadjafode1",
+        "verified": false
+      }
+    ]
+  }
+}

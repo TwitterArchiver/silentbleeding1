@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046990809908879368",
+    "conversation_id": "2052775658514956716",
+    "created_at": "2026-05-09T07:03:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T08:03:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053007819427967262"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2032985503621095424",
+          "start": 0,
+          "username": "jianxiexingnb"
+        },
+        {
+          "end": 29,
+          "id": "2052771960225243136",
+          "start": 15,
+          "username": "pillsandblood"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053007819427967262",
+    "in_reply_to_user_id": "2032985503621095424",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053001996245110847",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jianxiexingnb @pillsandblood 抱抱你🫂😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046990809908879368",
+        "conversation_id": "2052775658514956716",
+        "created_at": "2026-05-09T07:03:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T08:03:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053007819427967262"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2032985503621095424",
+              "start": 0,
+              "username": "jianxiexingnb"
+            },
+            {
+              "end": 29,
+              "id": "2052771960225243136",
+              "start": 15,
+              "username": "pillsandblood"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053007819427967262",
+        "in_reply_to_user_id": "2032985503621095424",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053001996245110847",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jianxiexingnb @pillsandblood 抱抱你🫂😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032985503621095424",
+        "conversation_id": "2052775658514956716",
+        "created_at": "2026-05-09T06:39:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T07:39:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053001996245110847"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2046990809908879368",
+              "start": 0,
+              "username": "silentbleeding1"
+            },
+            {
+              "end": 31,
+              "id": "2052771960225243136",
+              "start": 17,
+              "username": "pillsandblood"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053001996245110847",
+        "in_reply_to_user_id": "2046990809908879368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052775658514956716",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@silentbleeding1 @pillsandblood 宝宝我抱抱你呀🫂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-22T16:36:22.000Z",
+        "description": "08 he/they enby.双相、焦虑症正在治疗。烟鬼、酗酒、#shtwt、#odtwt。成分复杂，日本文学/拉康精神分析，钢琴，硬/前卫/蓝调/独立摇滚…虚无主义重建欲望中…负能，日常发神经吐苦水，友所有群体，查成分回fo。永远怀念——我的上一世@Lizzy_522 里推@pillsandblood",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 39,
+                "start": 33,
+                "tag": "shtwt"
+              },
+              {
+                "end": 46,
+                "start": 40,
+                "tag": "odtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 136,
+                "start": 126,
+                "username": "Lizzy_522"
+              },
+              {
+                "end": 153,
+                "start": 139,
+                "username": "pillsandblood"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizzy_522",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizzy_522",
+                "start": 0,
+                "url": "https://t.co/AQMnPR82BG"
+              }
+            ]
+          }
+        },
+        "id": "2046990809908879368",
+        "name": "リジー 2.0（推友寻回中）",
+        "pinned_tweet_id": "2051150939533590911",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047319984494534656/-SRMKdXI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 348,
+          "following_count": 323,
+          "like_count": 1191,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 272
+        },
+        "url": "https://t.co/AQMnPR82BG",
+        "username": "silentbleeding1",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-15T01:01:43.000Z",
+        "description": "间歇性 叫我墨水和🦭都可以/女♀️/10高中/双相I型/od/不🩸🔪/无性恋/超级喜欢互动/全性别友好/文艺逼/同类互fo✧٩(ˊωˋ*)و✧/\n可以私信我做心理（自杀）干预",
+        "id": "2032985503621095424",
+        "location": "超脱于宇宙之外",
+        "name": "间歇性🦭",
+        "pinned_tweet_id": "2045371368074809756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037783078467407873/9evMmAS5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 87,
+          "like_count": 114,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 272
+        },
+        "username": "jianxiexingnb",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-08T15:28:41.000Z",
+        "description": "",
+        "id": "2052771960225243136",
+        "name": "リジー 3.0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052772785924325377/dHgDDj-E_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 55,
+          "like_count": 28,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 16
+        },
+        "username": "pillsandblood",
+        "verified": false
+      }
+    ]
+  }
+}

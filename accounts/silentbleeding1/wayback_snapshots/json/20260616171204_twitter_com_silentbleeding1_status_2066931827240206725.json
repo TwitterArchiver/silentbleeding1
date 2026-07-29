@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046990809908879368",
+    "conversation_id": "2066870058945773930",
+    "created_at": "2026-06-16T17:12:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T18:12:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066931827240206725"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2054568943256485888",
+          "start": 0,
+          "username": "Riafixcom"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066931827240206725",
+    "in_reply_to_user_id": "2054568943256485888",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066931303593939171",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Riafixcom 我觉得就这样青绿色好好看🤤🤤反倒是纯蓝和纯绿没那么漂亮"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2066931303593939171].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2066931303593939171",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2066931303593939171"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046990809908879368",
+        "conversation_id": "2066870058945773930",
+        "created_at": "2026-06-16T17:12:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T18:12:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066931827240206725"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2054568943256485888",
+              "start": 0,
+              "username": "Riafixcom"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066931827240206725",
+        "in_reply_to_user_id": "2054568943256485888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066931303593939171",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Riafixcom 我觉得就这样青绿色好好看🤤🤤反倒是纯蓝和纯绿没那么漂亮"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-22T16:36:22.000Z",
+        "description": "前世@Lizzy_522 \n08 he/they enby.双相、焦虑症正在治疗。烟鬼、酗酒、#shtwt、#odtwt。成分复杂，公路车，日本文学/拉康精神分析，钢琴，硬/前卫/蓝调/独立摇滚，负能，日常发神经吐苦水，友所有群体，查成分回fo。里推@pillsandblood",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 53,
+                "start": 47,
+                "tag": "shtwt"
+              },
+              {
+                "end": 60,
+                "start": 54,
+                "tag": "odtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "Lizzy_522"
+              },
+              {
+                "end": 139,
+                "start": 125,
+                "username": "pillsandblood"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizzy_522",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizzy_522",
+                "start": 0,
+                "url": "https://t.co/AQMnPR82BG"
+              }
+            ]
+          }
+        },
+        "id": "2046990809908879368",
+        "name": "リジー",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060729372013895680/wVCe3wl1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 515,
+          "following_count": 440,
+          "like_count": 4655,
+          "listed_count": 0,
+          "media_count": 92,
+          "tweet_count": 1295
+        },
+        "url": "https://t.co/AQMnPR82BG",
+        "username": "silentbleeding1",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-13T14:27:14.000Z",
+        "description": "我要回我的小西天\n\n为什么中国的种姓制度如此残酷？🥺🥺",
+        "id": "2054568943256485888",
+        "name": "利亚鳄鱼韩民族解放军强势归来🐊🇮🇱看二元性别土崩瓦解🇺🇦骚人妖的时代就要到来🇺🇸🗽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066407413344075776/x6WnmNQd_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 34,
+          "like_count": 397,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 342
+        },
+        "username": "Riafixcom",
+        "verified": false
+      }
+    ]
+  }
+}

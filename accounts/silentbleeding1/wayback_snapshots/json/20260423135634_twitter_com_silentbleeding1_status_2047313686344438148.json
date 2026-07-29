@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047313632162443265"
+      ]
+    },
+    "author_id": "2046990809908879368",
+    "conversation_id": "2047313686344438148",
+    "created_at": "2026-04-23T13:56:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T14:56:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047313686344438148"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1886289385177669632",
+          "start": 6,
+          "username": "Lizzy_522"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/n0fycPPlbu",
+          "end": 56,
+          "expanded_url": "https://x.com/silentbleeding1/status/2047313686344438148/photo/1",
+          "media_key": "3_2047313632162443265",
+          "start": 33,
+          "url": "https://t.co/n0fycPPlbu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047313686344438148",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "大号真被封了@Lizzy_522 \n前世互关帮我转转帖😭感激不尽 https://t.co/n0fycPPlbu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2047313632162443265",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGmE5rzbcAEZaec.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047313632162443265"
+          ]
+        },
+        "author_id": "2046990809908879368",
+        "conversation_id": "2047313686344438148",
+        "created_at": "2026-04-23T13:56:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T14:56:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047313686344438148"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1886289385177669632",
+              "start": 6,
+              "username": "Lizzy_522"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/n0fycPPlbu",
+              "end": 56,
+              "expanded_url": "https://x.com/silentbleeding1/status/2047313686344438148/photo/1",
+              "media_key": "3_2047313632162443265",
+              "start": 33,
+              "url": "https://t.co/n0fycPPlbu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047313686344438148",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大号真被封了@Lizzy_522 \n前世互关帮我转转帖😭感激不尽 https://t.co/n0fycPPlbu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-22T16:36:22.000Z",
+        "description": "自残磕药发颠支黑负能号，关注请求会慢慢通过，怕被限关注…",
+        "id": "2046990809908879368",
+        "name": "Lizzy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046991779866857472/235J5XiE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 18,
+          "like_count": 9,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 4
+        },
+        "username": "silentbleeding1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-03T05:43:38.000Z",
+        "description": "08 he/they enby.双相、焦虑症正在治疗。烟鬼、酗酒、磕药蛆戒割中。成分复杂，钢琴，硬摇滚、前卫摇滚、独立摇滚、jpop…负能，日常发神经吐苦水，友所有群体，查成分回fo。 现生认识的刷到我请自行绕道。血图见里推@silentbleeding1骚逼@KKKaoru_异父异母的弟弟@yu_huacs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 128,
+                "start": 112,
+                "username": "silentbleeding1"
+              },
+              {
+                "end": 139,
+                "start": 130,
+                "username": "KKKaoru_"
+              },
+              {
+                "end": 155,
+                "start": 146,
+                "username": "yu_huacs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizzy_522",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizzy_522",
+                "start": 0,
+                "url": "https://t.co/RDVwBMCX6v"
+              }
+            ]
+          }
+        },
+        "id": "1886289385177669632",
+        "name": "リジー",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997491540915294208/kFKVZs05_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 498,
+          "following_count": 422,
+          "like_count": 22224,
+          "listed_count": 0,
+          "media_count": 291,
+          "tweet_count": 3517
+        },
+        "url": "https://t.co/RDVwBMCX6v",
+        "username": "Lizzy_522",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046990809908879368",
+    "conversation_id": "2053122352779837637",
+    "created_at": "2026-05-10T05:01:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T06:01:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053339669606318273"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1382368172628643845",
+          "start": 0,
+          "username": "Nozomi0891"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053339669606318273",
+    "in_reply_to_user_id": "1382368172628643845",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053330661222883585",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nozomi0891 这我老公🤤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046990809908879368",
+        "conversation_id": "2053122352779837637",
+        "created_at": "2026-05-10T05:01:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T06:01:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053339669606318273"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1382368172628643845",
+              "start": 0,
+              "username": "Nozomi0891"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053339669606318273",
+        "in_reply_to_user_id": "1382368172628643845",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053330661222883585",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nozomi0891 这我老公🤤"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1382368172628643845",
+        "conversation_id": "2053122352779837637",
+        "created_at": "2026-05-10T04:25:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T05:25:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053330661222883585"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2046990809908879368",
+              "start": 0,
+              "username": "silentbleeding1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053330661222883585",
+        "in_reply_to_user_id": "2046990809908879368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053122352779837637",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@silentbleeding1 吉姆莫里森怎么也在"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-22T16:36:22.000Z",
+        "description": "08 he/they enby.双相、焦虑症正在治疗。烟鬼、酗酒、#shtwt、#odtwt。成分复杂，日本文学/拉康精神分析，钢琴，硬/前卫/蓝调/独立摇滚，虚无主义重建欲望中…负能，日常发神经吐苦水，友所有群体，查成分回fo。前世@Lizzy_522 里推@pillsandblood",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 39,
+                "start": 33,
+                "tag": "shtwt"
+              },
+              {
+                "end": 46,
+                "start": 40,
+                "tag": "odtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 127,
+                "start": 117,
+                "username": "Lizzy_522"
+              },
+              {
+                "end": 144,
+                "start": 130,
+                "username": "pillsandblood"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizzy_522",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizzy_522",
+                "start": 0,
+                "url": "https://t.co/AQMnPR82BG"
+              }
+            ]
+          }
+        },
+        "id": "2046990809908879368",
+        "name": "リジー",
+        "pinned_tweet_id": "2051150939533590911",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047319984494534656/-SRMKdXI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 363,
+          "following_count": 334,
+          "like_count": 1442,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 316
+        },
+        "url": "https://t.co/AQMnPR82BG",
+        "username": "silentbleeding1",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-14T16:20:42.000Z",
+        "description": "",
+        "id": "1382368172628643845",
+        "name": "小望",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047863762124967936/uixQS6xk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 81,
+          "like_count": 757,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 286
+        },
+        "username": "Nozomi0891",
+        "verified": false
+      }
+    ]
+  }
+}

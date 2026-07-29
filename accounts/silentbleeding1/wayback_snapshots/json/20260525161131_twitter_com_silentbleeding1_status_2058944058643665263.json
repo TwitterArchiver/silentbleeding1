@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046990809908879368",
+    "conversation_id": "2058936607147958305",
+    "created_at": "2026-05-25T16:11:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T17:11:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058944058643665263"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2033556052650975232",
+          "start": 0,
+          "username": "Ride_8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058944058643665263",
+    "in_reply_to_user_id": "2033556052650975232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058937679618928855",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ride_8964 原来是这样吗w😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046990809908879368",
+        "conversation_id": "2058936607147958305",
+        "created_at": "2026-05-25T16:11:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T17:11:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058944058643665263"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2033556052650975232",
+              "start": 0,
+              "username": "Ride_8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058944058643665263",
+        "in_reply_to_user_id": "2033556052650975232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058937679618928855",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ride_8964 原来是这样吗w😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033556052650975232",
+        "conversation_id": "2058936607147958305",
+        "created_at": "2026-05-25T15:46:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T16:46:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058937679618928855"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2046990809908879368",
+              "start": 0,
+              "username": "silentbleeding1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058937679618928855",
+        "in_reply_to_user_id": "2046990809908879368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058936607147958305",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@silentbleeding1 支国误诊概率很大，cptsd和一些其他的也会算在里面，加上双相debuff和支国低福利因素，无论是不是双相，都应该不要直接诊断为双相"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-22T16:36:22.000Z",
+        "description": "前世@Lizzy_522 \n08 he/they enby.双相、焦虑症正在治疗。烟鬼、酗酒、#shtwt、#odtwt。成分复杂，公路车，日本文学/拉康精神分析，钢琴，硬/前卫/蓝调/独立摇滚，虚无主义重建欲望中…负能，日常发神经吐苦水，友所有群体，查成分回fo。里推@pillsandblood",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 53,
+                "start": 47,
+                "tag": "shtwt"
+              },
+              {
+                "end": 60,
+                "start": 54,
+                "tag": "odtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "Lizzy_522"
+              },
+              {
+                "end": 149,
+                "start": 135,
+                "username": "pillsandblood"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizzy_522",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizzy_522",
+                "start": 0,
+                "url": "https://t.co/AQMnPR82BG"
+              }
+            ]
+          }
+        },
+        "id": "2046990809908879368",
+        "name": "リジー",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047319984494534656/-SRMKdXI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 441,
+          "following_count": 387,
+          "like_count": 2965,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 783
+        },
+        "url": "https://t.co/AQMnPR82BG",
+        "username": "silentbleeding1",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-16T14:48:51.000Z",
+        "description": "",
+        "id": "2033556052650975232",
+        "name": "雷妈妈舒肤佳私生子",
+        "pinned_tweet_id": "2057485048388243570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054892475215749120/E3G8nEsa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 282,
+          "following_count": 145,
+          "like_count": 32930,
+          "listed_count": 0,
+          "media_count": 185,
+          "tweet_count": 7455
+        },
+        "username": "Ride_8964",
+        "verified": false
+      }
+    ]
+  }
+}

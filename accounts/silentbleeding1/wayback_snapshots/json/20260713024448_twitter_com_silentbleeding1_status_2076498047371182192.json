@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046990809908879368",
+    "conversation_id": "2076333965930344715",
+    "created_at": "2026-07-13T02:44:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T03:44:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076498047371182192"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1991520340250681345",
+          "start": 0,
+          "username": "pray444peace_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076498047371182192",
+    "in_reply_to_user_id": "1991520340250681345",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076496661497655423",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pray444peace_ 😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046990809908879368",
+        "conversation_id": "2076333965930344715",
+        "created_at": "2026-07-13T02:44:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T03:44:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076498047371182192"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1991520340250681345",
+              "start": 0,
+              "username": "pray444peace_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076498047371182192",
+        "in_reply_to_user_id": "1991520340250681345",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076496661497655423",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pray444peace_ 😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991520340250681345",
+        "conversation_id": "2076333965930344715",
+        "created_at": "2026-07-13T02:39:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T03:39:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076496661497655423"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2046990809908879368",
+              "start": 0,
+              "username": "silentbleeding1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076496661497655423",
+        "in_reply_to_user_id": "2046990809908879368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076333965930344715",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@silentbleeding1 这集帅了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-22T16:36:22.000Z",
+        "description": "前世@Lizzy_522 \n08 he/they bpd。 #shtwt、#odtwt。喜欢各类摇滚和cult，每日高强度冲浪中。负能，日常吐苦水，友所有群体，迪哥们来找我互fo。里推@pillsandblood\n引路人@KKKaoru_",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 36,
+                "start": 30,
+                "tag": "shtwt"
+              },
+              {
+                "end": 43,
+                "start": 37,
+                "tag": "odtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "Lizzy_522"
+              },
+              {
+                "end": 106,
+                "start": 92,
+                "username": "pillsandblood"
+              },
+              {
+                "end": 119,
+                "start": 110,
+                "username": "KKKaoru_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizzy_5221",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizzy_5221",
+                "start": 0,
+                "url": "https://t.co/TdKmbtj5RY"
+              }
+            ]
+          }
+        },
+        "id": "2046990809908879368",
+        "name": "リジー",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060729372013895680/wVCe3wl1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 595,
+          "following_count": 500,
+          "like_count": 7185,
+          "listed_count": 0,
+          "media_count": 171,
+          "tweet_count": 2029
+        },
+        "url": "https://t.co/TdKmbtj5RY",
+        "username": "silentbleeding1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-20T14:53:55.000Z",
+        "description": "小天使不说一句话",
+        "id": "1991520340250681345",
+        "location": "mazel tov",
+        "name": "和平天使不會死",
+        "pinned_tweet_id": "2075947791898272130",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063286188199600128/d5Q9iImS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 304,
+          "following_count": 52,
+          "like_count": 2259,
+          "listed_count": 0,
+          "media_count": 178,
+          "tweet_count": 1181
+        },
+        "url": "",
+        "username": "pray444peace_",
+        "verified": false
+      }
+    ]
+  }
+}

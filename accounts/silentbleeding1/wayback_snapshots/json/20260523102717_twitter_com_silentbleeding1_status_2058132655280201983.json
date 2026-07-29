@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2058132643016052736",
+        "3_2058132642982412288"
+      ]
+    },
+    "author_id": "2046990809908879368",
+    "conversation_id": "2058132655280201983",
+    "created_at": "2026-05-23T10:27:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T11:27:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058132655280201983"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/W5XTqFA10x",
+          "end": 31,
+          "expanded_url": "https://x.com/silentbleeding1/status/2058132655280201983/photo/1",
+          "media_key": "3_2058132643016052736",
+          "start": 8,
+          "url": "https://t.co/W5XTqFA10x"
+        },
+        {
+          "display_url": "pic.x.com/W5XTqFA10x",
+          "end": 31,
+          "expanded_url": "https://x.com/silentbleeding1/status/2058132655280201983/photo/1",
+          "media_key": "3_2058132642982412288",
+          "start": 8,
+          "url": "https://t.co/W5XTqFA10x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058132655280201983",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "语言的艺术，， https://t.co/W5XTqFA10x"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2058132643016052736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI_0u_-bkAA1Wz_.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2058132642982412288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI_0u_2aQAA4FHR.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058132643016052736",
+            "3_2058132642982412288"
+          ]
+        },
+        "author_id": "2046990809908879368",
+        "conversation_id": "2058132655280201983",
+        "created_at": "2026-05-23T10:27:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T11:27:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058132655280201983"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/W5XTqFA10x",
+              "end": 31,
+              "expanded_url": "https://x.com/silentbleeding1/status/2058132655280201983/photo/1",
+              "media_key": "3_2058132643016052736",
+              "start": 8,
+              "url": "https://t.co/W5XTqFA10x"
+            },
+            {
+              "display_url": "pic.x.com/W5XTqFA10x",
+              "end": 31,
+              "expanded_url": "https://x.com/silentbleeding1/status/2058132655280201983/photo/1",
+              "media_key": "3_2058132642982412288",
+              "start": 8,
+              "url": "https://t.co/W5XTqFA10x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058132655280201983",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "语言的艺术，， https://t.co/W5XTqFA10x"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-22T16:36:22.000Z",
+        "description": "前世@Lizzy_522 \n08 he/they enby.双相、焦虑症正在治疗。烟鬼、酗酒、#shtwt、#odtwt。成分复杂，公路车，日本文学/拉康精神分析，钢琴，硬/前卫/蓝调/独立摇滚，虚无主义重建欲望中…负能，日常发神经吐苦水，友所有群体，查成分回fo。里推@pillsandblood",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 53,
+                "start": 47,
+                "tag": "shtwt"
+              },
+              {
+                "end": 60,
+                "start": 54,
+                "tag": "odtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "Lizzy_522"
+              },
+              {
+                "end": 149,
+                "start": 135,
+                "username": "pillsandblood"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizzy_522",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizzy_522",
+                "start": 0,
+                "url": "https://t.co/AQMnPR82BG"
+              }
+            ]
+          }
+        },
+        "id": "2046990809908879368",
+        "name": "リジー",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047319984494534656/-SRMKdXI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 439,
+          "following_count": 389,
+          "like_count": 2791,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 720
+        },
+        "url": "https://t.co/AQMnPR82BG",
+        "username": "silentbleeding1",
+        "verified": false
+      }
+    ]
+  }
+}

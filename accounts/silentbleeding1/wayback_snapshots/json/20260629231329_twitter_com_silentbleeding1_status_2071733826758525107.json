@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046990809908879368",
+    "conversation_id": "2071733107452240371",
+    "created_at": "2026-06-29T23:13:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T00:13:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071733826758525107"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1916113741328093187",
+          "start": 0,
+          "username": "0nemoresec"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071733826758525107",
+    "in_reply_to_user_id": "2046990809908879368",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071733107452240371",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0nemoresec 僕ら半分、夢の中、夢の中…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1296,
+        "media_key": "3_2071733099415924736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMBGRwQa8AA95jC.jpg",
+        "width": 1170
+      },
+      {
+        "height": 1443,
+        "media_key": "3_2071733099415871488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMBGRwQaIAAFyTX.jpg",
+        "width": 1205
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046990809908879368",
+        "conversation_id": "2071733107452240371",
+        "created_at": "2026-06-29T23:13:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T00:13:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071733826758525107"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1916113741328093187",
+              "start": 0,
+              "username": "0nemoresec"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071733826758525107",
+        "in_reply_to_user_id": "2046990809908879368",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071733107452240371",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0nemoresec 僕ら半分、夢の中、夢の中…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071733099415924736",
+            "3_2071733099415871488"
+          ]
+        },
+        "author_id": "2046990809908879368",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1420102207756591107",
+              "name": "Fishmans"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1420102207756591107",
+              "name": "Fishmans"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1420102207756591107",
+              "name": "Fishmans"
+            }
+          }
+        ],
+        "conversation_id": "2071733107452240371",
+        "created_at": "2026-06-29T23:10:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T00:10:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071733107452240371"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Kd8pPw0ANw",
+              "end": 154,
+              "expanded_url": "https://x.com/silentbleeding1/status/2071733107452240371/photo/1",
+              "media_key": "3_2071733099415924736",
+              "start": 131,
+              "url": "https://t.co/Kd8pPw0ANw"
+            },
+            {
+              "display_url": "pic.x.com/Kd8pPw0ANw",
+              "end": 154,
+              "expanded_url": "https://x.com/silentbleeding1/status/2071733107452240371/photo/1",
+              "media_key": "3_2071733099415871488",
+              "start": 131,
+              "url": "https://t.co/Kd8pPw0ANw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071733107452240371",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "DAY16:Long Season-Fishmans\n第一部分的歌词真的很美很美…\n紧接着又是梦境一般的意识流，不论歌词还是编曲，都在不断的轮回，层层递进，并且这是我每天晚上睡觉的助眠音乐💤\n男達の別れ这场的即兴更是神中神吧，rym评分最高的现场专辑无需多言… https://t.co/Kd8pPw0ANw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-22T16:36:22.000Z",
+        "description": "前世@Lizzy_522 \n08 he/they enby.双相、焦虑症正在治疗。烟鬼、酗酒、#shtwt、#odtwt。成分复杂，公路车，日本文学/拉康精神分析，钢琴，硬/前卫/蓝调/独立摇滚，负能，日常发神经吐苦水，友所有群体，查成分回fo。里推@pillsandblood",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 53,
+                "start": 47,
+                "tag": "shtwt"
+              },
+              {
+                "end": 60,
+                "start": 54,
+                "tag": "odtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "Lizzy_522"
+              },
+              {
+                "end": 139,
+                "start": 125,
+                "username": "pillsandblood"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizzy_5221",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizzy_5221",
+                "start": 0,
+                "url": "https://t.co/TdKmbtj5RY"
+              }
+            ]
+          }
+        },
+        "id": "2046990809908879368",
+        "name": "リジー",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060729372013895680/wVCe3wl1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 544,
+          "following_count": 459,
+          "like_count": 5959,
+          "listed_count": 0,
+          "media_count": 139,
+          "tweet_count": 1697
+        },
+        "url": "https://t.co/TdKmbtj5RY",
+        "username": "silentbleeding1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-26T12:54:58.000Z",
+        "description": "尸体在说话\n匿名信 https://t.co/dAFmIPsROM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/0nemoresec",
+                "end": 33,
+                "expanded_url": "https://ngl.link/0nemoresec",
+                "start": 10,
+                "url": "https://t.co/dAFmIPsROM"
+              }
+            ]
+          }
+        },
+        "id": "1916113741328093187",
+        "location": "空白",
+        "name": "000",
+        "pinned_tweet_id": "2068352892189438411",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063212015276232704/wKzUSuMr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156,
+          "following_count": 157,
+          "like_count": 2993,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 1318
+        },
+        "url": "",
+        "username": "0nemoresec",
+        "verified": false
+      }
+    ]
+  }
+}

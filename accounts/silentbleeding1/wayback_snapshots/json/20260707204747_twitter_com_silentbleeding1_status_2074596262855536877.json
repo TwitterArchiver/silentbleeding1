@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046990809908879368",
+    "conversation_id": "2074596262855536877",
+    "created_at": "2026-07-07T20:47:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T21:47:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074596262855536877"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/apipleeeee/sta…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/apipleeeee/status/2074044929324855782",
+          "start": 18,
+          "url": "https://t.co/HxBxeRFAKi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074596262855536877",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074044929324855782",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这就是我把dy账号注销的一部分原因 https://t.co/HxBxeRFAKi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2074044919459807232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMh83ZCbAAAf26J.jpg",
+        "width": 940
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046990809908879368",
+        "conversation_id": "2074596262855536877",
+        "created_at": "2026-07-07T20:47:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T21:47:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074596262855536877"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/apipleeeee/sta…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/apipleeeee/status/2074044929324855782",
+              "start": 18,
+              "url": "https://t.co/HxBxeRFAKi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074596262855536877",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074044929324855782",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这就是我把dy账号注销的一部分原因 https://t.co/HxBxeRFAKi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074044919459807232"
+          ]
+        },
+        "author_id": "1905566526595629060",
+        "conversation_id": "2074044929324855782",
+        "created_at": "2026-07-06T08:16:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T09:16:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074044929324855782"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0x6kDQT8Jr",
+              "end": 36,
+              "expanded_url": "https://x.com/Apipleeeee/status/2074044929324855782/photo/1",
+              "media_key": "3_2074044919459807232",
+              "start": 13,
+              "url": "https://t.co/0x6kDQT8Jr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074044929324855782",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 33,
+          "impression_count": 797986,
+          "like_count": 2303,
+          "quote_count": 15,
+          "reply_count": 630,
+          "retweet_count": 48
+        },
+        "reply_settings": "everyone",
+        "text": "。我不想续这种火花说真的 https://t.co/0x6kDQT8Jr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-22T16:36:22.000Z",
+        "description": "前世@Lizzy_522 \n08 he/they bpd。 #shtwt、#odtwt。喜欢各类摇滚和cult，每日高强度冲浪中。负能，日常吐苦水，友所有群体，迪哥们来找我互fo。里推@pillsandblood\n引路人@KKKaoru_",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 36,
+                "start": 30,
+                "tag": "shtwt"
+              },
+              {
+                "end": 43,
+                "start": 37,
+                "tag": "odtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "Lizzy_522"
+              },
+              {
+                "end": 106,
+                "start": 92,
+                "username": "pillsandblood"
+              },
+              {
+                "end": 119,
+                "start": 110,
+                "username": "KKKaoru_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizzy_5221",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizzy_5221",
+                "start": 0,
+                "url": "https://t.co/TdKmbtj5RY"
+              }
+            ]
+          }
+        },
+        "id": "2046990809908879368",
+        "name": "リジー",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060729372013895680/wVCe3wl1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 576,
+          "following_count": 483,
+          "like_count": 6728,
+          "listed_count": 0,
+          "media_count": 156,
+          "tweet_count": 1888
+        },
+        "url": "https://t.co/TdKmbtj5RY",
+        "username": "silentbleeding1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-28T10:24:09.000Z",
+        "description": "be water",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "vpn1.fengniaocloud.top/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://vpn1.fengniaocloud.top/#/register?code=Fs8KeJ0x",
+                "start": 0,
+                "url": "https://t.co/TMmfJOdrNV"
+              }
+            ]
+          }
+        },
+        "id": "1905566526595629060",
+        "name": "苹果",
+        "pinned_tweet_id": "2074421841159237982",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021931545674850304/T1ritExR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13649,
+          "following_count": 1,
+          "like_count": 4259,
+          "listed_count": 36,
+          "media_count": 583,
+          "tweet_count": 1831
+        },
+        "url": "https://t.co/TMmfJOdrNV",
+        "username": "Apipleeeee",
+        "verified": false
+      }
+    ]
+  }
+}

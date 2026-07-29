@@ -1,0 +1,347 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046990809908879368",
+    "conversation_id": "2073285201904730616",
+    "created_at": "2026-07-04T05:58:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T06:58:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073285264416629067"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1916113741328093187",
+          "start": 0,
+          "username": "0nemoresec"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073285264416629067",
+    "in_reply_to_user_id": "2046990809908879368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073285201904730616",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0nemoresec 这是我妈妈"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1296,
+        "media_key": "3_2073285190160728064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMXJ5U2bwAAhC3i.jpg",
+        "width": 1170
+      },
+      {
+        "height": 1403,
+        "media_key": "3_2073285190164840448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMXJ5U3agAAzxqV.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046990809908879368",
+        "conversation_id": "2073285201904730616",
+        "created_at": "2026-07-04T05:58:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T06:58:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073285264416629067"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1916113741328093187",
+              "start": 0,
+              "username": "0nemoresec"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073285264416629067",
+        "in_reply_to_user_id": "2046990809908879368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073285201904730616",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0nemoresec 这是我妈妈"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073285190160728064",
+            "3_2073285190164840448"
+          ]
+        },
+        "author_id": "2046990809908879368",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Sheena Ringo (椎名林檎)",
+              "id": "867744195057930244",
+              "name": "Sheena Ringo"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "description": "Sheena Ringo (椎名林檎)",
+              "id": "867744195057930244",
+              "name": "Sheena Ringo"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "J-POP",
+              "id": "810938095772123136",
+              "name": "J-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sheena Ringo (椎名林檎)",
+              "id": "867744195057930244",
+              "name": "Sheena Ringo"
+            }
+          }
+        ],
+        "conversation_id": "2073285201904730616",
+        "created_at": "2026-07-04T05:58:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T06:58:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073285201904730616"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Pxsha5hq1s",
+              "end": 116,
+              "expanded_url": "https://x.com/silentbleeding1/status/2073285201904730616/photo/1",
+              "media_key": "3_2073285190160728064",
+              "start": 93,
+              "url": "https://t.co/Pxsha5hq1s"
+            },
+            {
+              "display_url": "pic.x.com/Pxsha5hq1s",
+              "end": 116,
+              "expanded_url": "https://x.com/silentbleeding1/status/2073285201904730616/photo/1",
+              "media_key": "3_2073285190164840448",
+              "start": 93,
+              "url": "https://t.co/Pxsha5hq1s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073285201904730616",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "DAY20:丸の内サディスティック-Sheena Ringo\n林檎这首歌让我的口味从华语rnb转向多元音乐，毕竟她自己的音乐就融入了很多音乐风格，也是从这首歌我开始养成了听整专的习惯🤤 https://t.co/Pxsha5hq1s"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-22T16:36:22.000Z",
+        "description": "前世@Lizzy_522 \n08 he/they 一般路过普通精神病#shtwt、#odtwt。喜欢各类摇滚和cult，每日高强度冲浪中。负能，日常吐苦水，友所有群体，迪哥们来找我互fo。里推@pillsandblood\n引路人@KKKaoru_",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 47,
+                "start": 41,
+                "tag": "odtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "Lizzy_522"
+              },
+              {
+                "end": 110,
+                "start": 96,
+                "username": "pillsandblood"
+              },
+              {
+                "end": 123,
+                "start": 114,
+                "username": "KKKaoru_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizzy_5221",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizzy_5221",
+                "start": 0,
+                "url": "https://t.co/TdKmbtj5RY"
+              }
+            ]
+          }
+        },
+        "id": "2046990809908879368",
+        "name": "リジー",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060729372013895680/wVCe3wl1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 574,
+          "following_count": 480,
+          "like_count": 6330,
+          "listed_count": 0,
+          "media_count": 150,
+          "tweet_count": 1803
+        },
+        "url": "https://t.co/TdKmbtj5RY",
+        "username": "silentbleeding1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-26T12:54:58.000Z",
+        "description": "尸体在说话\n匿名信 https://t.co/dAFmIPsROM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/0nemoresec",
+                "end": 33,
+                "expanded_url": "https://ngl.link/0nemoresec",
+                "start": 10,
+                "url": "https://t.co/dAFmIPsROM"
+              }
+            ]
+          }
+        },
+        "id": "1916113741328093187",
+        "location": "空白",
+        "name": "000",
+        "pinned_tweet_id": "2068352892189438411",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063212015276232704/wKzUSuMr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 160,
+          "like_count": 3037,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 1363
+        },
+        "url": "",
+        "username": "0nemoresec",
+        "verified": false
+      }
+    ]
+  }
+}

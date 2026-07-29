@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046990809908879368",
+    "conversation_id": "2047313686344438148",
+    "created_at": "2026-04-23T14:06:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T15:06:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047316249626218788"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1821409767950012416",
+          "start": 0,
+          "username": "kaxiaoa"
+        },
+        {
+          "end": 19,
+          "id": "1886289385177669632",
+          "start": 9,
+          "username": "Lizzy_522"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047316249626218788",
+    "in_reply_to_user_id": "1821409767950012416",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047315958461816833",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kaxiaoa @Lizzy_522 我自己都绷不住🌚"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046990809908879368",
+        "conversation_id": "2047313686344438148",
+        "created_at": "2026-04-23T14:06:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T15:06:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047316249626218788"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1821409767950012416",
+              "start": 0,
+              "username": "kaxiaoa"
+            },
+            {
+              "end": 19,
+              "id": "1886289385177669632",
+              "start": 9,
+              "username": "Lizzy_522"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047316249626218788",
+        "in_reply_to_user_id": "1821409767950012416",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047315958461816833",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kaxiaoa @Lizzy_522 我自己都绷不住🌚"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1821409767950012416",
+        "conversation_id": "2047313686344438148",
+        "created_at": "2026-04-23T14:05:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T15:05:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047315958461816833"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2046990809908879368",
+              "start": 0,
+              "username": "silentbleeding1"
+            },
+            {
+              "end": 27,
+              "id": "1886289385177669632",
+              "start": 17,
+              "username": "Lizzy_522"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047315958461816833",
+        "in_reply_to_user_id": "2046990809908879368",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047313686344438148",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@silentbleeding1 @Lizzy_522 将军真乃料事如神"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-22T16:36:22.000Z",
+        "description": "自残磕药发颠支黑负能号，关注请求会慢慢通过，怕被限关注…\n大号在此@Lizzy_522",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 33,
+                "username": "Lizzy_522"
+              }
+            ]
+          }
+        },
+        "id": "2046990809908879368",
+        "name": "リジー",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046991779866857472/235J5XiE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 32,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 6
+        },
+        "username": "silentbleeding1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-08T04:55:13.000Z",
+        "description": "自在极意之神",
+        "id": "1821409767950012416",
+        "name": "kaxiaoa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024580186159927296/W7A6jmNS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 321,
+          "like_count": 6361,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 236
+        },
+        "username": "kaxiaoa",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-03T05:43:38.000Z",
+        "description": "08 he/they enby.双相、焦虑症正在治疗。烟鬼、酗酒、磕药蛆戒割中。成分复杂，钢琴，硬摇滚、前卫摇滚、独立摇滚、jpop…负能，日常发神经吐苦水，友所有群体，查成分回fo。 现生认识的刷到我请自行绕道。血图见里推@silentbleeding1骚逼@KKKaoru_异父异母的弟弟@yu_huacs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 128,
+                "start": 112,
+                "username": "silentbleeding1"
+              },
+              {
+                "end": 139,
+                "start": 130,
+                "username": "KKKaoru_"
+              },
+              {
+                "end": 155,
+                "start": 146,
+                "username": "yu_huacs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizzy_522",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizzy_522",
+                "start": 0,
+                "url": "https://t.co/RDVwBMCX6v"
+              }
+            ]
+          }
+        },
+        "id": "1886289385177669632",
+        "name": "リジー",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997491540915294208/kFKVZs05_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 498,
+          "following_count": 422,
+          "like_count": 22224,
+          "listed_count": 0,
+          "media_count": 291,
+          "tweet_count": 3517
+        },
+        "url": "https://t.co/RDVwBMCX6v",
+        "username": "Lizzy_522",
+        "verified": false
+      }
+    ]
+  }
+}

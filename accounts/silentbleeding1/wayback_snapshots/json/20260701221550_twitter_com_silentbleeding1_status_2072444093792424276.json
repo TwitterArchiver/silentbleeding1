@@ -1,0 +1,320 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072444063446626304",
+        "3_2072444063429931008"
+      ]
+    },
+    "author_id": "2046990809908879368",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A category for a musical style, like Pop, Rock, or Rap",
+          "id": "55",
+          "name": "Music Genre"
+        },
+        "entity": {
+          "description": "Hip-Hop/Rap",
+          "id": "810937888334487552",
+          "name": "Rap"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Hip-Hop/Rap",
+          "id": "810937888334487552",
+          "name": "Rap"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291184917221535744",
+          "name": "Hip hop"
+        }
+      }
+    ],
+    "conversation_id": "2072444093792424276",
+    "created_at": "2026-07-01T22:15:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T23:15:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072444093792424276"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/OuLaisqzId",
+          "end": 138,
+          "expanded_url": "https://x.com/silentbleeding1/status/2072444093792424276/photo/1",
+          "media_key": "3_2072444063446626304",
+          "start": 115,
+          "url": "https://t.co/OuLaisqzId"
+        },
+        {
+          "display_url": "pic.x.com/OuLaisqzId",
+          "end": 138,
+          "expanded_url": "https://x.com/silentbleeding1/status/2072444093792424276/photo/1",
+          "media_key": "3_2072444063429931008",
+          "start": 115,
+          "url": "https://t.co/OuLaisqzId"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072444093792424276",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "DAY18:Street Lights- Kanye West\n808s &amp; Heartbreak这张专的，Kanye失去母亲和女友所做的神作，这首的合成器很有shoegaze的味道，也算是我为数不多爱听的hiphop了 https://t.co/OuLaisqzId"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1296,
+        "media_key": "3_2072444063446626304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMLM5TqacAA5-8u.jpg",
+        "width": 1170
+      },
+      {
+        "height": 1392,
+        "media_key": "3_2072444063429931008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMLM5TmbsAAcQAR.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072444063446626304",
+            "3_2072444063429931008"
+          ]
+        },
+        "author_id": "2046990809908879368",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "Hip-Hop/Rap",
+              "id": "810937888334487552",
+              "name": "Rap"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Hip-Hop/Rap",
+              "id": "810937888334487552",
+              "name": "Rap"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291184917221535744",
+              "name": "Hip hop"
+            }
+          }
+        ],
+        "conversation_id": "2072444093792424276",
+        "created_at": "2026-07-01T22:15:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T23:15:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072444093792424276"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OuLaisqzId",
+              "end": 138,
+              "expanded_url": "https://x.com/silentbleeding1/status/2072444093792424276/photo/1",
+              "media_key": "3_2072444063446626304",
+              "start": 115,
+              "url": "https://t.co/OuLaisqzId"
+            },
+            {
+              "display_url": "pic.x.com/OuLaisqzId",
+              "end": 138,
+              "expanded_url": "https://x.com/silentbleeding1/status/2072444093792424276/photo/1",
+              "media_key": "3_2072444063429931008",
+              "start": 115,
+              "url": "https://t.co/OuLaisqzId"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072444093792424276",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "DAY18:Street Lights- Kanye West\n808s &amp; Heartbreak这张专的，Kanye失去母亲和女友所做的神作，这首的合成器很有shoegaze的味道，也算是我为数不多爱听的hiphop了 https://t.co/OuLaisqzId"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-22T16:36:22.000Z",
+        "description": "前世@Lizzy_522 \n08 he/they 一般路过普通精神病#shtwt、#odtwt。喜欢各类摇滚和cult，每日高强度冲浪中。负能，日常吐苦水，友所有群体，迪哥们来找我互fo。里推@pillsandblood\n引路人@KKKaoru_",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 47,
+                "start": 41,
+                "tag": "odtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "Lizzy_522"
+              },
+              {
+                "end": 110,
+                "start": 96,
+                "username": "pillsandblood"
+              },
+              {
+                "end": 123,
+                "start": 114,
+                "username": "KKKaoru_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizzy_5221",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizzy_5221",
+                "start": 0,
+                "url": "https://t.co/TdKmbtj5RY"
+              }
+            ]
+          }
+        },
+        "id": "2046990809908879368",
+        "name": "リジー",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060729372013895680/wVCe3wl1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 547,
+          "following_count": 462,
+          "like_count": 6123,
+          "listed_count": 0,
+          "media_count": 145,
+          "tweet_count": 1745
+        },
+        "url": "https://t.co/TdKmbtj5RY",
+        "username": "silentbleeding1",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046990809908879368",
+    "conversation_id": "2072425923560030371",
+    "created_at": "2026-07-02T11:09:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T12:09:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072638758219120759"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1816148552764252169",
+          "start": 0,
+          "username": "w0sh1Asak1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072638758219120759",
+    "in_reply_to_user_id": "1816148552764252169",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072637318218006742",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@w0sh1Asak1 我觉得🉑"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046990809908879368",
+        "conversation_id": "2072425923560030371",
+        "created_at": "2026-07-02T11:09:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T12:09:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072638758219120759"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1816148552764252169",
+              "start": 0,
+              "username": "w0sh1Asak1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072638758219120759",
+        "in_reply_to_user_id": "1816148552764252169",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072637318218006742",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@w0sh1Asak1 我觉得🉑"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1816148552764252169",
+        "conversation_id": "2072425923560030371",
+        "created_at": "2026-07-02T11:03:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T12:03:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072637318218006742"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2046990809908879368",
+              "start": 0,
+              "username": "silentbleeding1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072637318218006742",
+        "in_reply_to_user_id": "2046990809908879368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072425923560030371",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@silentbleeding1 吃了普瑞别导管"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-22T16:36:22.000Z",
+        "description": "前世@Lizzy_522 \n08 he/they 一般路过普通精神病#shtwt、#odtwt。喜欢各类摇滚和cult，每日高强度冲浪中。负能，日常吐苦水，友所有群体，迪哥们来找我互fo。里推@pillsandblood\n引路人@KKKaoru_",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 47,
+                "start": 41,
+                "tag": "odtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "Lizzy_522"
+              },
+              {
+                "end": 110,
+                "start": 96,
+                "username": "pillsandblood"
+              },
+              {
+                "end": 123,
+                "start": 114,
+                "username": "KKKaoru_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizzy_5221",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizzy_5221",
+                "start": 0,
+                "url": "https://t.co/TdKmbtj5RY"
+              }
+            ]
+          }
+        },
+        "id": "2046990809908879368",
+        "name": "リジー",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060729372013895680/wVCe3wl1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 557,
+          "following_count": 470,
+          "like_count": 6214,
+          "listed_count": 0,
+          "media_count": 148,
+          "tweet_count": 1772
+        },
+        "url": "https://t.co/TdKmbtj5RY",
+        "username": "silentbleeding1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-24T16:29:11.000Z",
+        "description": "我来的时候江水很平静",
+        "id": "1816148552764252169",
+        "name": "三明治，手柄坏了。",
+        "pinned_tweet_id": "2059677830490038306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069852358574854144/2diaz45c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1041,
+          "following_count": 812,
+          "like_count": 29137,
+          "listed_count": 3,
+          "media_count": 598,
+          "tweet_count": 13172
+        },
+        "url": "",
+        "username": "w0sh1Asak1",
+        "verified": false
+      }
+    ]
+  }
+}

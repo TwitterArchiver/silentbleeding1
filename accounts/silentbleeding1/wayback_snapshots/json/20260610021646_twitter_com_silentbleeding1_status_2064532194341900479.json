@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046990809908879368",
+    "conversation_id": "2063995180894871575",
+    "created_at": "2026-06-10T02:16:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T03:16:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064532194341900479"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1307650424753786880",
+          "start": 0,
+          "username": "Vantasy15"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064532194341900479",
+    "in_reply_to_user_id": "1307650424753786880",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064517650898919429",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Vantasy15 笑死我了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046990809908879368",
+        "conversation_id": "2063995180894871575",
+        "created_at": "2026-06-10T02:16:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T03:16:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064532194341900479"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1307650424753786880",
+              "start": 0,
+              "username": "Vantasy15"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064532194341900479",
+        "in_reply_to_user_id": "1307650424753786880",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064517650898919429",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Vantasy15 笑死我了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1307650424753786880",
+        "conversation_id": "2063995180894871575",
+        "created_at": "2026-06-10T01:18:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T02:18:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064517650898919429"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2046990809908879368",
+              "start": 0,
+              "username": "silentbleeding1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064517650898919429",
+        "in_reply_to_user_id": "2046990809908879368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063995180894871575",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@silentbleeding1 左眼用来忘记你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-22T16:36:22.000Z",
+        "description": "前世@Lizzy_522 \n08 he/they enby.双相、焦虑症正在治疗。烟鬼、酗酒、#shtwt、#odtwt。成分复杂，公路车，日本文学/拉康精神分析，钢琴，硬/前卫/蓝调/独立摇滚，负能，日常发神经吐苦水，友所有群体，查成分回fo。里推@pillsandblood",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 53,
+                "start": 47,
+                "tag": "shtwt"
+              },
+              {
+                "end": 60,
+                "start": 54,
+                "tag": "odtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "Lizzy_522"
+              },
+              {
+                "end": 139,
+                "start": 125,
+                "username": "pillsandblood"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizzy_522",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizzy_522",
+                "start": 0,
+                "url": "https://t.co/AQMnPR82BG"
+              }
+            ]
+          }
+        },
+        "id": "2046990809908879368",
+        "name": "リジー",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060729372013895680/wVCe3wl1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 492,
+          "following_count": 420,
+          "like_count": 4022,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 1070
+        },
+        "url": "https://t.co/AQMnPR82BG",
+        "username": "silentbleeding1",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-20T11:59:00.000Z",
+        "description": "i make music sometimes/@HUI_Works /repost good art",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 23,
+                "username": "HUI_Works"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "soundcloud.com/vantasy-168334…",
+                "end": 23,
+                "expanded_url": "https://soundcloud.com/vantasy-168334452",
+                "start": 0,
+                "url": "https://t.co/PcbuoUQsZw"
+              }
+            ]
+          }
+        },
+        "id": "1307650424753786880",
+        "location": "自宅",
+        "name": "vantasy",
+        "pinned_tweet_id": "1920347026035790030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1664185119975018496/5T7dcv_Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1608,
+          "following_count": 2448,
+          "like_count": 54176,
+          "listed_count": 8,
+          "media_count": 1479,
+          "tweet_count": 18295
+        },
+        "url": "https://t.co/PcbuoUQsZw",
+        "username": "Vantasy15",
+        "verified": false
+      }
+    ]
+  }
+}

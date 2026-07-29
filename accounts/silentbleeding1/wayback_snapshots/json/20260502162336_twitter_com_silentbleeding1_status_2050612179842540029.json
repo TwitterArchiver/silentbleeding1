@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046990809908879368",
+    "conversation_id": "2050609418900058456",
+    "created_at": "2026-05-02T16:23:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T17:23:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050612179842540029"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1755401876546138112",
+          "start": 0,
+          "username": "XiJiechangan106"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050612179842540029",
+    "in_reply_to_user_id": "1755401876546138112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050609418900058456",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XiJiechangan106 但是这个粥感觉很好喝（草"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2050609418900058456].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2050609418900058456",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2050609418900058456"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046990809908879368",
+        "conversation_id": "2050609418900058456",
+        "created_at": "2026-05-02T16:23:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T17:23:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050612179842540029"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1755401876546138112",
+              "start": 0,
+              "username": "XiJiechangan106"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050612179842540029",
+        "in_reply_to_user_id": "1755401876546138112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050609418900058456",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XiJiechangan106 但是这个粥感觉很好喝（草"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-22T16:36:22.000Z",
+        "description": "@Lizzy_522",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 0,
+                "username": "Lizzy_522"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizzy_522",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizzy_522",
+                "start": 0,
+                "url": "https://t.co/AQMnPR82BG"
+              }
+            ]
+          }
+        },
+        "id": "2046990809908879368",
+        "name": "リジー 2.0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047319984494534656/-SRMKdXI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 149,
+          "like_count": 413,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 95
+        },
+        "url": "https://t.co/AQMnPR82BG",
+        "username": "silentbleeding1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-08T01:23:40.000Z",
+        "description": "似推似梦似我所爱似我忠诚之精神恋人\n缅怀亡妻沪宁国师/本人在cos王沪宁/政治学743和国关833永远爱戴/关注默认看本人以下活动：发癫锐评/学术研究/鉴证/为王沪宁招魂/猎奇逆天活泼调侃没品玩笑。\n常热衷于缅怀年轻沪宁，将他政治人生二分中。\n过门槛🚪88喵x，温良建制派\n@xichangan8964我小号喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 151,
+                "start": 137,
+                "username": "xichangan8964"
+              }
+            ]
+          }
+        },
+        "id": "1755401876546138112",
+        "location": "中共中央政策研究室政治研究处组长",
+        "name": "西长安街左转",
+        "pinned_tweet_id": "2010623074442612879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016298181047250944/9aTj91WF_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 180,
+          "following_count": 379,
+          "like_count": 21667,
+          "listed_count": 2,
+          "media_count": 2399,
+          "tweet_count": 13716
+        },
+        "username": "XiJiechangan106",
+        "verified": false
+      }
+    ]
+  }
+}

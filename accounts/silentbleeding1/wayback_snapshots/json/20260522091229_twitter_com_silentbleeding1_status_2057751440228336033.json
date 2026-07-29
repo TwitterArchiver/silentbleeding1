@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046990809908879368",
+    "conversation_id": "2057751440228336033",
+    "created_at": "2026-05-22T09:12:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T10:12:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057751440228336033"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2057729979677548544",
+          "start": 3,
+          "username": "Numiouoo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057751440228336033",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057736649417855377",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Numiouoo: 请帮我转发QAQ\n我是糯米🍬，锁推后因试探中推卧底，舍身炸粪坑，1.0-3.0剧烈牺牲，十天申诉无果，痛失4k互关，遂落户本账号喵ᰔᩚ/•᷅•᷄\\୭\n\n请再一次与我相遇吧。无论何时何地。\n我想永远陪在大家身边˗ˋˏ ♡ ˎˊ˗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046990809908879368",
+        "conversation_id": "2057751440228336033",
+        "created_at": "2026-05-22T09:12:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T10:12:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057751440228336033"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2057729979677548544",
+              "start": 3,
+              "username": "Numiouoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057751440228336033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057736649417855377",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Numiouoo: 请帮我转发QAQ\n我是糯米🍬，锁推后因试探中推卧底，舍身炸粪坑，1.0-3.0剧烈牺牲，十天申诉无果，痛失4k互关，遂落户本账号喵ᰔᩚ/•᷅•᷄\\୭\n\n请再一次与我相遇吧。无论何时何地。\n我想永远陪在大家身边˗ˋˏ ♡ ˎˊ˗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2057736649417855377",
+        "created_at": "2026-05-22T08:13:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T09:13:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057736649417855377"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057736649417855377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 151,
+          "like_count": 8,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "请帮我转发QAQ\n我是糯米🍬，锁推后因试探中推卧底，舍身炸粪坑，1.0-3.0剧烈牺牲，十天申诉无果，痛失4k互关，遂落户本账号喵ᰔᩚ/•᷅•᷄\\୭\n\n请再一次与我相遇吧。无论何时何地。\n我想永远陪在大家身边˗ˋˏ ♡ ˎˊ˗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-22T16:36:22.000Z",
+        "description": "前世@Lizzy_522 \n08 he/they enby.双相、焦虑症正在治疗。烟鬼、酗酒、#shtwt、#odtwt。成分复杂，日本文学/拉康精神分析，钢琴，硬/前卫/蓝调/独立摇滚，虚无主义重建欲望中…负能，日常发神经吐苦水，友所有群体，查成分回fo。里推@pillsandblood",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 53,
+                "start": 47,
+                "tag": "shtwt"
+              },
+              {
+                "end": 60,
+                "start": 54,
+                "tag": "odtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "Lizzy_522"
+              },
+              {
+                "end": 145,
+                "start": 131,
+                "username": "pillsandblood"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizzy_522",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizzy_522",
+                "start": 0,
+                "url": "https://t.co/AQMnPR82BG"
+              }
+            ]
+          }
+        },
+        "id": "2046990809908879368",
+        "name": "リジー",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047319984494534656/-SRMKdXI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 424,
+          "following_count": 383,
+          "like_count": 2619,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 655
+        },
+        "url": "https://t.co/AQMnPR82BG",
+        "username": "silentbleeding1",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护互关们❤️双胞胎已🧊@Numiouo\n唯爱同类❤️我素精神病❤️永远爱大家\n请再一次与我相遇 我要永远和你们贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 14,
+                "username": "Numiouo"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸（地球OL4.0）",
+        "pinned_tweet_id": "2057733409720696909",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057730577764413441/YrmWh9zc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 15,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 4
+        },
+        "username": "Numiouoo",
+        "verified": false
+      }
+    ]
+  }
+}

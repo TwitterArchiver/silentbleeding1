@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046990809908879368",
+    "conversation_id": "2063956172869439901",
+    "created_at": "2026-06-08T15:01:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T16:01:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063999757752930796"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1981381547594043396",
+          "start": 0,
+          "username": "donttouchme3322"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063999757752930796",
+    "in_reply_to_user_id": "1981381547594043396",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063997652224934236",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@donttouchme3322 谢谢www"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046990809908879368",
+        "conversation_id": "2063956172869439901",
+        "created_at": "2026-06-08T15:01:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T16:01:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063999757752930796"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1981381547594043396",
+              "start": 0,
+              "username": "donttouchme3322"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063999757752930796",
+        "in_reply_to_user_id": "1981381547594043396",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063997652224934236",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@donttouchme3322 谢谢www"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1981381547594043396",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2063956172869439901",
+        "created_at": "2026-06-08T14:52:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T15:52:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063997652224934236"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2046990809908879368",
+              "start": 0,
+              "username": "silentbleeding1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063997652224934236",
+        "in_reply_to_user_id": "2046990809908879368",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063996738856513560",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@silentbleeding1 熱狂的なファン絵師が1ページのスケッチブックを感情のまま埋めつくした感じで、全身ポーズ、ミニキャラ、手や目のアップ、誇張された表情がぐちゃぐちゃに重なっている構図。白背景。整列なし、余白なし、カオスな落書きエネルギー。\n\n我复制的别的宝宝的！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-22T16:36:22.000Z",
+        "description": "前世@Lizzy_522 \n08 he/they enby.双相、焦虑症正在治疗。烟鬼、酗酒、#shtwt、#odtwt。成分复杂，公路车，日本文学/拉康精神分析，钢琴，硬/前卫/蓝调/独立摇滚，负能，日常发神经吐苦水，友所有群体，查成分回fo。里推@pillsandblood",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 53,
+                "start": 47,
+                "tag": "shtwt"
+              },
+              {
+                "end": 60,
+                "start": 54,
+                "tag": "odtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "Lizzy_522"
+              },
+              {
+                "end": 139,
+                "start": 125,
+                "username": "pillsandblood"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizzy_522",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizzy_522",
+                "start": 0,
+                "url": "https://t.co/AQMnPR82BG"
+              }
+            ]
+          }
+        },
+        "id": "2046990809908879368",
+        "name": "リジー",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060729372013895680/wVCe3wl1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 478,
+          "following_count": 416,
+          "like_count": 3867,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 996
+        },
+        "url": "https://t.co/AQMnPR82BG",
+        "username": "silentbleeding1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-23T15:25:59.000Z",
+        "description": "目前人设：勾践\n                                                                                恶心我的死全家                                       \nhttps://t.co/6wYsRJnYiG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/badsheep",
+                "end": 158,
+                "expanded_url": "https://ngl.link/badsheep",
+                "start": 135,
+                "url": "https://t.co/6wYsRJnYiG"
+              }
+            ]
+          }
+        },
+        "id": "1981381547594043396",
+        "name": "小烂（努力学习版）",
+        "pinned_tweet_id": "2042975618497941982",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052349606823137280/IAT4Bl4k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 318,
+          "following_count": 215,
+          "like_count": 2106,
+          "listed_count": 0,
+          "media_count": 206,
+          "tweet_count": 3541
+        },
+        "username": "donttouchme3322",
+        "verified": false
+      }
+    ]
+  }
+}

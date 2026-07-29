@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046990809908879368",
+    "conversation_id": "2047318432065163338",
+    "created_at": "2026-04-23T15:59:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T16:59:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047344671433879716"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2013321876224057344",
+          "start": 0,
+          "username": "OTxiashu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047344671433879716",
+    "in_reply_to_user_id": "2013321876224057344",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047344496174903729",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OTxiashu 🤤🤤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046990809908879368",
+        "conversation_id": "2047318432065163338",
+        "created_at": "2026-04-23T15:59:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T16:59:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047344671433879716"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2013321876224057344",
+              "start": 0,
+              "username": "OTxiashu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047344671433879716",
+        "in_reply_to_user_id": "2013321876224057344",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047344496174903729",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OTxiashu 🤤🤤"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2013321876224057344",
+        "conversation_id": "2047318432065163338",
+        "created_at": "2026-04-23T15:59:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T16:59:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047344496174903729"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2046990809908879368",
+              "start": 0,
+              "username": "silentbleeding1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047344496174903729",
+        "in_reply_to_user_id": "2046990809908879368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047343224705134898",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@silentbleeding1 不要羡慕！我的就是你的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-22T16:36:22.000Z",
+        "description": "🩸图磕药发颠支黑负能号，关注请求会慢慢通过，怕被限关注…\n大号在此@Lizzy_522",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 33,
+                "username": "Lizzy_522"
+              }
+            ]
+          }
+        },
+        "id": "2046990809908879368",
+        "name": "リジー（二世推u巡回中…",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047319984494534656/-SRMKdXI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 70,
+          "like_count": 80,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 19
+        },
+        "username": "silentbleeding1",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-19T18:46:10.000Z",
+        "description": "无我梦中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ot78725",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ot78725",
+                "start": 0,
+                "url": "https://t.co/RFlA1XtlG6"
+              }
+            ]
+          }
+        },
+        "id": "2013321876224057344",
+        "location": "沃尔库塔-5",
+        "name": "OT夏树",
+        "pinned_tweet_id": "2045458839068356985",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041015244408119296/bvU7l2hs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 494,
+          "following_count": 437,
+          "like_count": 8516,
+          "listed_count": 0,
+          "media_count": 251,
+          "tweet_count": 3337
+        },
+        "url": "https://t.co/RFlA1XtlG6",
+        "username": "OTxiashu",
+        "verified": false
+      }
+    ]
+  }
+}

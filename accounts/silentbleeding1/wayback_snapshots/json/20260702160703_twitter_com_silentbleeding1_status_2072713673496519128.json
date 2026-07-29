@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046990809908879368",
+    "conversation_id": "2072499360139727267",
+    "created_at": "2026-07-02T16:07:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T17:07:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072713673496519128"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1868647785438003200",
+          "start": 0,
+          "username": "GreyWallStoss"
+        },
+        {
+          "end": 26,
+          "id": "1916113741328093187",
+          "start": 15,
+          "username": "0nemoresec"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072713673496519128",
+    "in_reply_to_user_id": "1868647785438003200",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072709182860484683",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GreyWallStoss @0nemoresec 如何操作（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046990809908879368",
+        "conversation_id": "2072499360139727267",
+        "created_at": "2026-07-02T16:07:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T17:07:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072713673496519128"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1868647785438003200",
+              "start": 0,
+              "username": "GreyWallStoss"
+            },
+            {
+              "end": 26,
+              "id": "1916113741328093187",
+              "start": 15,
+              "username": "0nemoresec"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072713673496519128",
+        "in_reply_to_user_id": "1868647785438003200",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072709182860484683",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GreyWallStoss @0nemoresec 如何操作（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868647785438003200",
+        "conversation_id": "2072499360139727267",
+        "created_at": "2026-07-02T15:49:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T16:49:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072709182860484683"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2046990809908879368",
+              "start": 0,
+              "username": "silentbleeding1"
+            },
+            {
+              "end": 28,
+              "id": "1916113741328093187",
+              "start": 17,
+              "username": "0nemoresec"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072709182860484683",
+        "in_reply_to_user_id": "2046990809908879368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072499360139727267",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@silentbleeding1 @0nemoresec 我是挂心理开（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-22T16:36:22.000Z",
+        "description": "前世@Lizzy_522 \n08 he/they 一般路过普通精神病#shtwt、#odtwt。喜欢各类摇滚和cult，每日高强度冲浪中。负能，日常吐苦水，友所有群体，迪哥们来找我互fo。里推@pillsandblood\n引路人@KKKaoru_",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 47,
+                "start": 41,
+                "tag": "odtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "Lizzy_522"
+              },
+              {
+                "end": 110,
+                "start": 96,
+                "username": "pillsandblood"
+              },
+              {
+                "end": 123,
+                "start": 114,
+                "username": "KKKaoru_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizzy_5221",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizzy_5221",
+                "start": 0,
+                "url": "https://t.co/TdKmbtj5RY"
+              }
+            ]
+          }
+        },
+        "id": "2046990809908879368",
+        "name": "リジー",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060729372013895680/wVCe3wl1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 566,
+          "following_count": 477,
+          "like_count": 6246,
+          "listed_count": 0,
+          "media_count": 148,
+          "tweet_count": 1779
+        },
+        "url": "https://t.co/TdKmbtj5RY",
+        "username": "silentbleeding1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-16T13:22:16.000Z",
+        "description": "决定开一个号发一些大号不方便发的东西/和大号画风不符合的东西/药物/音乐/什么的/如果私自回关老师们造成不安很抱歉！老师们可以直接关注",
+        "id": "1868647785438003200",
+        "name": "撞擊灰色的牆",
+        "pinned_tweet_id": "1868666322785341698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869716680596697088/q_IADrcu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 161,
+          "like_count": 1314,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 426
+        },
+        "url": "",
+        "username": "GreyWallStoss",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-26T12:54:58.000Z",
+        "description": "尸体在说话\n匿名信 https://t.co/dAFmIPsROM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/0nemoresec",
+                "end": 33,
+                "expanded_url": "https://ngl.link/0nemoresec",
+                "start": 10,
+                "url": "https://t.co/dAFmIPsROM"
+              }
+            ]
+          }
+        },
+        "id": "1916113741328093187",
+        "location": "空白",
+        "name": "000",
+        "pinned_tweet_id": "2068352892189438411",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063212015276232704/wKzUSuMr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 158,
+          "following_count": 159,
+          "like_count": 3025,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 1347
+        },
+        "url": "",
+        "username": "0nemoresec",
+        "verified": false
+      }
+    ]
+  }
+}

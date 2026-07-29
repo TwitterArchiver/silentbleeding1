@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048063569749786624"
+      ]
+    },
+    "author_id": "2046990809908879368",
+    "conversation_id": "2047333902927413394",
+    "created_at": "2026-04-25T15:36:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T16:36:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048063584291467493"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1812304729432838144",
+          "start": 0,
+          "username": "huimu420"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/LFS4lkKz4P",
+          "end": 62,
+          "expanded_url": "https://x.com/silentbleeding1/status/2048063584291467493/photo/1",
+          "media_key": "3_2048063569749786624",
+          "start": 39,
+          "url": "https://t.co/LFS4lkKz4P"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048063584291467493",
+    "in_reply_to_user_id": "1812304729432838144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048058150297989279",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huimu420 其实有这种封号形式会单取所有人（？\n不过封号通常都是双取 https://t.co/LFS4lkKz4P"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 965,
+        "media_key": "3_2048063569749786624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGwu9zBawAA2VCc.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048063569749786624"
+          ]
+        },
+        "author_id": "2046990809908879368",
+        "conversation_id": "2047333902927413394",
+        "created_at": "2026-04-25T15:36:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T16:36:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048063584291467493"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1812304729432838144",
+              "start": 0,
+              "username": "huimu420"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LFS4lkKz4P",
+              "end": 62,
+              "expanded_url": "https://x.com/silentbleeding1/status/2048063584291467493/photo/1",
+              "media_key": "3_2048063569749786624",
+              "start": 39,
+              "url": "https://t.co/LFS4lkKz4P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048063584291467493",
+        "in_reply_to_user_id": "1812304729432838144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048058150297989279",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huimu420 其实有这种封号形式会单取所有人（？\n不过封号通常都是双取 https://t.co/LFS4lkKz4P"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1812304729432838144",
+        "conversation_id": "2047333902927413394",
+        "created_at": "2026-04-25T15:14:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T16:14:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048058150297989279"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2046990809908879368",
+              "start": 0,
+              "username": "silentbleeding1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048058150297989279",
+        "in_reply_to_user_id": "2046990809908879368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047341433603215604",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@silentbleeding1 封号应该两个都会取吧，我也不清楚"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-22T16:36:22.000Z",
+        "description": "🩸图磕药发颠支黑负能号\n大号在此@Lizzy_522",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "Lizzy_522"
+              }
+            ]
+          }
+        },
+        "id": "2046990809908879368",
+        "name": "リジー（二世推u巡回中…",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047319984494534656/-SRMKdXI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129,
+          "following_count": 125,
+          "like_count": 167,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 41
+        },
+        "username": "silentbleeding1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-14T01:55:01.000Z",
+        "description": "餐券 负能 自言自语\n酷拉皮卡梦女\n不上线的日子也在痛苦 没有偷偷幸福\n💊🩸",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/huimu420",
+                "end": 23,
+                "expanded_url": "https://ngl.link/huimu420",
+                "start": 0,
+                "url": "https://t.co/o2XkPNmz4o"
+              }
+            ]
+          }
+        },
+        "id": "1812304729432838144",
+        "location": "提问箱",
+        "name": "回木",
+        "pinned_tweet_id": "2028842327134077389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008334036159090688/E-dxw_RT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 834,
+          "following_count": 773,
+          "like_count": 29889,
+          "listed_count": 1,
+          "media_count": 262,
+          "tweet_count": 7851
+        },
+        "url": "https://t.co/o2XkPNmz4o",
+        "username": "huimu420",
+        "verified": false
+      }
+    ]
+  }
+}

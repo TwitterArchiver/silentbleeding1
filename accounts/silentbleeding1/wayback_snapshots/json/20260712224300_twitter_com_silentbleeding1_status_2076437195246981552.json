@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076437187172978689"
+      ]
+    },
+    "author_id": "2046990809908879368",
+    "conversation_id": "2076437195246981552",
+    "created_at": "2026-07-12T22:43:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T23:43:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076437195246981552"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2075655495927681024",
+          "start": 4,
+          "username": "hickeyiq9i"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/G9ZLulIesb",
+          "end": 39,
+          "expanded_url": "https://x.com/silentbleeding1/status/2076437195246981552/photo/1",
+          "media_key": "3_2076437187172978689",
+          "start": 16,
+          "url": "https://t.co/G9ZLulIesb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076437195246981552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "帅哥你谁@hickeyiq9i https://t.co/G9ZLulIesb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 812,
+        "media_key": "3_2076437187172978689",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HND8nsvbUAEYpYc.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076437187172978689"
+          ]
+        },
+        "author_id": "2046990809908879368",
+        "conversation_id": "2076437195246981552",
+        "created_at": "2026-07-12T22:43:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T23:43:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076437195246981552"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2075655495927681024",
+              "start": 4,
+              "username": "hickeyiq9i"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/G9ZLulIesb",
+              "end": 39,
+              "expanded_url": "https://x.com/silentbleeding1/status/2076437195246981552/photo/1",
+              "media_key": "3_2076437187172978689",
+              "start": 16,
+              "url": "https://t.co/G9ZLulIesb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076437195246981552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "帅哥你谁@hickeyiq9i https://t.co/G9ZLulIesb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-22T16:36:22.000Z",
+        "description": "前世@Lizzy_522 \n08 he/they bpd。 #shtwt、#odtwt。喜欢各类摇滚和cult，每日高强度冲浪中。负能，日常吐苦水，友所有群体，迪哥们来找我互fo。里推@pillsandblood\n引路人@KKKaoru_",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 36,
+                "start": 30,
+                "tag": "shtwt"
+              },
+              {
+                "end": 43,
+                "start": 37,
+                "tag": "odtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "Lizzy_522"
+              },
+              {
+                "end": 106,
+                "start": 92,
+                "username": "pillsandblood"
+              },
+              {
+                "end": 119,
+                "start": 110,
+                "username": "KKKaoru_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizzy_5221",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizzy_5221",
+                "start": 0,
+                "url": "https://t.co/TdKmbtj5RY"
+              }
+            ]
+          }
+        },
+        "id": "2046990809908879368",
+        "name": "リジー",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060729372013895680/wVCe3wl1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 594,
+          "following_count": 498,
+          "like_count": 7154,
+          "listed_count": 0,
+          "media_count": 172,
+          "tweet_count": 2020
+        },
+        "url": "https://t.co/TdKmbtj5RY",
+        "username": "silentbleeding1",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-10T18:58:23.000Z",
+        "description": "🚪52嚒叽穷比别来 我脾气不好\n✈️@Lyar1123",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 18,
+                "username": "Lyar1123"
+              }
+            ]
+          }
+        },
+        "id": "2075655495927681024",
+        "name": "Lyra",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075658895788576768/PZn5ZZ0l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 8,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 18
+        },
+        "url": "",
+        "username": "hickeyiq9i",
+        "verified": false
+      }
+    ]
+  }
+}

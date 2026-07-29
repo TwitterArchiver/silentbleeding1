@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046990809908879368",
+    "conversation_id": "2060748207714386156",
+    "created_at": "2026-05-30T16:10:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T17:10:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060755661362024857"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1661373248821493760",
+          "start": 0,
+          "username": "KHikh09"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060755661362024857",
+    "in_reply_to_user_id": "1661373248821493760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060748207714386156",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KHikh09 帅之🚬"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2060748204459651073",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJk_ktpXcAECWdh.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046990809908879368",
+        "conversation_id": "2060748207714386156",
+        "created_at": "2026-05-30T16:10:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T17:10:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060755661362024857"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1661373248821493760",
+              "start": 0,
+              "username": "KHikh09"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060755661362024857",
+        "in_reply_to_user_id": "1661373248821493760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060748207714386156",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KHikh09 帅之🚬"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060748204459651073"
+          ]
+        },
+        "author_id": "1661373248821493760",
+        "conversation_id": "2060748207714386156",
+        "created_at": "2026-05-30T15:40:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T16:40:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060748207714386156"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WMz3h6tCBS",
+              "end": 23,
+              "expanded_url": "https://x.com/KHikh09/status/2060748207714386156/photo/1",
+              "media_key": "3_2060748204459651073",
+              "start": 0,
+              "url": "https://t.co/WMz3h6tCBS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060748207714386156",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 73,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/WMz3h6tCBS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-22T16:36:22.000Z",
+        "description": "前世@Lizzy_522 \n08 he/they enby.双相、焦虑症正在治疗。烟鬼、酗酒、#shtwt、#odtwt。成分复杂，公路车，日本文学/拉康精神分析，钢琴，硬/前卫/蓝调/独立摇滚，虚无主义重建欲望中…负能，日常发神经吐苦水，友所有群体，查成分回fo。里推@pillsandblood",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 53,
+                "start": 47,
+                "tag": "shtwt"
+              },
+              {
+                "end": 60,
+                "start": 54,
+                "tag": "odtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "Lizzy_522"
+              },
+              {
+                "end": 149,
+                "start": 135,
+                "username": "pillsandblood"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizzy_522",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizzy_522",
+                "start": 0,
+                "url": "https://t.co/AQMnPR82BG"
+              }
+            ]
+          }
+        },
+        "id": "2046990809908879368",
+        "name": "リジー",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060729372013895680/wVCe3wl1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 460,
+          "following_count": 406,
+          "like_count": 3357,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 854
+        },
+        "url": "https://t.co/AQMnPR82BG",
+        "username": "silentbleeding1",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-24T14:07:12.000Z",
+        "description": ",,ᗜ - ᗜ,,只是碎碎念 表达能力堪比小学生 不要骂我 只喜欢钱性恋 喜欢我的可以给我打钱",
+        "id": "1661373248821493760",
+        "name": "kk",
+        "pinned_tweet_id": "2004226199225237546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023798973493067776/2sx-NIQy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 357,
+          "following_count": 36,
+          "like_count": 4170,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 746
+        },
+        "username": "KHikh09",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046990809908879368",
+    "conversation_id": "2077379669285130263",
+    "created_at": "2026-07-15T13:08:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T14:08:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077379669285130263"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/sylvviiae/stat…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/sylvviiae/status/2077379450371719580",
+          "start": 6,
+          "url": "https://t.co/rfeYYi8p90"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077379669285130263",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077379450371719580",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我真求你了 https://t.co/rfeYYi8p90"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2077379440322215937",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNRVmDQbAAET8_-.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046990809908879368",
+        "conversation_id": "2077379669285130263",
+        "created_at": "2026-07-15T13:08:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T14:08:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077379669285130263"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sylvviiae/stat…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/sylvviiae/status/2077379450371719580",
+              "start": 6,
+              "url": "https://t.co/rfeYYi8p90"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077379669285130263",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077379450371719580",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我真求你了 https://t.co/rfeYYi8p90"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077379440322215937"
+          ]
+        },
+        "author_id": "1902217890738401281",
+        "conversation_id": "2077379450371719580",
+        "created_at": "2026-07-15T13:07:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T14:07:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077379450371719580"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9IkqzDlIvC",
+              "end": 23,
+              "expanded_url": "https://x.com/Sylvviiae/status/2077379450371719580/photo/1",
+              "media_key": "3_2077379440322215937",
+              "start": 0,
+              "url": "https://t.co/9IkqzDlIvC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077379450371719580",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/9IkqzDlIvC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-22T16:36:22.000Z",
+        "description": "前世@Lizzy_522 \n08 he/they bpd。 #shtwt、#odtwt。喜欢各类摇滚和cult，每日高强度冲浪中。负能，日常吐苦水，友所有群体，迪哥们来找我互fo。里推@pillsandblood\n引路人@KKKaoru_",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 36,
+                "start": 30,
+                "tag": "shtwt"
+              },
+              {
+                "end": 43,
+                "start": 37,
+                "tag": "odtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "Lizzy_522"
+              },
+              {
+                "end": 106,
+                "start": 92,
+                "username": "pillsandblood"
+              },
+              {
+                "end": 119,
+                "start": 110,
+                "username": "KKKaoru_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizzy_5221",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizzy_5221",
+                "start": 0,
+                "url": "https://t.co/TdKmbtj5RY"
+              }
+            ]
+          }
+        },
+        "id": "2046990809908879368",
+        "name": "リジー",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060729372013895680/wVCe3wl1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 608,
+          "following_count": 508,
+          "like_count": 7405,
+          "listed_count": 0,
+          "media_count": 174,
+          "tweet_count": 2076
+        },
+        "url": "https://t.co/TdKmbtj5RY",
+        "username": "silentbleeding1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-19T04:38:16.000Z",
+        "description": "bilingual, bisexual, bipolar, and bpd\n有fo就回，请来找我聊天(ifb and dms open)\n该小众文艺b想走近你的世界看一看\nTrying my best to be interesting lest I be jilted.",
+        "id": "1902217890738401281",
+        "name": "Sylwia",
+        "pinned_tweet_id": "2075321774791971305",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023853936030216193/teTeCxB-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1104,
+          "following_count": 920,
+          "like_count": 434,
+          "listed_count": 2,
+          "media_count": 89,
+          "tweet_count": 1684
+        },
+        "url": "",
+        "username": "Sylvviiae",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046990809908879368",
+    "conversation_id": "2047323148895621398",
+    "created_at": "2026-04-25T03:24:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T04:24:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047879376952578180"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1800782392346783744",
+          "start": 0,
+          "username": "DOUDEMOII_y92z0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047879376952578180",
+    "in_reply_to_user_id": "1800782392346783744",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047873363209855266",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DOUDEMOII_y92z0 只有天知道"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046990809908879368",
+        "conversation_id": "2047323148895621398",
+        "created_at": "2026-04-25T03:24:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T04:24:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047879376952578180"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1800782392346783744",
+              "start": 0,
+              "username": "DOUDEMOII_y92z0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047879376952578180",
+        "in_reply_to_user_id": "1800782392346783744",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047873363209855266",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DOUDEMOII_y92z0 只有天知道"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1800782392346783744",
+        "conversation_id": "2047323148895621398",
+        "created_at": "2026-04-25T03:00:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T04:00:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047873363209855266"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2046990809908879368",
+              "start": 0,
+              "username": "silentbleeding1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047873363209855266",
+        "in_reply_to_user_id": "2046990809908879368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047323148895621398",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@silentbleeding1 我們的未來會怎樣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-22T16:36:22.000Z",
+        "description": "🩸图磕药发颠支黑负能号\n大号在此@Lizzy_522",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "Lizzy_522"
+              }
+            ]
+          }
+        },
+        "id": "2046990809908879368",
+        "name": "リジー（二世推u巡回中…",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047319984494534656/-SRMKdXI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 122,
+          "like_count": 161,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 37
+        },
+        "username": "silentbleeding1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-12T06:49:27.000Z",
+        "description": "顺性别直男｜熟读马列毛思想｜计划经济拥护者｜想操逼了有附近的女同志吗在线d一个燕妮\n我的毛泽东@lyb1007 我的江青@Taffydaisuki",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "lyb1007"
+              },
+              {
+                "end": 73,
+                "start": 60,
+                "username": "Taffydaisuki"
+              }
+            ]
+          }
+        },
+        "id": "1800782392346783744",
+        "name": "爹亲娘亲没有🇨🇳🇰🇵🇰🇭亲",
+        "pinned_tweet_id": "1800799125124026874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039602238805729280/WqKXDgie_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 107,
+          "like_count": 1096,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 326
+        },
+        "username": "DOUDEMOII_y92z0",
+        "verified": false
+      }
+    ]
+  }
+}

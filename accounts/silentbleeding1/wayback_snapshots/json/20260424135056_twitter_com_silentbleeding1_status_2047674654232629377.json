@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046990809908879368",
+    "conversation_id": "2047668631056826498",
+    "created_at": "2026-04-24T13:50:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T14:50:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047674654232629377"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1896904934995656704",
+          "start": 0,
+          "username": "penpunx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047674654232629377",
+    "in_reply_to_user_id": "1896904934995656704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047672090946613448",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@penpunx 其实是1200mgpr和20mg巴氯芬🤓"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046990809908879368",
+        "conversation_id": "2047668631056826498",
+        "created_at": "2026-04-24T13:50:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T14:50:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047674654232629377"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1896904934995656704",
+              "start": 0,
+              "username": "penpunx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047674654232629377",
+        "in_reply_to_user_id": "1896904934995656704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047672090946613448",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@penpunx 其实是1200mgpr和20mg巴氯芬🤓"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2047668631056826498",
+        "created_at": "2026-04-24T13:40:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T14:40:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047672090946613448"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2046990809908879368",
+              "start": 0,
+              "username": "silentbleeding1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047672090946613448",
+        "in_reply_to_user_id": "2046990809908879368",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047668631056826498",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@silentbleeding1 茶碱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-22T16:36:22.000Z",
+        "description": "🩸图磕药发颠支黑负能号\n大号在此@Lizzy_522",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "Lizzy_522"
+              }
+            ]
+          }
+        },
+        "id": "2046990809908879368",
+        "name": "リジー（二世推u巡回中…",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047319984494534656/-SRMKdXI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 110,
+          "like_count": 154,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 33
+        },
+        "username": "silentbleeding1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033219658875330560/oFFNomrP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 263,
+          "following_count": 435,
+          "like_count": 12206,
+          "listed_count": 1,
+          "media_count": 464,
+          "tweet_count": 3854
+        },
+        "username": "penpunx",
+        "verified": false
+      }
+    ]
+  }
+}

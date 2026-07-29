@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046990809908879368",
+    "conversation_id": "2061089367847039054",
+    "created_at": "2026-05-31T14:16:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T15:16:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061089367847039054"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2042022908122558464",
+          "start": 3,
+          "username": "Sallyvzc6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061089367847039054",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061077195716710495",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Sallyvzc6: hello〜(＞＜)〜\n自/o/e 精分 09（！注意未成年警告⚠️）\n173-113？ \n薯条🍟🚪\n168好友位➕解锁日常互动什么的（最近v风控加不了可以dy）\n288会有亲亲服务还有叫醒服务，包括我们的陪玩服务～🚪➖5/h\n520 女朋友级别陪…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1095,
+        "media_key": "3_2061077188804587520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJpqyH1bsAAp9Aq.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046990809908879368",
+        "conversation_id": "2061089367847039054",
+        "created_at": "2026-05-31T14:16:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T15:16:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061089367847039054"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2042022908122558464",
+              "start": 3,
+              "username": "Sallyvzc6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061089367847039054",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061077195716710495",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Sallyvzc6: hello〜(＞＜)〜\n自/o/e 精分 09（！注意未成年警告⚠️）\n173-113？ \n薯条🍟🚪\n168好友位➕解锁日常互动什么的（最近v风控加不了可以dy）\n288会有亲亲服务还有叫醒服务，包括我们的陪玩服务～🚪➖5/h\n520 女朋友级别陪…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061077188804587520"
+          ]
+        },
+        "author_id": "2042022908122558464",
+        "conversation_id": "2061077195716710495",
+        "created_at": "2026-05-31T13:27:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T14:27:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061077195716710495"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1rvTqmT7XY",
+              "end": 188,
+              "expanded_url": "https://x.com/Sallyvzc6/status/2061077195716710495/photo/1",
+              "media_key": "3_2061077188804587520",
+              "start": 165,
+              "url": "https://t.co/1rvTqmT7XY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061077195716710495",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 54,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "hello〜(＞＜)〜\n自/o/e 精分 09（！注意未成年警告⚠️）\n173-113？ \n薯条🍟🚪\n168好友位➕解锁日常互动什么的（最近v风控加不了可以dy）\n288会有亲亲服务还有叫醒服务，包括我们的陪玩服务～🚪➖5/h\n520 女朋友级别陪伴，情绪价值超足（不过可能找工作后就没那么有空了）\n888 我是你的狗\n1314 https://t.co/1rvTqmT7XY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-22T16:36:22.000Z",
+        "description": "前世@Lizzy_522 \n08 he/they enby.双相、焦虑症正在治疗。烟鬼、酗酒、#shtwt、#odtwt。成分复杂，公路车，日本文学/拉康精神分析，钢琴，硬/前卫/蓝调/独立摇滚，虚无主义重建欲望中…负能，日常发神经吐苦水，友所有群体，查成分回fo。里推@pillsandblood",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 53,
+                "start": 47,
+                "tag": "shtwt"
+              },
+              {
+                "end": 60,
+                "start": 54,
+                "tag": "odtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "Lizzy_522"
+              },
+              {
+                "end": 149,
+                "start": 135,
+                "username": "pillsandblood"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizzy_522",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizzy_522",
+                "start": 0,
+                "url": "https://t.co/AQMnPR82BG"
+              }
+            ]
+          }
+        },
+        "id": "2046990809908879368",
+        "name": "リジー",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060729372013895680/wVCe3wl1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 460,
+          "following_count": 405,
+          "like_count": 3398,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 865
+        },
+        "url": "https://t.co/AQMnPR82BG",
+        "username": "silentbleeding1",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-08T23:33:27.000Z",
+        "description": "随便发发\n别惹我我只是一个小兔子 想跟我互动的求你们给我钱我喜欢钱 喜欢的人会回关",
+        "id": "2042022908122558464",
+        "name": "1ta",
+        "pinned_tweet_id": "2061077195716710495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055876817169641473/qQ47lWiM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 328,
+          "following_count": 36,
+          "like_count": 149,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 150
+        },
+        "username": "Sallyvzc6",
+        "verified": false
+      }
+    ]
+  }
+}

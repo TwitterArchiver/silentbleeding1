@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046990809908879368",
+    "conversation_id": "2057492256287072649",
+    "created_at": "2026-05-21T16:05:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T17:05:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057492886430884261"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1738187540912607232",
+          "start": 0,
+          "username": "uu_salvation777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057492886430884261",
+    "in_reply_to_user_id": "1738187540912607232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057492256287072649",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@uu_salvation777 生日快乐🎂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046990809908879368",
+        "conversation_id": "2057492256287072649",
+        "created_at": "2026-05-21T16:05:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T17:05:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057492886430884261"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1738187540912607232",
+              "start": 0,
+              "username": "uu_salvation777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057492886430884261",
+        "in_reply_to_user_id": "1738187540912607232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057492256287072649",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uu_salvation777 生日快乐🎂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738187540912607232",
+        "conversation_id": "2057492256287072649",
+        "created_at": "2026-05-21T16:02:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T17:02:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057492256287072649"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 24,
+              "id": "2046990809908879368",
+              "start": 8,
+              "username": "silentbleeding1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057492256287072649",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个入今天过生日@silentbleeding1 祝他生快"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-22T16:36:22.000Z",
+        "description": "08 he/they enby.双相、焦虑症正在治疗。烟鬼、酗酒、#shtwt、#odtwt。成分复杂，日本文学/拉康精神分析，钢琴，硬/前卫/蓝调/独立摇滚，虚无主义重建欲望中…负能，日常发神经吐苦水，友所有群体，查成分回fo。前世@Lizzy_522 里推@pillsandblood",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 39,
+                "start": 33,
+                "tag": "shtwt"
+              },
+              {
+                "end": 46,
+                "start": 40,
+                "tag": "odtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 127,
+                "start": 117,
+                "username": "Lizzy_522"
+              },
+              {
+                "end": 144,
+                "start": 130,
+                "username": "pillsandblood"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizzy_522",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizzy_522",
+                "start": 0,
+                "url": "https://t.co/AQMnPR82BG"
+              }
+            ]
+          }
+        },
+        "id": "2046990809908879368",
+        "name": "リジー",
+        "pinned_tweet_id": "2051150939533590911",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047319984494534656/-SRMKdXI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 412,
+          "following_count": 373,
+          "like_count": 2450,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 551
+        },
+        "url": "https://t.co/AQMnPR82BG",
+        "username": "silentbleeding1",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-22T13:19:47.000Z",
+        "description": "想吸毒想润/longer hair thinner body/明年死妈高考/08直女/抑郁cptsd贪食症adhd😂/i am on💙#Mounjaro💙/不会说英文中文/#techno #shedtwt #lexapro #mia/165cm gw54kg/新教徒 等待baptize 希望所有人都过得开心",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 76,
+                "start": 67,
+                "tag": "Mounjaro"
+              },
+              {
+                "end": 93,
+                "start": 86,
+                "tag": "techno"
+              },
+              {
+                "end": 102,
+                "start": 94,
+                "tag": "shedtwt"
+              },
+              {
+                "end": 111,
+                "start": 103,
+                "tag": "lexapro"
+              },
+              {
+                "end": 116,
+                "start": 112,
+                "tag": "mia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/miyu77",
+                "end": 23,
+                "expanded_url": "https://ngl.link/miyu77",
+                "start": 0,
+                "url": "https://t.co/jRKM0Ow0ap"
+              }
+            ]
+          }
+        },
+        "id": "1738187540912607232",
+        "location": "紫魔爪",
+        "name": "⁺‧ཐི⋆♱uuuUu7🇺🇸♱⋆ཋྀ‧⁺",
+        "pinned_tweet_id": "2057492256287072649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048453870284832768/rxJGoiYL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 130,
+          "like_count": 2045,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 2324
+        },
+        "url": "https://t.co/jRKM0Ow0ap",
+        "username": "uu_salvation777",
+        "verified": false
+      }
+    ]
+  }
+}

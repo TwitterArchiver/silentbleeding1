@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046990809908879368",
+    "conversation_id": "2063995180894871575",
+    "created_at": "2026-06-09T03:17:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T04:17:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064185172870967509"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2009876491971244033",
+          "start": 0,
+          "username": "hnwn223381"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064185172870967509",
+    "in_reply_to_user_id": "2009876491971244033",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064165588231221723",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hnwn223381 没那么帅orz"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046990809908879368",
+        "conversation_id": "2063995180894871575",
+        "created_at": "2026-06-09T03:17:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T04:17:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064185172870967509"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2009876491971244033",
+              "start": 0,
+              "username": "hnwn223381"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064185172870967509",
+        "in_reply_to_user_id": "2009876491971244033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064165588231221723",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hnwn223381 没那么帅orz"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2009876491971244033",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1402328512237752320",
+              "name": "Death Note"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1402328512237752320",
+              "name": "Death Note"
+            }
+          }
+        ],
+        "conversation_id": "2063995180894871575",
+        "created_at": "2026-06-09T02:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T03:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064165588231221723"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2046990809908879368",
+              "start": 0,
+              "username": "silentbleeding1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064165588231221723",
+        "in_reply_to_user_id": "2046990809908879368",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063995180894871575",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@silentbleeding1 夜神月？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-22T16:36:22.000Z",
+        "description": "前世@Lizzy_522 \n08 he/they enby.双相、焦虑症正在治疗。烟鬼、酗酒、#shtwt、#odtwt。成分复杂，公路车，日本文学/拉康精神分析，钢琴，硬/前卫/蓝调/独立摇滚，负能，日常发神经吐苦水，友所有群体，查成分回fo。里推@pillsandblood",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 53,
+                "start": 47,
+                "tag": "shtwt"
+              },
+              {
+                "end": 60,
+                "start": 54,
+                "tag": "odtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "Lizzy_522"
+              },
+              {
+                "end": 139,
+                "start": 125,
+                "username": "pillsandblood"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizzy_522",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizzy_522",
+                "start": 0,
+                "url": "https://t.co/AQMnPR82BG"
+              }
+            ]
+          }
+        },
+        "id": "2046990809908879368",
+        "name": "リジー",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060729372013895680/wVCe3wl1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 478,
+          "following_count": 412,
+          "like_count": 3894,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 1002
+        },
+        "url": "https://t.co/AQMnPR82BG",
+        "username": "silentbleeding1",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-10T06:35:12.000Z",
+        "description": "爱党（骗你的），爱人民  自由派 社会民主主义   也是浪漫主义者 /有时虚无，犬儒主义（ 我很孤独）对人心软，很感性 很阴郁。 喜欢少女乐队和听音乐  。要建成现代国家必须放开党禁  言论自由  思想自由  司法独立 主权在民。我认可中国共产党的一部分主张。现减少键政频率，可私信  小号/文青：@AlexJinder",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 160,
+                "start": 149,
+                "username": "AlexJinder"
+              }
+            ]
+          }
+        },
+        "id": "2009876491971244033",
+        "location": "皇后大道东",
+        "name": "伟大同志搞搞新意思（互fo淡推中）🇹🇼🇺🇸",
+        "pinned_tweet_id": "2055907876179488990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064146942578581504/9Fi0Q731_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 296,
+          "following_count": 430,
+          "like_count": 1140,
+          "listed_count": 1,
+          "media_count": 75,
+          "tweet_count": 939
+        },
+        "username": "hnwn223381",
+        "verified": false
+      }
+    ]
+  }
+}

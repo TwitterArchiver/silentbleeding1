@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047315143785402368"
+      ]
+    },
+    "author_id": "2046990809908879368",
+    "conversation_id": "2047315153834893479",
+    "created_at": "2026-04-23T14:02:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T15:02:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047315153834893479"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/YsSvNubGDI",
+          "end": 34,
+          "expanded_url": "https://x.com/silentbleeding1/status/2047315153834893479/photo/1",
+          "media_key": "3_2047315143785402368",
+          "start": 11,
+          "url": "https://t.co/YsSvNubGDI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047315153834893479",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "难绷昨天预判今天封号 https://t.co/YsSvNubGDI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1048,
+        "media_key": "3_2047315143785402368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGmGRrCbUAAWgpD.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047315143785402368"
+          ]
+        },
+        "author_id": "2046990809908879368",
+        "conversation_id": "2047315153834893479",
+        "created_at": "2026-04-23T14:02:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T15:02:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047315153834893479"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YsSvNubGDI",
+              "end": 34,
+              "expanded_url": "https://x.com/silentbleeding1/status/2047315153834893479/photo/1",
+              "media_key": "3_2047315143785402368",
+              "start": 11,
+              "url": "https://t.co/YsSvNubGDI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047315153834893479",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "难绷昨天预判今天封号 https://t.co/YsSvNubGDI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-22T16:36:22.000Z",
+        "description": "自残磕药发颠支黑负能号，关注请求会慢慢通过，怕被限关注…",
+        "id": "2046990809908879368",
+        "name": "Lizzy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046991779866857472/235J5XiE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 21,
+          "like_count": 11,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 4
+        },
+        "username": "silentbleeding1",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046990809908879368",
+    "conversation_id": "2069299857781887446",
+    "created_at": "2026-06-23T06:03:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T07:03:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069300262624477549"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1916113741328093187",
+          "start": 0,
+          "username": "0nemoresec"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069300262624477549",
+    "in_reply_to_user_id": "2046990809908879368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069299857781887446",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0nemoresec 这期词穷了😭🤚期待你的喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1296,
+        "media_key": "3_2069299845316407296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLehPuXa8AAPl4x.jpg",
+        "width": 1170
+      },
+      {
+        "height": 1396,
+        "media_key": "3_2069299845207384064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLehPt9bYAAhQrX.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046990809908879368",
+        "conversation_id": "2069299857781887446",
+        "created_at": "2026-06-23T06:03:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T07:03:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069300262624477549"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1916113741328093187",
+              "start": 0,
+              "username": "0nemoresec"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069300262624477549",
+        "in_reply_to_user_id": "2046990809908879368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069299857781887446",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0nemoresec 这期词穷了😭🤚期待你的喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069299845316407296",
+            "3_2069299845207384064"
+          ]
+        },
+        "author_id": "2046990809908879368",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1885840496003616768",
+              "name": "Herbie Hancock"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1885840496003616768",
+              "name": "Herbie Hancock"
+            }
+          }
+        ],
+        "conversation_id": "2069299857781887446",
+        "created_at": "2026-06-23T06:01:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T07:01:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069299857781887446"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1jcpgf7JEe",
+              "end": 101,
+              "expanded_url": "https://x.com/silentbleeding1/status/2069299857781887446/photo/1",
+              "media_key": "3_2069299845316407296",
+              "start": 78,
+              "url": "https://t.co/1jcpgf7JEe"
+            },
+            {
+              "display_url": "pic.x.com/1jcpgf7JEe",
+              "end": 101,
+              "expanded_url": "https://x.com/silentbleeding1/status/2069299857781887446/photo/1",
+              "media_key": "3_2069299845207384064",
+              "start": 78,
+              "url": "https://t.co/1jcpgf7JEe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069299857781887446",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "DAY9：Chameleon-Herbie Hancock\n我也不知道让我感到开心怎么定义，反正这个融合爵士听着我挺开心的😹👌\n律动感很强很喜欢开头的低音 https://t.co/1jcpgf7JEe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-22T16:36:22.000Z",
+        "description": "前世@Lizzy_522 \n08 he/they enby.双相、焦虑症正在治疗。烟鬼、酗酒、#shtwt、#odtwt。成分复杂，公路车，日本文学/拉康精神分析，钢琴，硬/前卫/蓝调/独立摇滚，负能，日常发神经吐苦水，友所有群体，查成分回fo。里推@pillsandblood",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 53,
+                "start": 47,
+                "tag": "shtwt"
+              },
+              {
+                "end": 60,
+                "start": 54,
+                "tag": "odtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "Lizzy_522"
+              },
+              {
+                "end": 139,
+                "start": 125,
+                "username": "pillsandblood"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizzy_5221",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizzy_5221",
+                "start": 0,
+                "url": "https://t.co/TdKmbtj5RY"
+              }
+            ]
+          }
+        },
+        "id": "2046990809908879368",
+        "name": "リジー",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060729372013895680/wVCe3wl1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 534,
+          "following_count": 453,
+          "like_count": 5398,
+          "listed_count": 0,
+          "media_count": 117,
+          "tweet_count": 1521
+        },
+        "url": "https://t.co/TdKmbtj5RY",
+        "username": "silentbleeding1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-26T12:54:58.000Z",
+        "description": "尸体在说话\n匿名信 https://t.co/dAFmIPsROM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/0nemoresec",
+                "end": 33,
+                "expanded_url": "https://ngl.link/0nemoresec",
+                "start": 10,
+                "url": "https://t.co/dAFmIPsROM"
+              }
+            ]
+          }
+        },
+        "id": "1916113741328093187",
+        "location": "空白",
+        "name": "000",
+        "pinned_tweet_id": "2068352892189438411",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063212015276232704/wKzUSuMr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 156,
+          "like_count": 2873,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 1238
+        },
+        "url": "",
+        "username": "0nemoresec",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046990809908879368",
+    "conversation_id": "2072381090497724546",
+    "created_at": "2026-07-02T05:34:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T06:34:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072554459696414759"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2054568943256485888",
+          "start": 0,
+          "username": "Riafixcom"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072554459696414759",
+    "in_reply_to_user_id": "2054568943256485888",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072381090497724546",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Riafixcom 支持"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2072381090497724546].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2072381090497724546",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2072381090497724546"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046990809908879368",
+        "conversation_id": "2072381090497724546",
+        "created_at": "2026-07-02T05:34:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T06:34:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072554459696414759"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2054568943256485888",
+              "start": 0,
+              "username": "Riafixcom"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072554459696414759",
+        "in_reply_to_user_id": "2054568943256485888",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072381090497724546",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Riafixcom 支持"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-22T16:36:22.000Z",
+        "description": "前世@Lizzy_522 \n08 he/they 一般路过普通精神病#shtwt、#odtwt。喜欢各类摇滚和cult，每日高强度冲浪中。负能，日常吐苦水，友所有群体，迪哥们来找我互fo。里推@pillsandblood\n引路人@KKKaoru_",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 47,
+                "start": 41,
+                "tag": "odtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "Lizzy_522"
+              },
+              {
+                "end": 110,
+                "start": 96,
+                "username": "pillsandblood"
+              },
+              {
+                "end": 123,
+                "start": 114,
+                "username": "KKKaoru_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizzy_5221",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizzy_5221",
+                "start": 0,
+                "url": "https://t.co/TdKmbtj5RY"
+              }
+            ]
+          }
+        },
+        "id": "2046990809908879368",
+        "name": "リジー",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060729372013895680/wVCe3wl1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 549,
+          "following_count": 464,
+          "like_count": 6176,
+          "listed_count": 0,
+          "media_count": 148,
+          "tweet_count": 1761
+        },
+        "url": "https://t.co/TdKmbtj5RY",
+        "username": "silentbleeding1",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-13T14:27:14.000Z",
+        "description": "我就是太善良了，惹得一身祸，你再过来，我就必须呼叫杨景媛查东丽韩光莲董志民毛泽东来治治你这小贱货了",
+        "id": "2054568943256485888",
+        "location": "中国的种姓制度为何如此残酷？🥺",
+        "name": "利亚驾驶小飞机猛烈撞击中国尊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070477744090279936/VwKcFVbb_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 41,
+          "like_count": 1059,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 922
+        },
+        "url": "",
+        "username": "Riafixcom",
+        "verified": false
+      }
+    ]
+  }
+}

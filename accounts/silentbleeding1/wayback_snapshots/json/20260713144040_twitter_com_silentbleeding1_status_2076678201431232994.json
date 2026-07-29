@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046990809908879368",
+    "conversation_id": "2076436603975987606",
+    "created_at": "2026-07-13T14:40:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T15:40:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076678201431232994"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2054568943256485888",
+          "start": 0,
+          "username": "Riafixcom"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076678201431232994",
+    "in_reply_to_user_id": "2054568943256485888",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076674043886084405",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Riafixcom 可以大学猛吸👁️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046990809908879368",
+        "conversation_id": "2076436603975987606",
+        "created_at": "2026-07-13T14:40:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T15:40:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076678201431232994"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2054568943256485888",
+              "start": 0,
+              "username": "Riafixcom"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076678201431232994",
+        "in_reply_to_user_id": "2054568943256485888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076674043886084405",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Riafixcom 可以大学猛吸👁️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054568943256485888",
+        "conversation_id": "2076436603975987606",
+        "created_at": "2026-07-13T14:24:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T15:24:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076674043886084405"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2046990809908879368",
+              "start": 0,
+              "username": "silentbleeding1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076674043886084405",
+        "in_reply_to_user_id": "2046990809908879368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076673221089435826",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@silentbleeding1 我这个农村人也是看呆了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-22T16:36:22.000Z",
+        "description": "前世@Lizzy_522 \n08 he/they bpd。 #shtwt、#odtwt。喜欢各类摇滚和cult，每日高强度冲浪中。负能，日常吐苦水，友所有群体，迪哥们来找我互fo。里推@pillsandblood\n引路人@KKKaoru_",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 36,
+                "start": 30,
+                "tag": "shtwt"
+              },
+              {
+                "end": 43,
+                "start": 37,
+                "tag": "odtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "Lizzy_522"
+              },
+              {
+                "end": 106,
+                "start": 92,
+                "username": "pillsandblood"
+              },
+              {
+                "end": 119,
+                "start": 110,
+                "username": "KKKaoru_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizzy_5221",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizzy_5221",
+                "start": 0,
+                "url": "https://t.co/TdKmbtj5RY"
+              }
+            ]
+          }
+        },
+        "id": "2046990809908879368",
+        "name": "リジー",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060729372013895680/wVCe3wl1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 599,
+          "following_count": 501,
+          "like_count": 7206,
+          "listed_count": 0,
+          "media_count": 172,
+          "tweet_count": 2045
+        },
+        "url": "https://t.co/TdKmbtj5RY",
+        "username": "silentbleeding1",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-13T14:27:14.000Z",
+        "description": "你的婊威我后知后觉\n在读研究生，外形优秀不缺得吃，已经对正常性生活感到腻味，追08年混血女高未果，反而自我洗脑成为她和对象的贡畜锁奴，在这里记录我的沦陷过程",
+        "id": "2054568943256485888",
+        "location": "多伦多的种姓制度为何如此残酷？🥺",
+        "name": "中国戒屌大学",
+        "pinned_tweet_id": "2074517782537126383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074809189021757440/13QdKX7q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 63,
+          "like_count": 1904,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 1566
+        },
+        "url": "",
+        "username": "Riafixcom",
+        "verified": false
+      }
+    ]
+  }
+}

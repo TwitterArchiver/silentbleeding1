@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046990809908879368",
+    "conversation_id": "2080705360525152481",
+    "created_at": "2026-07-25T13:03:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T14:03:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081002517962674178"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1822167103673143296",
+          "start": 0,
+          "username": "zau743598828677"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081002517962674178",
+    "in_reply_to_user_id": "1822167103673143296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081000635802230815",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zau743598828677 靠。。歌声一出来我就绷不住哭了。。中西部青春期伤痛。。我最终也没成为小时候第一次吃麦当劳时候自己期待的大人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046990809908879368",
+        "conversation_id": "2080705360525152481",
+        "created_at": "2026-07-25T13:03:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T14:03:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081002517962674178"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1822167103673143296",
+              "start": 0,
+              "username": "zau743598828677"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081002517962674178",
+        "in_reply_to_user_id": "1822167103673143296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081000635802230815",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zau743598828677 靠。。歌声一出来我就绷不住哭了。。中西部青春期伤痛。。我最终也没成为小时候第一次吃麦当劳时候自己期待的大人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1822167103673143296",
+        "conversation_id": "2080705360525152481",
+        "created_at": "2026-07-25T12:56:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T13:56:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081000635802230815"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2046990809908879368",
+              "start": 0,
+              "username": "silentbleeding1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081000635802230815",
+        "in_reply_to_user_id": "2046990809908879368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080705360525152481",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@silentbleeding1 靠。。歌声一出来我就绷不住哭了。。中西部青春期伤痛。。我最终也没成为小时候第一次吃麦当劳时候自己期待的大人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-22T16:36:22.000Z",
+        "description": "前世@Lizzy_522 \nhe/they bpd。 #shtwt、#odtwt。喜各类摇滚和cult，每日高强度冲浪中。负能，日常吐苦水，友所有群体，迪哥们来找我互fo。里推@pillsandblood\n引路人@KKKaoru_",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 33,
+                "start": 27,
+                "tag": "shtwt"
+              },
+              {
+                "end": 40,
+                "start": 34,
+                "tag": "odtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "Lizzy_522"
+              },
+              {
+                "end": 102,
+                "start": 88,
+                "username": "pillsandblood"
+              },
+              {
+                "end": 115,
+                "start": 106,
+                "username": "KKKaoru_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizzy_5221",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizzy_5221",
+                "start": 0,
+                "url": "https://t.co/TdKmbtj5RY"
+              }
+            ]
+          }
+        },
+        "id": "2046990809908879368",
+        "name": "リジー",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060729372013895680/wVCe3wl1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 622,
+          "following_count": 513,
+          "like_count": 7890,
+          "listed_count": 1,
+          "media_count": 192,
+          "tweet_count": 2224
+        },
+        "url": "https://t.co/TdKmbtj5RY",
+        "username": "silentbleeding1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-10T07:04:52.000Z",
+        "description": "摄影爱好者📷，ins账号如下—⚠️负面警告⚠️—@GLaDOS8964 的转生，老号被人搞丢了—脾气极好，随时随地无聊中，欢迎来骚扰—🌈友好，tg：https://t.co/DqaXKntrrj",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 24,
+                "username": "GLaDOS8964"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/GLaDOSlove",
+                "end": 97,
+                "expanded_url": "http://t.me/GLaDOSlove",
+                "start": 74,
+                "url": "https://t.co/DqaXKntrrj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/gladoslove?igs…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/gladoslove?igsh=OXdrOGJ0dzViaGE1",
+                "start": 0,
+                "url": "https://t.co/at0RBxE0ea"
+              }
+            ]
+          }
+        },
+        "id": "1822167103673143296",
+        "location": "河南郑州",
+        "name": "GLaDOS",
+        "pinned_tweet_id": "2079192132200608102",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067379534601900032/90Nh4cNr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 179,
+          "following_count": 278,
+          "like_count": 2120,
+          "listed_count": 0,
+          "media_count": 116,
+          "tweet_count": 1799
+        },
+        "url": "https://t.co/at0RBxE0ea",
+        "username": "zau743598828677",
+        "verified": false
+      }
+    ]
+  }
+}

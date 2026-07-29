@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046990809908879368",
+    "conversation_id": "2071779698422829076",
+    "created_at": "2026-06-30T03:47:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T04:47:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071802659624157272"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1417099624922370056",
+          "start": 0,
+          "username": "XinGZiSaMa_8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071802659624157272",
+    "in_reply_to_user_id": "1417099624922370056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071779698422829076",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XinGZiSaMa_8964 生日快乐！！！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2071779675186352128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMBwo0hbUAA3gVl.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046990809908879368",
+        "conversation_id": "2071779698422829076",
+        "created_at": "2026-06-30T03:47:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T04:47:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071802659624157272"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1417099624922370056",
+              "start": 0,
+              "username": "XinGZiSaMa_8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071802659624157272",
+        "in_reply_to_user_id": "1417099624922370056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071779698422829076",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XinGZiSaMa_8964 生日快乐！！！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071779675186352128"
+          ]
+        },
+        "author_id": "1417099624922370056",
+        "conversation_id": "2071779698422829076",
+        "created_at": "2026-06-30T02:15:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T03:15:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071779698422829076"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nXg7TcjNtr",
+              "end": 28,
+              "expanded_url": "https://x.com/XinGZiSaMa_8964/status/2071779698422829076/photo/1",
+              "media_key": "3_2071779675186352128",
+              "start": 5,
+              "url": "https://t.co/nXg7TcjNtr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071779698422829076",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 131,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "戳气球！ https://t.co/nXg7TcjNtr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-22T16:36:22.000Z",
+        "description": "前世@Lizzy_522 \n08 he/they 一般路过普通精神病#shtwt、#odtwt。喜欢各类摇滚和cult，每日高强度冲浪中。负能，日常吐苦水，友所有群体，迪哥们来找我互fo。里推@pillsandblood",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 47,
+                "start": 41,
+                "tag": "odtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "Lizzy_522"
+              },
+              {
+                "end": 110,
+                "start": 96,
+                "username": "pillsandblood"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizzy_5221",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizzy_5221",
+                "start": 0,
+                "url": "https://t.co/TdKmbtj5RY"
+              }
+            ]
+          }
+        },
+        "id": "2046990809908879368",
+        "name": "リジー",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060729372013895680/wVCe3wl1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 544,
+          "following_count": 459,
+          "like_count": 5986,
+          "listed_count": 0,
+          "media_count": 139,
+          "tweet_count": 1703
+        },
+        "url": "https://t.co/TdKmbtj5RY",
+        "username": "silentbleeding1",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-19T12:31:06.000Z",
+        "description": "😈😈我是恶魔嘻嘻嘻｜男高｜友跨｜koishi激推｜电吉他学习ing｜Guns N' Roses｜不od｜不自残｜没双相｜日语学习中｜喜欢猫｜互fo请私信喵",
+        "id": "1417099624922370056",
+        "location": "天堂",
+        "name": "性子sama🐾🎸",
+        "pinned_tweet_id": "2052910402129051867",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010818938666733568/mI3QBzcv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 828,
+          "following_count": 447,
+          "like_count": 56087,
+          "listed_count": 3,
+          "media_count": 1621,
+          "tweet_count": 10329
+        },
+        "url": "",
+        "username": "XinGZiSaMa_8964",
+        "verified": false
+      }
+    ]
+  }
+}

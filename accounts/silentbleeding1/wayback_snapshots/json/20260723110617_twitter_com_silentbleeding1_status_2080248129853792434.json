@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2080248099315077121"
+      ]
+    },
+    "author_id": "2046990809908879368",
+    "conversation_id": "2080248129853792434",
+    "created_at": "2026-07-23T11:06:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T12:06:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080248129853792434"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/7fBawk5kBq",
+          "end": 31,
+          "expanded_url": "https://x.com/silentbleeding1/status/2080248129853792434/video/1",
+          "media_key": "13_2080248099315077121",
+          "start": 8,
+          "url": "https://t.co/7fBawk5kBq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080248129853792434",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "太潮酷了这玩意 https://t.co/7fBawk5kBq"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4921,
+        "height": 1280,
+        "media_key": "13_2080248099315077121",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2080248099315077121/img/zDhYx4AYZsyRVcxr.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080248099315077121/vid/avc1/320x568/JtkWXTdqZlIzSPvo.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080248099315077121/vid/avc1/480x852/iBcWmkW05ne2BBgX.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080248099315077121/vid/avc1/720x1280/v2FvQIWcMiwVFXpY.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2080248099315077121/pl/hDW58-NW33XGtwP8.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2080248099315077121"
+          ]
+        },
+        "author_id": "2046990809908879368",
+        "conversation_id": "2080248129853792434",
+        "created_at": "2026-07-23T11:06:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T12:06:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080248129853792434"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7fBawk5kBq",
+              "end": 31,
+              "expanded_url": "https://x.com/silentbleeding1/status/2080248129853792434/video/1",
+              "media_key": "13_2080248099315077121",
+              "start": 8,
+              "url": "https://t.co/7fBawk5kBq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080248129853792434",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "太潮酷了这玩意 https://t.co/7fBawk5kBq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-22T16:36:22.000Z",
+        "description": "前世@Lizzy_522 \nhe/they bpd。 #shtwt、#odtwt。喜各类摇滚和cult，每日高强度冲浪中。负能，日常吐苦水，友所有群体，迪哥们来找我互fo。里推@pillsandblood\n引路人@KKKaoru_",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 33,
+                "start": 27,
+                "tag": "shtwt"
+              },
+              {
+                "end": 40,
+                "start": 34,
+                "tag": "odtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "Lizzy_522"
+              },
+              {
+                "end": 102,
+                "start": 88,
+                "username": "pillsandblood"
+              },
+              {
+                "end": 115,
+                "start": 106,
+                "username": "KKKaoru_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizzy_5221",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizzy_5221",
+                "start": 0,
+                "url": "https://t.co/TdKmbtj5RY"
+              }
+            ]
+          }
+        },
+        "id": "2046990809908879368",
+        "name": "リジー",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060729372013895680/wVCe3wl1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 617,
+          "following_count": 510,
+          "like_count": 7717,
+          "listed_count": 1,
+          "media_count": 186,
+          "tweet_count": 2169
+        },
+        "url": "https://t.co/TdKmbtj5RY",
+        "username": "silentbleeding1",
+        "verified": false
+      }
+    ]
+  }
+}

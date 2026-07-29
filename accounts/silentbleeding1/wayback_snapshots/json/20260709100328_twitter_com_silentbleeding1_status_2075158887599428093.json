@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046990809908879368",
+    "conversation_id": "2075143938852389313",
+    "created_at": "2026-07-09T10:03:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T11:03:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075158887599428093"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1240202079789961217",
+          "start": 0,
+          "username": "rain_1587"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075158887599428093",
+    "in_reply_to_user_id": "1240202079789961217",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075143938852389313",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rain_1587 但是新加坡确实满地烟头（"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2400,
+        "media_key": "3_2075143925036437504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMxkZ72bUAAmxyT.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046990809908879368",
+        "conversation_id": "2075143938852389313",
+        "created_at": "2026-07-09T10:03:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T11:03:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075158887599428093"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1240202079789961217",
+              "start": 0,
+              "username": "rain_1587"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075158887599428093",
+        "in_reply_to_user_id": "1240202079789961217",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075143938852389313",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rain_1587 但是新加坡确实满地烟头（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075143925036437504"
+          ]
+        },
+        "author_id": "1240202079789961217",
+        "conversation_id": "2075143938852389313",
+        "created_at": "2026-07-09T09:04:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T10:04:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075143938852389313"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CfNmDrvIrK",
+              "end": 35,
+              "expanded_url": "https://x.com/rain_1587/status/2075143938852389313/photo/1",
+              "media_key": "3_2075143925036437504",
+              "start": 12,
+              "url": "https://t.co/CfNmDrvIrK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075143938852389313",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 102,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "？哪个平行世界的新加坡 https://t.co/CfNmDrvIrK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-22T16:36:22.000Z",
+        "description": "前世@Lizzy_522 \n08 he/they bpd。 #shtwt、#odtwt。喜欢各类摇滚和cult，每日高强度冲浪中。负能，日常吐苦水，友所有群体，迪哥们来找我互fo。里推@pillsandblood\n引路人@KKKaoru_",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 36,
+                "start": 30,
+                "tag": "shtwt"
+              },
+              {
+                "end": 43,
+                "start": 37,
+                "tag": "odtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "Lizzy_522"
+              },
+              {
+                "end": 106,
+                "start": 92,
+                "username": "pillsandblood"
+              },
+              {
+                "end": 119,
+                "start": 110,
+                "username": "KKKaoru_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizzy_5221",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizzy_5221",
+                "start": 0,
+                "url": "https://t.co/TdKmbtj5RY"
+              }
+            ]
+          }
+        },
+        "id": "2046990809908879368",
+        "name": "リジー",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060729372013895680/wVCe3wl1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 580,
+          "following_count": 485,
+          "like_count": 6807,
+          "listed_count": 0,
+          "media_count": 159,
+          "tweet_count": 1918
+        },
+        "url": "https://t.co/TdKmbtj5RY",
+        "username": "silentbleeding1",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-18T09:03:24.000Z",
+        "description": "🦊/🚗/全职猎人/nirvana/六英尺九英寸/好朋友 @KazNovelyst 除互关外私信只回口令红包",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 28,
+                "username": "KazNovelyst"
+              }
+            ]
+          }
+        },
+        "id": "1240202079789961217",
+        "location": "距你 114514 米",
+        "name": "🦊Rain（煊赫门重度依赖）",
+        "pinned_tweet_id": "1732371525880402126",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869403714995568641/wWxP73Ff_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 849,
+          "following_count": 2232,
+          "like_count": 141716,
+          "listed_count": 3,
+          "media_count": 2918,
+          "tweet_count": 24199
+        },
+        "url": "",
+        "username": "rain_1587",
+        "verified": false
+      }
+    ]
+  }
+}

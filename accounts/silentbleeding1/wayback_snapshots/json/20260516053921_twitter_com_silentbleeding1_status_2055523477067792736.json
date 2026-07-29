@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046990809908879368",
+    "conversation_id": "2055372364637196648",
+    "created_at": "2026-05-16T05:39:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T06:39:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055523477067792736"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1896904934995656704",
+          "start": 0,
+          "username": "penpunx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055523477067792736",
+    "in_reply_to_user_id": "1896904934995656704",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055372364637196648",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@penpunx 好腻害"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 24087,
+        "height": 1280,
+        "media_key": "13_2055372296676950016",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2055372296676950016/img/jztXLvvY15VR5mQI.jpg",
+        "public_metrics": {
+          "view_count": 33
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2055372296676950016/vid/avc1/320x568/JIy-XJAgN5Iy3EEp.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2055372296676950016/vid/avc1/480x852/RsEg3pllFKsp4AI0.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2055372296676950016/vid/avc1/720x1280/XJYmWpSROD8I6bgX.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2055372296676950016/pl/5uOlZRMxnlhumJGR.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046990809908879368",
+        "conversation_id": "2055372364637196648",
+        "created_at": "2026-05-16T05:39:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T06:39:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055523477067792736"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1896904934995656704",
+              "start": 0,
+              "username": "penpunx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055523477067792736",
+        "in_reply_to_user_id": "1896904934995656704",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055372364637196648",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@penpunx 好腻害"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2055372296676950016"
+          ]
+        },
+        "author_id": "1896904934995656704",
+        "conversation_id": "2055372364637196648",
+        "created_at": "2026-05-15T19:38:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T20:38:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055372364637196648"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/P6OGtf5keM",
+              "end": 33,
+              "expanded_url": "https://x.com/penpunx/status/2055372364637196648/video/1",
+              "media_key": "13_2055372296676950016",
+              "start": 10,
+              "url": "https://t.co/P6OGtf5keM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055372364637196648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 153,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "曾唱童高音。呜呼！ https://t.co/P6OGtf5keM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-22T16:36:22.000Z",
+        "description": "08 he/they enby.双相、焦虑症正在治疗。烟鬼、酗酒、#shtwt、#odtwt。成分复杂，日本文学/拉康精神分析，钢琴，硬/前卫/蓝调/独立摇滚，虚无主义重建欲望中…负能，日常发神经吐苦水，友所有群体，查成分回fo。前世@Lizzy_522 里推@pillsandblood",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 39,
+                "start": 33,
+                "tag": "shtwt"
+              },
+              {
+                "end": 46,
+                "start": 40,
+                "tag": "odtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 127,
+                "start": 117,
+                "username": "Lizzy_522"
+              },
+              {
+                "end": 144,
+                "start": 130,
+                "username": "pillsandblood"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizzy_522",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizzy_522",
+                "start": 0,
+                "url": "https://t.co/AQMnPR82BG"
+              }
+            ]
+          }
+        },
+        "id": "2046990809908879368",
+        "name": "リジー",
+        "pinned_tweet_id": "2051150939533590911",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047319984494534656/-SRMKdXI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 400,
+          "following_count": 359,
+          "like_count": 2036,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 451
+        },
+        "url": "https://t.co/AQMnPR82BG",
+        "username": "silentbleeding1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049834933355687936/lvhzFk9s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 365,
+          "following_count": 530,
+          "like_count": 13349,
+          "listed_count": 1,
+          "media_count": 519,
+          "tweet_count": 4589
+        },
+        "username": "penpunx",
+        "verified": false
+      }
+    ]
+  }
+}

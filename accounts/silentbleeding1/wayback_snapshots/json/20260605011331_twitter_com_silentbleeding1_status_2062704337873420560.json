@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046990809908879368",
+    "conversation_id": "2062595124585251088",
+    "created_at": "2026-06-05T01:13:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T02:13:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062704337873420560"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1974865605204586498",
+          "start": 0,
+          "username": "kuroki___tomoko"
+        },
+        {
+          "end": 29,
+          "id": "1409516495571501066",
+          "start": 17,
+          "username": "DrankghostU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062704337873420560",
+    "in_reply_to_user_id": "1974865605204586498",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062595124585251088",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kuroki___tomoko @DrankghostU 好漂亮…"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2062595124585251088].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2062595124585251088",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2062595124585251088"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046990809908879368",
+        "conversation_id": "2062595124585251088",
+        "created_at": "2026-06-05T01:13:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T02:13:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062704337873420560"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1974865605204586498",
+              "start": 0,
+              "username": "kuroki___tomoko"
+            },
+            {
+              "end": 29,
+              "id": "1409516495571501066",
+              "start": 17,
+              "username": "DrankghostU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062704337873420560",
+        "in_reply_to_user_id": "1974865605204586498",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062595124585251088",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kuroki___tomoko @DrankghostU 好漂亮…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-22T16:36:22.000Z",
+        "description": "前世@Lizzy_522 \n08 he/they enby.双相、焦虑症正在治疗。烟鬼、酗酒、#shtwt、#odtwt。成分复杂，公路车，日本文学/拉康精神分析，钢琴，硬/前卫/蓝调/独立摇滚，负能，日常发神经吐苦水，友所有群体，查成分回fo。里推@pillsandblood",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 53,
+                "start": 47,
+                "tag": "shtwt"
+              },
+              {
+                "end": 60,
+                "start": 54,
+                "tag": "odtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "Lizzy_522"
+              },
+              {
+                "end": 139,
+                "start": 125,
+                "username": "pillsandblood"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizzy_522",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizzy_522",
+                "start": 0,
+                "url": "https://t.co/AQMnPR82BG"
+              }
+            ]
+          }
+        },
+        "id": "2046990809908879368",
+        "name": "リジー",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060729372013895680/wVCe3wl1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 463,
+          "following_count": 402,
+          "like_count": 3646,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 911
+        },
+        "url": "https://t.co/AQMnPR82BG",
+        "username": "silentbleeding1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-05T15:54:07.000Z",
+        "description": "此世即吾世 如月满无缺  @yuyaovo7",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 13,
+                "username": "yuyaovo7"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kurokisama",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kurokisama",
+                "start": 0,
+                "url": "https://t.co/qIBG0cFbha"
+              }
+            ]
+          }
+        },
+        "id": "1974865605204586498",
+        "location": "克拉斯诺亚尔斯克",
+        "name": "黒木トモコ",
+        "pinned_tweet_id": "2058502626896167168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038452725957201920/996GCo3n_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1422,
+          "following_count": 2665,
+          "like_count": 46671,
+          "listed_count": 2,
+          "media_count": 343,
+          "tweet_count": 4314
+        },
+        "url": "https://t.co/qIBG0cFbha",
+        "username": "kuroki___tomoko",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-28T14:18:23.000Z",
+        "description": "被msk气哭了。\n前世@SaotomeShimeri\n女宝互关熟了可以恰v \n男性推油请给恶魔死目莉的熔炼炉投入52cny喵😤\n没有喜欢死目莉的觉悟的人不能靠近死目莉！😤😤",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 11,
+                "username": "SaotomeShimeri"
+              }
+            ]
+          }
+        },
+        "id": "1409516495571501066",
+        "name": "早乙女死目莉2.0",
+        "pinned_tweet_id": "2062521015922749816",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058389276015120384/ihPt3Trh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 315,
+          "following_count": 182,
+          "like_count": 72,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 399
+        },
+        "username": "DrankghostU",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046990809908879368",
+    "conversation_id": "2078678977867293125",
+    "created_at": "2026-07-20T09:54:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T10:54:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079142847970975970"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1896904934995656704",
+          "start": 0,
+          "username": "penpunx"
+        },
+        {
+          "end": 22,
+          "id": "1678171777409875968",
+          "start": 9,
+          "username": "420420420CTL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079142847970975970",
+    "in_reply_to_user_id": "1896904934995656704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079112125046472827",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@penpunx @420420420CTL 就前几天啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046990809908879368",
+        "conversation_id": "2078678977867293125",
+        "created_at": "2026-07-20T09:54:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T10:54:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079142847970975970"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1896904934995656704",
+              "start": 0,
+              "username": "penpunx"
+            },
+            {
+              "end": 22,
+              "id": "1678171777409875968",
+              "start": 9,
+              "username": "420420420CTL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079142847970975970",
+        "in_reply_to_user_id": "1896904934995656704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079112125046472827",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@penpunx @420420420CTL 就前几天啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2078678977867293125",
+        "created_at": "2026-07-20T07:52:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T08:52:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079112125046472827"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2046990809908879368",
+              "start": 0,
+              "username": "silentbleeding1"
+            },
+            {
+              "end": 30,
+              "id": "1678171777409875968",
+              "start": 17,
+              "username": "420420420CTL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079112125046472827",
+        "in_reply_to_user_id": "2046990809908879368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078840086310146302",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@silentbleeding1 @420420420CTL 卧槽你什么时候中的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-22T16:36:22.000Z",
+        "description": "前世@Lizzy_522 \nhe/they bpd。 #shtwt、#odtwt。喜各类摇滚和cult，每日高强度冲浪中。负能，日常吐苦水，友所有群体，迪哥们来找我互fo。里推@pillsandblood\n引路人@KKKaoru_",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 33,
+                "start": 27,
+                "tag": "shtwt"
+              },
+              {
+                "end": 40,
+                "start": 34,
+                "tag": "odtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "Lizzy_522"
+              },
+              {
+                "end": 102,
+                "start": 88,
+                "username": "pillsandblood"
+              },
+              {
+                "end": 115,
+                "start": 106,
+                "username": "KKKaoru_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizzy_5221",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizzy_5221",
+                "start": 0,
+                "url": "https://t.co/TdKmbtj5RY"
+              }
+            ]
+          }
+        },
+        "id": "2046990809908879368",
+        "name": "リジー",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060729372013895680/wVCe3wl1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 613,
+          "following_count": 511,
+          "like_count": 7556,
+          "listed_count": 1,
+          "media_count": 178,
+          "tweet_count": 2114
+        },
+        "url": "https://t.co/TdKmbtj5RY",
+        "username": "silentbleeding1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "location": "形",
+        "name": "treni",
+        "pinned_tweet_id": "2072618621621375104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076258070020386816/VU6lCfuE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 490,
+          "following_count": 669,
+          "like_count": 15260,
+          "listed_count": 2,
+          "media_count": 866,
+          "tweet_count": 6702
+        },
+        "url": "",
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-09T22:38:41.000Z",
+        "description": "支持亞洲大麻合法化，大麻除罪，正視醫療大麻用途，MTF🏳️‍⚧️🏳️‍🌈LGBTQ友好🧑‍🤝‍🧑👭只有x和谷歌電郵聯繫方式，會回私信，社群：https://t.co/YwMarw2XdU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/i/communities/…",
+                "end": 93,
+                "expanded_url": "https://x.com/i/communities/2002034506979750304",
+                "start": 70,
+                "url": "https://t.co/YwMarw2XdU"
+              }
+            ]
+          }
+        },
+        "id": "1678171777409875968",
+        "location": "Los Angeles, CA",
+        "name": "邦尼兔weed_420（大麻/電子煙）",
+        "pinned_tweet_id": "2056029691916713996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018807810830770177/xgp8x96H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4494,
+          "following_count": 706,
+          "like_count": 664,
+          "listed_count": 0,
+          "media_count": 196,
+          "tweet_count": 1145
+        },
+        "url": "",
+        "username": "420420420CTL",
+        "verified": true
+      }
+    ]
+  }
+}

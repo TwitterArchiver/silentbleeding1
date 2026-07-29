@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080878585070714880"
+      ]
+    },
+    "author_id": "2046990809908879368",
+    "conversation_id": "2080878594415603937",
+    "created_at": "2026-07-25T04:51:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T05:51:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080878594415603937"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/c6PFd8tjJo",
+          "end": 30,
+          "expanded_url": "https://x.com/silentbleeding1/status/2080878594415603937/photo/1",
+          "media_key": "3_2080878585070714880",
+          "start": 7,
+          "url": "https://t.co/c6PFd8tjJo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080878594415603937",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "火车上耍起嘛 https://t.co/c6PFd8tjJo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 576,
+        "media_key": "3_2080878585070714880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HODEDFPbgAAN-5t.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080878585070714880"
+          ]
+        },
+        "author_id": "2046990809908879368",
+        "conversation_id": "2080878594415603937",
+        "created_at": "2026-07-25T04:51:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T05:51:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080878594415603937"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/c6PFd8tjJo",
+              "end": 30,
+              "expanded_url": "https://x.com/silentbleeding1/status/2080878594415603937/photo/1",
+              "media_key": "3_2080878585070714880",
+              "start": 7,
+              "url": "https://t.co/c6PFd8tjJo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080878594415603937",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "火车上耍起嘛 https://t.co/c6PFd8tjJo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-22T16:36:22.000Z",
+        "description": "前世@Lizzy_522 \nhe/they bpd。 #shtwt、#odtwt。喜各类摇滚和cult，每日高强度冲浪中。负能，日常吐苦水，友所有群体，迪哥们来找我互fo。里推@pillsandblood\n引路人@KKKaoru_",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 33,
+                "start": 27,
+                "tag": "shtwt"
+              },
+              {
+                "end": 40,
+                "start": 34,
+                "tag": "odtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "Lizzy_522"
+              },
+              {
+                "end": 102,
+                "start": 88,
+                "username": "pillsandblood"
+              },
+              {
+                "end": 115,
+                "start": 106,
+                "username": "KKKaoru_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizzy_5221",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizzy_5221",
+                "start": 0,
+                "url": "https://t.co/TdKmbtj5RY"
+              }
+            ]
+          }
+        },
+        "id": "2046990809908879368",
+        "name": "リジー",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060729372013895680/wVCe3wl1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 622,
+          "following_count": 512,
+          "like_count": 7852,
+          "listed_count": 1,
+          "media_count": 192,
+          "tweet_count": 2217
+        },
+        "url": "https://t.co/TdKmbtj5RY",
+        "username": "silentbleeding1",
+        "verified": false
+      }
+    ]
+  }
+}

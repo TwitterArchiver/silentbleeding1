@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046990809908879368",
+    "conversation_id": "2076710410452189369",
+    "created_at": "2026-07-14T04:41:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T05:41:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076889706479153527"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2055010868174143488",
+          "start": 0,
+          "username": "Tiegang114514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076889706479153527",
+    "in_reply_to_user_id": "2055010868174143488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076746439154425952",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tiegang114514 谢谢波波🤤"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2076746439154425952].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2076746439154425952",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2076746439154425952"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046990809908879368",
+        "conversation_id": "2076710410452189369",
+        "created_at": "2026-07-14T04:41:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T05:41:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076889706479153527"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2055010868174143488",
+              "start": 0,
+              "username": "Tiegang114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076889706479153527",
+        "in_reply_to_user_id": "2055010868174143488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076746439154425952",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tiegang114514 谢谢波波🤤"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-22T16:36:22.000Z",
+        "description": "前世@Lizzy_522 \n08 he/they bpd。 #shtwt、#odtwt。喜欢各类摇滚和cult，每日高强度冲浪中。负能，日常吐苦水，友所有群体，迪哥们来找我互fo。里推@pillsandblood\n引路人@KKKaoru_",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 36,
+                "start": 30,
+                "tag": "shtwt"
+              },
+              {
+                "end": 43,
+                "start": 37,
+                "tag": "odtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "Lizzy_522"
+              },
+              {
+                "end": 106,
+                "start": 92,
+                "username": "pillsandblood"
+              },
+              {
+                "end": 119,
+                "start": 110,
+                "username": "KKKaoru_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizzy_5221",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizzy_5221",
+                "start": 0,
+                "url": "https://t.co/TdKmbtj5RY"
+              }
+            ]
+          }
+        },
+        "id": "2046990809908879368",
+        "name": "リジー",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060729372013895680/wVCe3wl1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 601,
+          "following_count": 502,
+          "like_count": 7223,
+          "listed_count": 0,
+          "media_count": 172,
+          "tweet_count": 2054
+        },
+        "url": "https://t.co/TdKmbtj5RY",
+        "username": "silentbleeding1",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-14T19:43:08.000Z",
+        "description": "永锁号，就这么样吧\n大号@NMD_China喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 12,
+                "username": "NMD_China"
+              }
+            ]
+          }
+        },
+        "id": "2055010868174143488",
+        "location": "小樽",
+        "name": "社恐的鱼睡大觉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058375320877559808/nFWGLM_N_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 97,
+          "like_count": 3701,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 243
+        },
+        "url": "",
+        "username": "Tiegang114514",
+        "verified": false
+      }
+    ]
+  }
+}

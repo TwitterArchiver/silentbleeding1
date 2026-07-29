@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077557652834615296"
+      ]
+    },
+    "author_id": "2046990809908879368",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      }
+    ],
+    "conversation_id": "2077557661219074329",
+    "created_at": "2026-07-16T00:55:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T01:55:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077557661219074329"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ky3ShVJevW",
+          "end": 133,
+          "expanded_url": "https://x.com/silentbleeding1/status/2077557661219074329/photo/1",
+          "media_key": "3_2077557652834615296",
+          "start": 110,
+          "url": "https://t.co/ky3ShVJevW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077557661219074329",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我现在认为日本迷噪比六十年代嬉皮士的迷幻摇滚更具酸性（暴论）\n但的确迷噪在原先欧美的摇滚基础上融入了更多元素。\n这也是我最佩服日本音乐的一点，他们不止一次地从现有的各类音乐形式上博采众长，最终形成了自己独特的音乐风格。 https://t.co/ky3ShVJevW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1132,
+        "media_key": "3_2077557652834615296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNT3rYmaAAA3nnV.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077557652834615296"
+          ]
+        },
+        "author_id": "2046990809908879368",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2077557661219074329",
+        "created_at": "2026-07-16T00:55:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T01:55:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077557661219074329"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ky3ShVJevW",
+              "end": 133,
+              "expanded_url": "https://x.com/silentbleeding1/status/2077557661219074329/photo/1",
+              "media_key": "3_2077557652834615296",
+              "start": 110,
+              "url": "https://t.co/ky3ShVJevW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077557661219074329",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我现在认为日本迷噪比六十年代嬉皮士的迷幻摇滚更具酸性（暴论）\n但的确迷噪在原先欧美的摇滚基础上融入了更多元素。\n这也是我最佩服日本音乐的一点，他们不止一次地从现有的各类音乐形式上博采众长，最终形成了自己独特的音乐风格。 https://t.co/ky3ShVJevW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-22T16:36:22.000Z",
+        "description": "前世@Lizzy_522 \n08 he/they bpd。 #shtwt、#odtwt。喜欢各类摇滚和cult，每日高强度冲浪中。负能，日常吐苦水，友所有群体，迪哥们来找我互fo。里推@pillsandblood\n引路人@KKKaoru_",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 36,
+                "start": 30,
+                "tag": "shtwt"
+              },
+              {
+                "end": 43,
+                "start": 37,
+                "tag": "odtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "Lizzy_522"
+              },
+              {
+                "end": 106,
+                "start": 92,
+                "username": "pillsandblood"
+              },
+              {
+                "end": 119,
+                "start": 110,
+                "username": "KKKaoru_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizzy_5221",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizzy_5221",
+                "start": 0,
+                "url": "https://t.co/TdKmbtj5RY"
+              }
+            ]
+          }
+        },
+        "id": "2046990809908879368",
+        "name": "リジー",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060729372013895680/wVCe3wl1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 608,
+          "following_count": 508,
+          "like_count": 7424,
+          "listed_count": 0,
+          "media_count": 175,
+          "tweet_count": 2080
+        },
+        "url": "https://t.co/TdKmbtj5RY",
+        "username": "silentbleeding1",
+        "verified": false
+      }
+    ]
+  }
+}

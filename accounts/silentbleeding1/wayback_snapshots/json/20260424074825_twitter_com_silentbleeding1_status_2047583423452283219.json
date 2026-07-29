@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047492208996352000"
+      ],
+      "media_source_tweet_id": [
+        "2047492216965542185"
+      ]
+    },
+    "author_id": "2046990809908879368",
+    "conversation_id": "2047583423452283219",
+    "created_at": "2026-04-24T07:48:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T08:48:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047583423452283219"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1981638054688501760",
+          "start": 3,
+          "username": "ashasw114514"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Td4xoL6iq3",
+          "end": 41,
+          "expanded_url": "https://x.com/ashasw114514/status/2047492216965542185/photo/1",
+          "media_key": "3_2047492208996352000",
+          "start": 18,
+          "url": "https://t.co/Td4xoL6iq3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047583423452283219",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 47
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047492216965542185",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ashasw114514: https://t.co/Td4xoL6iq3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1448,
+        "media_key": "3_2047492208996352000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGonUOWbgAASGWI.jpg",
+        "width": 1086
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047492208996352000"
+          ],
+          "media_source_tweet_id": [
+            "2047492216965542185"
+          ]
+        },
+        "author_id": "2046990809908879368",
+        "conversation_id": "2047583423452283219",
+        "created_at": "2026-04-24T07:48:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T08:48:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047583423452283219"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1981638054688501760",
+              "start": 3,
+              "username": "ashasw114514"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Td4xoL6iq3",
+              "end": 41,
+              "expanded_url": "https://x.com/ashasw114514/status/2047492216965542185/photo/1",
+              "media_key": "3_2047492208996352000",
+              "start": 18,
+              "url": "https://t.co/Td4xoL6iq3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047583423452283219",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 47
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047492216965542185",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ashasw114514: https://t.co/Td4xoL6iq3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047492208996352000"
+          ]
+        },
+        "author_id": "1981638054688501760",
+        "conversation_id": "2047492216965542185",
+        "created_at": "2026-04-24T01:45:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T02:45:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047492216965542185"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Td4xoL6iq3",
+              "end": 23,
+              "expanded_url": "https://x.com/ashasw114514/status/2047492216965542185/photo/1",
+              "media_key": "3_2047492208996352000",
+              "start": 0,
+              "url": "https://t.co/Td4xoL6iq3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047492216965542185",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 34,
+          "impression_count": 28458,
+          "like_count": 421,
+          "quote_count": 8,
+          "reply_count": 29,
+          "retweet_count": 47
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Td4xoL6iq3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-22T16:36:22.000Z",
+        "description": "🩸图磕药发颠支黑负能号\n大号在此@Lizzy_522",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "Lizzy_522"
+              }
+            ]
+          }
+        },
+        "id": "2046990809908879368",
+        "name": "リジー（二世推u巡回中…",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047319984494534656/-SRMKdXI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 96,
+          "like_count": 134,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 27
+        },
+        "username": "silentbleeding1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-24T08:25:16.000Z",
+        "description": "性少数友好  粉区退散 后现代黑话定型文享受者  此账号一切仇恨言论都是troll  查成分互fo🚪52 妈妈 @maopao_hfqy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 56,
+                "username": "maopao_hfqy"
+              }
+            ]
+          }
+        },
+        "id": "1981638054688501760",
+        "location": "Toronto, Ontario",
+        "name": "搞耍潮爹",
+        "pinned_tweet_id": "2033963961281085452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042630733886558212/PjNOs5t0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2043,
+          "following_count": 1998,
+          "like_count": 5599,
+          "listed_count": 6,
+          "media_count": 346,
+          "tweet_count": 3262
+        },
+        "username": "ashasw114514",
+        "verified": true
+      }
+    ]
+  }
+}

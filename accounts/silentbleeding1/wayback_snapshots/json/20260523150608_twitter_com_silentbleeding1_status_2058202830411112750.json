@@ -1,0 +1,309 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046990809908879368",
+    "conversation_id": "2058198993612775721",
+    "created_at": "2026-05-23T15:06:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T16:06:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058202830411112750"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1845491203124441093",
+          "start": 0,
+          "username": "yu_huacs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058202830411112750",
+    "in_reply_to_user_id": "1845491203124441093",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058202003281694959",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yu_huacs 笑死我了这个"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9843,
+        "height": 1280,
+        "media_key": "7_2058201974806585344",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2058201974806585344/pu/img/mlpH6ZO56XKVyLds.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2058201974806585344/pu/vid/avc1/320x568/340VzR6PK5ivrnPb.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2058201974806585344/pu/vid/avc1/480x852/qpVUDs5q0Zjx66qM.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2058201974806585344/pu/vid/avc1/720x1280/mlXeBD7z4T_2ScOI.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2058201974806585344/pu/pl/LCWqFzZoV2j7zR0U.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046990809908879368",
+        "conversation_id": "2058198993612775721",
+        "created_at": "2026-05-23T15:06:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T16:06:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058202830411112750"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1845491203124441093",
+              "start": 0,
+              "username": "yu_huacs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058202830411112750",
+        "in_reply_to_user_id": "1845491203124441093",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058202003281694959",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yu_huacs 笑死我了这个"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2058201974806585344"
+          ]
+        },
+        "author_id": "1845491203124441093",
+        "conversation_id": "2058198993612775721",
+        "created_at": "2026-05-23T15:02:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T16:02:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058202003281694959"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2046990809908879368",
+              "start": 0,
+              "username": "silentbleeding1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/s9k9adiU9c",
+              "end": 40,
+              "expanded_url": "https://x.com/yu_huacs/status/2058202003281694959/video/1",
+              "media_key": "7_2058201974806585344",
+              "start": 17,
+              "url": "https://t.co/s9k9adiU9c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058202003281694959",
+        "in_reply_to_user_id": "2046990809908879368",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058201866161496129",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@silentbleeding1 https://t.co/s9k9adiU9c"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-22T16:36:22.000Z",
+        "description": "前世@Lizzy_522 \n08 he/they enby.双相、焦虑症正在治疗。烟鬼、酗酒、#shtwt、#odtwt。成分复杂，公路车，日本文学/拉康精神分析，钢琴，硬/前卫/蓝调/独立摇滚，虚无主义重建欲望中…负能，日常发神经吐苦水，友所有群体，查成分回fo。里推@pillsandblood",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 53,
+                "start": 47,
+                "tag": "shtwt"
+              },
+              {
+                "end": 60,
+                "start": 54,
+                "tag": "odtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "Lizzy_522"
+              },
+              {
+                "end": 149,
+                "start": 135,
+                "username": "pillsandblood"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizzy_522",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizzy_522",
+                "start": 0,
+                "url": "https://t.co/AQMnPR82BG"
+              }
+            ]
+          }
+        },
+        "id": "2046990809908879368",
+        "name": "リジー",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047319984494534656/-SRMKdXI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 439,
+          "following_count": 388,
+          "like_count": 2814,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 734
+        },
+        "url": "https://t.co/AQMnPR82BG",
+        "username": "silentbleeding1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-13T15:46:25.000Z",
+        "description": "公路车技师 日常发牢骚推 有精神病内容 双相 皮上是健全の公路车技师 想和很多很多人交朋友 一个乐无天的家里蹲 少有cos照 有公路车组车需求可以询问我 我异父异母の🈹🈹@silentbleeding1  另一个我 @yuhuacs5570",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 85,
+                "username": "silentbleeding1"
+              },
+              {
+                "end": 120,
+                "start": 108,
+                "username": "yuhuacs5570"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yu_huacs",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yu_huacs",
+                "start": 0,
+                "url": "https://t.co/fGARwmdWCT"
+              }
+            ]
+          }
+        },
+        "id": "1845491203124441093",
+        "location": "寻心而去",
+        "name": "余华成霜8964",
+        "pinned_tweet_id": "2029682364067238377",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036470524784910336/m6ce5LZ2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1633,
+          "following_count": 1398,
+          "like_count": 115106,
+          "listed_count": 8,
+          "media_count": 2072,
+          "tweet_count": 19404
+        },
+        "url": "https://t.co/fGARwmdWCT",
+        "username": "yu_huacs",
+        "verified": false
+      }
+    ]
+  }
+}

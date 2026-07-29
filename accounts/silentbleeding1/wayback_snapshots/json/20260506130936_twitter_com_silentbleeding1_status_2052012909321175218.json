@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052012898516684800",
+        "3_2052012898508275712",
+        "3_2052012898504069120"
+      ]
+    },
+    "author_id": "2046990809908879368",
+    "conversation_id": "2052012909321175218",
+    "created_at": "2026-05-06T13:09:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T14:09:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052012909321175218"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/4jDcqPsS4b",
+          "end": 26,
+          "expanded_url": "https://x.com/silentbleeding1/status/2052012909321175218/photo/1",
+          "media_key": "3_2052012898516684800",
+          "start": 3,
+          "url": "https://t.co/4jDcqPsS4b"
+        },
+        {
+          "display_url": "pic.x.com/4jDcqPsS4b",
+          "end": 26,
+          "expanded_url": "https://x.com/silentbleeding1/status/2052012909321175218/photo/1",
+          "media_key": "3_2052012898508275712",
+          "start": 3,
+          "url": "https://t.co/4jDcqPsS4b"
+        },
+        {
+          "display_url": "pic.x.com/4jDcqPsS4b",
+          "end": 26,
+          "expanded_url": "https://x.com/silentbleeding1/status/2052012909321175218/photo/1",
+          "media_key": "3_2052012898504069120",
+          "start": 3,
+          "url": "https://t.co/4jDcqPsS4b"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052012909321175218",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "挂起 https://t.co/4jDcqPsS4b"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2052012898516684800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHo22_KbUAApoaK.jpg",
+        "width": 768
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2052012898508275712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHo22_IbAAAWd7T.jpg",
+        "width": 768
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2052012898504069120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHo22_Ha0AAE3tJ.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052012898516684800",
+            "3_2052012898508275712",
+            "3_2052012898504069120"
+          ]
+        },
+        "author_id": "2046990809908879368",
+        "conversation_id": "2052012909321175218",
+        "created_at": "2026-05-06T13:09:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T14:09:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052012909321175218"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4jDcqPsS4b",
+              "end": 26,
+              "expanded_url": "https://x.com/silentbleeding1/status/2052012909321175218/photo/1",
+              "media_key": "3_2052012898516684800",
+              "start": 3,
+              "url": "https://t.co/4jDcqPsS4b"
+            },
+            {
+              "display_url": "pic.x.com/4jDcqPsS4b",
+              "end": 26,
+              "expanded_url": "https://x.com/silentbleeding1/status/2052012909321175218/photo/1",
+              "media_key": "3_2052012898508275712",
+              "start": 3,
+              "url": "https://t.co/4jDcqPsS4b"
+            },
+            {
+              "display_url": "pic.x.com/4jDcqPsS4b",
+              "end": 26,
+              "expanded_url": "https://x.com/silentbleeding1/status/2052012909321175218/photo/1",
+              "media_key": "3_2052012898504069120",
+              "start": 3,
+              "url": "https://t.co/4jDcqPsS4b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052012909321175218",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "挂起 https://t.co/4jDcqPsS4b"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-22T16:36:22.000Z",
+        "description": "08 he/they enby.双相、焦虑症正在治疗。烟鬼、酗酒、#shtwt、#odtwt。成分复杂，曾经骑单车，三岛由纪夫，钢琴，硬/前卫/蓝调/独立摇滚，jpop…虚无主义重建欲望中…负能，日常发神经吐苦水，友所有群体，查成分回fo。永远怀念——被封的大号@Lizzy_522",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 39,
+                "start": 33,
+                "tag": "shtwt"
+              },
+              {
+                "end": 46,
+                "start": 40,
+                "tag": "odtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 141,
+                "start": 131,
+                "username": "Lizzy_522"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizzy_522",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizzy_522",
+                "start": 0,
+                "url": "https://t.co/AQMnPR82BG"
+              }
+            ]
+          }
+        },
+        "id": "2046990809908879368",
+        "name": "リジー 2.0（推友寻回中）",
+        "pinned_tweet_id": "2051150939533590911",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047319984494534656/-SRMKdXI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 298,
+          "following_count": 284,
+          "like_count": 869,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 190
+        },
+        "url": "https://t.co/AQMnPR82BG",
+        "username": "silentbleeding1",
+        "verified": false
+      }
+    ]
+  }
+}

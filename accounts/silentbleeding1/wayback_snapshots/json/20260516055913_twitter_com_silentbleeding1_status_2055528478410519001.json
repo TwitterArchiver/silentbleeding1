@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046990809908879368",
+    "conversation_id": "2055252648497184854",
+    "created_at": "2026-05-16T05:59:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T06:59:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055528478410519001"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1956567270739828736",
+          "start": 0,
+          "username": "Truffaut897456"
+        },
+        {
+          "end": 25,
+          "id": "1280001743162609664",
+          "start": 16,
+          "username": "Poca2381"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055528478410519001",
+    "in_reply_to_user_id": "1956567270739828736",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055252648497184854",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Truffaut897456 @Poca2381 恭喜恭喜喵！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046990809908879368",
+        "conversation_id": "2055252648497184854",
+        "created_at": "2026-05-16T05:59:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T06:59:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055528478410519001"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1956567270739828736",
+              "start": 0,
+              "username": "Truffaut897456"
+            },
+            {
+              "end": 25,
+              "id": "1280001743162609664",
+              "start": 16,
+              "username": "Poca2381"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055528478410519001",
+        "in_reply_to_user_id": "1956567270739828736",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055252648497184854",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Truffaut897456 @Poca2381 恭喜恭喜喵！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1956567270739828736",
+        "conversation_id": "2055252648497184854",
+        "created_at": "2026-05-15T11:43:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T12:43:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055252648497184854"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055252648497184854",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 6020,
+          "like_count": 279,
+          "quote_count": 0,
+          "reply_count": 43,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "居然能达到2w粉，这么久以来感谢大家的喜欢点赞和收藏，还有喜欢我的各位的打赏和支持！真的超级超级感谢大家，也特别特别开心cos和照片能被这么多人看到喜欢😭心里真的超级满足特别特别开心啊，（我的词汇量堪比一根成年香蕉。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-22T16:36:22.000Z",
+        "description": "08 he/they enby.双相、焦虑症正在治疗。烟鬼、酗酒、#shtwt、#odtwt。成分复杂，日本文学/拉康精神分析，钢琴，硬/前卫/蓝调/独立摇滚，虚无主义重建欲望中…负能，日常发神经吐苦水，友所有群体，查成分回fo。前世@Lizzy_522 里推@pillsandblood",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 39,
+                "start": 33,
+                "tag": "shtwt"
+              },
+              {
+                "end": 46,
+                "start": 40,
+                "tag": "odtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 127,
+                "start": 117,
+                "username": "Lizzy_522"
+              },
+              {
+                "end": 144,
+                "start": 130,
+                "username": "pillsandblood"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizzy_522",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizzy_522",
+                "start": 0,
+                "url": "https://t.co/AQMnPR82BG"
+              }
+            ]
+          }
+        },
+        "id": "2046990809908879368",
+        "name": "リジー",
+        "pinned_tweet_id": "2051150939533590911",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047319984494534656/-SRMKdXI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 400,
+          "following_count": 361,
+          "like_count": 2042,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 453
+        },
+        "url": "https://t.co/AQMnPR82BG",
+        "username": "silentbleeding1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-16T04:02:53.000Z",
+        "description": "喜欢电影🎦 喜欢标豆瓣，玩豆瓣的可以私信来互关一下豆瓣，最喜欢恐怖片（意大利铅黄 好莱坞和各种欧美b恐 香港恐怖 日恐），对烂片有瘾，我品味烂爆，各类电影也都会看一点，还有二次元少女乐队特摄古早动画，平时喜欢拍cos和各种拍衣服，照片纯高p，线下丑蛆查无此人，如果撞上请不要骂我呜呜。",
+        "id": "1956567270739828736",
+        "location": "我想吃薯条",
+        "name": "Truffaut",
+        "pinned_tweet_id": "2001567503110279683",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036327207875059712/2Y8IZf_n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20035,
+          "following_count": 1523,
+          "like_count": 12198,
+          "listed_count": 57,
+          "media_count": 300,
+          "tweet_count": 4995
+        },
+        "username": "Truffaut897456",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20500,
+          "following_count": 7996,
+          "like_count": 150654,
+          "listed_count": 49,
+          "media_count": 4181,
+          "tweet_count": 48502
+        },
+        "username": "Poca2381",
+        "verified": false
+      }
+    ]
+  }
+}

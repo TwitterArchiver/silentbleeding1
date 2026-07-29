@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046990809908879368",
+    "conversation_id": "2080681534043181339",
+    "created_at": "2026-07-25T01:00:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T02:00:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080820390373593118"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2073934453454614530",
+          "start": 0,
+          "username": "loveoverder"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080820390373593118",
+    "in_reply_to_user_id": "2073934453454614530",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080820242323050536",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@loveoverder 好诶😋😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046990809908879368",
+        "conversation_id": "2080681534043181339",
+        "created_at": "2026-07-25T01:00:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T02:00:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080820390373593118"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2073934453454614530",
+              "start": 0,
+              "username": "loveoverder"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080820390373593118",
+        "in_reply_to_user_id": "2073934453454614530",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080820242323050536",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@loveoverder 好诶😋😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073934453454614530",
+        "conversation_id": "2080681534043181339",
+        "created_at": "2026-07-25T00:59:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T01:59:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080820242323050536"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2046990809908879368",
+              "start": 0,
+              "username": "silentbleeding1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080820242323050536",
+        "in_reply_to_user_id": "2046990809908879368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080681534043181339",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@silentbleeding1 我靠好帥啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-22T16:36:22.000Z",
+        "description": "前世@Lizzy_522 \nhe/they bpd。 #shtwt、#odtwt。喜各类摇滚和cult，每日高强度冲浪中。负能，日常吐苦水，友所有群体，迪哥们来找我互fo。里推@pillsandblood\n引路人@KKKaoru_",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 33,
+                "start": 27,
+                "tag": "shtwt"
+              },
+              {
+                "end": 40,
+                "start": 34,
+                "tag": "odtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "Lizzy_522"
+              },
+              {
+                "end": 102,
+                "start": 88,
+                "username": "pillsandblood"
+              },
+              {
+                "end": 115,
+                "start": 106,
+                "username": "KKKaoru_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizzy_5221",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizzy_5221",
+                "start": 0,
+                "url": "https://t.co/TdKmbtj5RY"
+              }
+            ]
+          }
+        },
+        "id": "2046990809908879368",
+        "name": "リジー",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060729372013895680/wVCe3wl1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 620,
+          "following_count": 512,
+          "like_count": 7823,
+          "listed_count": 1,
+          "media_count": 190,
+          "tweet_count": 2210
+        },
+        "url": "https://t.co/TdKmbtj5RY",
+        "username": "silentbleeding1",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n主人 @tiantmaoshenshi\n本人已潤去脆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 73,
+                "username": "tiantmaoshenshi"
+              }
+            ]
+          }
+        },
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 244,
+          "like_count": 587,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 1196
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      }
+    ]
+  }
+}

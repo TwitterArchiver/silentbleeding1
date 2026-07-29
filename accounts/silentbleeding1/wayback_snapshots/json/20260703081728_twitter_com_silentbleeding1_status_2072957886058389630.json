@@ -1,0 +1,309 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046990809908879368",
+    "conversation_id": "2070922570850001380",
+    "created_at": "2026-07-03T08:17:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T09:17:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072957886058389630"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1624393872037265413",
+          "start": 0,
+          "username": "K3ss1c"
+        },
+        {
+          "end": 16,
+          "id": "1896904934995656704",
+          "start": 8,
+          "username": "penpunx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072957886058389630",
+    "in_reply_to_user_id": "1624393872037265413",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072956411227877775",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@K3ss1c @penpunx 我感觉这张不够迷幻说是"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2072956403002863616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMSe3ZPbcAAjkfR.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046990809908879368",
+        "conversation_id": "2070922570850001380",
+        "created_at": "2026-07-03T08:17:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T09:17:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072957886058389630"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1624393872037265413",
+              "start": 0,
+              "username": "K3ss1c"
+            },
+            {
+              "end": 16,
+              "id": "1896904934995656704",
+              "start": 8,
+              "username": "penpunx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072957886058389630",
+        "in_reply_to_user_id": "1624393872037265413",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072956411227877775",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@K3ss1c @penpunx 我感觉这张不够迷幻说是"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072956403002863616"
+          ]
+        },
+        "author_id": "1624393872037265413",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2070922570850001380",
+        "created_at": "2026-07-03T08:11:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T09:11:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072956411227877775"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1896904934995656704",
+              "start": 0,
+              "username": "penpunx"
+            },
+            {
+              "end": 25,
+              "id": "2046990809908879368",
+              "start": 9,
+              "username": "silentbleeding1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9SazUDsuw0",
+              "end": 55,
+              "expanded_url": "https://x.com/K3ss1c/status/2072956411227877775/photo/1",
+              "media_key": "3_2072956403002863616",
+              "start": 32,
+              "url": "https://t.co/9SazUDsuw0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072956411227877775",
+        "in_reply_to_user_id": "1896904934995656704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072953227503640789",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@penpunx @silentbleeding1 可以听这张 https://t.co/9SazUDsuw0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-22T16:36:22.000Z",
+        "description": "前世@Lizzy_522 \n08 he/they 一般路过普通精神病#shtwt、#odtwt。喜欢各类摇滚和cult，每日高强度冲浪中。负能，日常吐苦水，友所有群体，迪哥们来找我互fo。里推@pillsandblood\n引路人@KKKaoru_",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 47,
+                "start": 41,
+                "tag": "odtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "Lizzy_522"
+              },
+              {
+                "end": 110,
+                "start": 96,
+                "username": "pillsandblood"
+              },
+              {
+                "end": 123,
+                "start": 114,
+                "username": "KKKaoru_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizzy_5221",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizzy_5221",
+                "start": 0,
+                "url": "https://t.co/TdKmbtj5RY"
+              }
+            ]
+          }
+        },
+        "id": "2046990809908879368",
+        "name": "リジー",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060729372013895680/wVCe3wl1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 569,
+          "following_count": 478,
+          "like_count": 6297,
+          "listed_count": 0,
+          "media_count": 149,
+          "tweet_count": 1795
+        },
+        "url": "https://t.co/TdKmbtj5RY",
+        "username": "silentbleeding1",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-11T13:04:23.000Z",
+        "description": "喜欢你",
+        "id": "1624393872037265413",
+        "name": "难以承受的奥氮平母猪增肥之重",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072019814697287680/GhouhKh3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 690,
+          "following_count": 879,
+          "like_count": 13381,
+          "listed_count": 3,
+          "media_count": 2772,
+          "tweet_count": 18311
+        },
+        "url": "",
+        "username": "K3ss1c",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "location": "疋",
+        "name": "天",
+        "pinned_tweet_id": "2072618621621375104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064601020559396864/7ktj6vNY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 453,
+          "following_count": 624,
+          "like_count": 14608,
+          "listed_count": 2,
+          "media_count": 761,
+          "tweet_count": 6041
+        },
+        "url": "",
+        "username": "penpunx",
+        "verified": false
+      }
+    ]
+  }
+}

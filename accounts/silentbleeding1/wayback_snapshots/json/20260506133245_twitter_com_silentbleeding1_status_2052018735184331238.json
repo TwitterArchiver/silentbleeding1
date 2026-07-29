@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046990809908879368",
+    "conversation_id": "2052013034256867566",
+    "created_at": "2026-05-06T13:32:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T14:32:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052018735184331238"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2041878190747217921",
+          "start": 0,
+          "username": "xxwxxdxxx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052018735184331238",
+    "in_reply_to_user_id": "2041878190747217921",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052018455478522196",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xxwxxdxxx 我走路上一堆穿这个的（🤓"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046990809908879368",
+        "conversation_id": "2052013034256867566",
+        "created_at": "2026-05-06T13:32:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T14:32:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052018735184331238"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2041878190747217921",
+              "start": 0,
+              "username": "xxwxxdxxx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052018735184331238",
+        "in_reply_to_user_id": "2041878190747217921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052018455478522196",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xxwxxdxxx 我走路上一堆穿这个的（🤓"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041878190747217921",
+        "conversation_id": "2052013034256867566",
+        "created_at": "2026-05-06T13:31:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T14:31:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052018455478522196"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2046990809908879368",
+              "start": 0,
+              "username": "silentbleeding1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052018455478522196",
+        "in_reply_to_user_id": "2046990809908879368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052013034256867566",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@silentbleeding1 笑死我了这个优衣库红格子衬衫我也有一件😆"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-22T16:36:22.000Z",
+        "description": "08 he/they enby.双相、焦虑症正在治疗。烟鬼、酗酒、#shtwt、#odtwt。成分复杂，曾经骑单车，三岛由纪夫，钢琴，硬/前卫/蓝调/独立摇滚，jpop…虚无主义重建欲望中…负能，日常发神经吐苦水，友所有群体，查成分回fo。永远怀念——被封的大号@Lizzy_522",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 39,
+                "start": 33,
+                "tag": "shtwt"
+              },
+              {
+                "end": 46,
+                "start": 40,
+                "tag": "odtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 141,
+                "start": 131,
+                "username": "Lizzy_522"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizzy_522",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizzy_522",
+                "start": 0,
+                "url": "https://t.co/AQMnPR82BG"
+              }
+            ]
+          }
+        },
+        "id": "2046990809908879368",
+        "name": "リジー 2.0（推友寻回中）",
+        "pinned_tweet_id": "2051150939533590911",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047319984494534656/-SRMKdXI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 298,
+          "following_count": 284,
+          "like_count": 871,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 191
+        },
+        "url": "https://t.co/AQMnPR82BG",
+        "username": "silentbleeding1",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-08T13:58:17.000Z",
+        "description": "lgbtq友好🏳️‍🌈🌈mtf友好🏳️‍⚧️🍥\n07 ｜ 顺男 ｜ENFP/INFP-T\n混合型抑郁症 服药中\n平时喜欢看电影和玩游戏 大麻使用中\n欢迎互fo 请来找我玩🙌",
+        "id": "2041878190747217921",
+        "name": "Smartwedz",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048791679013175296/mjWx12xa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 101,
+          "like_count": 126,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 149
+        },
+        "username": "xxwxxdxxx",
+        "verified": false
+      }
+    ]
+  }
+}

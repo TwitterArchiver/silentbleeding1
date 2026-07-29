@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046990809908879368",
+    "conversation_id": "2064661010737152142",
+    "created_at": "2026-06-10T14:20:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T15:20:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064714252397711411"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1868647785438003200",
+          "start": 0,
+          "username": "GreyWallStoss"
+        },
+        {
+          "end": 23,
+          "id": "1896904934995656704",
+          "start": 15,
+          "username": "penpunx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064714252397711411",
+    "in_reply_to_user_id": "1868647785438003200",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064666675425714209",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GreyWallStoss @penpunx 这招狠啊🤤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046990809908879368",
+        "conversation_id": "2064661010737152142",
+        "created_at": "2026-06-10T14:20:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T15:20:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064714252397711411"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1868647785438003200",
+              "start": 0,
+              "username": "GreyWallStoss"
+            },
+            {
+              "end": 23,
+              "id": "1896904934995656704",
+              "start": 15,
+              "username": "penpunx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064714252397711411",
+        "in_reply_to_user_id": "1868647785438003200",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064666675425714209",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GreyWallStoss @penpunx 这招狠啊🤤"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868647785438003200",
+        "conversation_id": "2064661010737152142",
+        "created_at": "2026-06-10T11:11:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T12:11:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064666675425714209"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1896904934995656704",
+              "start": 0,
+              "username": "penpunx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064666675425714209",
+        "in_reply_to_user_id": "1896904934995656704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064666140237013500",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@penpunx 我估计是南亚僧人入境海关不检查吧！\n类似于外交官特权那种的\n宗教签证应该也有免检！（可能 \n我们聊的不多（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-22T16:36:22.000Z",
+        "description": "前世@Lizzy_522 \n08 he/they enby.双相、焦虑症正在治疗。烟鬼、酗酒、#shtwt、#odtwt。成分复杂，公路车，日本文学/拉康精神分析，钢琴，硬/前卫/蓝调/独立摇滚，负能，日常发神经吐苦水，友所有群体，查成分回fo。里推@pillsandblood",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 53,
+                "start": 47,
+                "tag": "shtwt"
+              },
+              {
+                "end": 60,
+                "start": 54,
+                "tag": "odtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "Lizzy_522"
+              },
+              {
+                "end": 139,
+                "start": 125,
+                "username": "pillsandblood"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizzy_522",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizzy_522",
+                "start": 0,
+                "url": "https://t.co/AQMnPR82BG"
+              }
+            ]
+          }
+        },
+        "id": "2046990809908879368",
+        "name": "リジー",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060729372013895680/wVCe3wl1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 496,
+          "following_count": 422,
+          "like_count": 4133,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 1128
+        },
+        "url": "https://t.co/AQMnPR82BG",
+        "username": "silentbleeding1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-16T13:22:16.000Z",
+        "description": "决定开一个号发一些大号不方便发的东西/和大号画风不符合的东西/药物/音乐/什么的/如果私自回关老师们造成不安很抱歉！老师们可以直接关注",
+        "id": "1868647785438003200",
+        "name": "撞擊灰色的牆",
+        "pinned_tweet_id": "1868666322785341698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869716680596697088/q_IADrcu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 114,
+          "like_count": 1101,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 370
+        },
+        "username": "GreyWallStoss",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "生命，创作，爱，月亮。",
+        "id": "1896904934995656704",
+        "name": "天▫️",
+        "pinned_tweet_id": "2064657549895553372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064601020559396864/7ktj6vNY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 396,
+          "following_count": 564,
+          "like_count": 13678,
+          "listed_count": 1,
+          "media_count": 607,
+          "tweet_count": 5074
+        },
+        "username": "penpunx",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046990809908879368",
+    "conversation_id": "2074859840606966205",
+    "created_at": "2026-07-09T03:20:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T04:20:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075057385719439397"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1868562193484251136",
+          "start": 0,
+          "username": "LengChamSayBye"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075057385719439397",
+    "in_reply_to_user_id": "1868562193484251136",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074993950784692294",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LengChamSayBye 笑死我了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046990809908879368",
+        "conversation_id": "2074859840606966205",
+        "created_at": "2026-07-09T03:20:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T04:20:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075057385719439397"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1868562193484251136",
+              "start": 0,
+              "username": "LengChamSayBye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075057385719439397",
+        "in_reply_to_user_id": "1868562193484251136",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074993950784692294",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LengChamSayBye 笑死我了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2074859840606966205",
+        "created_at": "2026-07-08T23:08:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T00:08:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074993950784692294"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2046990809908879368",
+              "start": 0,
+              "username": "silentbleeding1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074993950784692294",
+        "in_reply_to_user_id": "2046990809908879368",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074859840606966205",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@silentbleeding1 先帝创业未半而中道崩殂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-22T16:36:22.000Z",
+        "description": "前世@Lizzy_522 \n08 he/they bpd。 #shtwt、#odtwt。喜欢各类摇滚和cult，每日高强度冲浪中。负能，日常吐苦水，友所有群体，迪哥们来找我互fo。里推@pillsandblood\n引路人@KKKaoru_",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 36,
+                "start": 30,
+                "tag": "shtwt"
+              },
+              {
+                "end": 43,
+                "start": 37,
+                "tag": "odtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "Lizzy_522"
+              },
+              {
+                "end": 106,
+                "start": 92,
+                "username": "pillsandblood"
+              },
+              {
+                "end": 119,
+                "start": 110,
+                "username": "KKKaoru_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizzy_5221",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizzy_5221",
+                "start": 0,
+                "url": "https://t.co/TdKmbtj5RY"
+              }
+            ]
+          }
+        },
+        "id": "2046990809908879368",
+        "name": "リジー",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060729372013895680/wVCe3wl1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 579,
+          "following_count": 483,
+          "like_count": 6785,
+          "listed_count": 0,
+          "media_count": 159,
+          "tweet_count": 1908
+        },
+        "url": "https://t.co/TdKmbtj5RY",
+        "username": "silentbleeding1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n黄推建政账号一律拒fo  \n05 |欧德尔 |不摄政 |不涉黄 |#病み垢 |严重精神焦虑",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 51,
+                "tag": "病み垢"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2069502957314576634",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044662107904659456/-Qd1LT8I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 513,
+          "following_count": 220,
+          "like_count": 6127,
+          "listed_count": 0,
+          "media_count": 917,
+          "tweet_count": 5054
+        },
+        "url": "",
+        "username": "LengChamSayBye",
+        "verified": false
+      }
+    ]
+  }
+}

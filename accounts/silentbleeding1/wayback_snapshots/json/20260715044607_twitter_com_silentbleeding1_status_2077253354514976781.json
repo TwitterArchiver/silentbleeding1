@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046990809908879368",
+    "conversation_id": "2077076259465732533",
+    "created_at": "2026-07-15T04:46:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T05:46:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077253354514976781"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2063228399586541568",
+          "start": 0,
+          "username": "_FanQie11_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077253354514976781",
+    "in_reply_to_user_id": "2063228399586541568",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077076259465732533",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_FanQie11_ 牙好齐？！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 874,
+        "media_key": "3_2077076256676601857",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNNB2cKbYAEbU0w.jpg",
+        "width": 1166
+      },
+      {
+        "height": 874,
+        "media_key": "3_2077076256856870912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNNB2c1aEAAcDp2.jpg",
+        "width": 1166
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046990809908879368",
+        "conversation_id": "2077076259465732533",
+        "created_at": "2026-07-15T04:46:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T05:46:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077253354514976781"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2063228399586541568",
+              "start": 0,
+              "username": "_FanQie11_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077253354514976781",
+        "in_reply_to_user_id": "2063228399586541568",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077076259465732533",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_FanQie11_ 牙好齐？！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077076256676601857",
+            "3_2077076256856870912"
+          ]
+        },
+        "author_id": "2063228399586541568",
+        "conversation_id": "2077076259465732533",
+        "created_at": "2026-07-14T17:02:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T18:02:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077076259465732533"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PyhFKIbIHw",
+              "end": 75,
+              "expanded_url": "https://x.com/_FanQie11_/status/2077076259465732533/photo/1",
+              "media_key": "3_2077076256676601857",
+              "start": 52,
+              "url": "https://t.co/PyhFKIbIHw"
+            },
+            {
+              "display_url": "pic.x.com/PyhFKIbIHw",
+              "end": 75,
+              "expanded_url": "https://x.com/_FanQie11_/status/2077076259465732533/photo/1",
+              "media_key": "3_2077076256856870912",
+              "start": 52,
+              "url": "https://t.co/PyhFKIbIHw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077076259465732533",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 144,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Art                                          Artist https://t.co/PyhFKIbIHw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-22T16:36:22.000Z",
+        "description": "前世@Lizzy_522 \n08 he/they bpd。 #shtwt、#odtwt。喜欢各类摇滚和cult，每日高强度冲浪中。负能，日常吐苦水，友所有群体，迪哥们来找我互fo。里推@pillsandblood\n引路人@KKKaoru_",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 36,
+                "start": 30,
+                "tag": "shtwt"
+              },
+              {
+                "end": 43,
+                "start": 37,
+                "tag": "odtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "Lizzy_522"
+              },
+              {
+                "end": 106,
+                "start": 92,
+                "username": "pillsandblood"
+              },
+              {
+                "end": 119,
+                "start": 110,
+                "username": "KKKaoru_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizzy_5221",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizzy_5221",
+                "start": 0,
+                "url": "https://t.co/TdKmbtj5RY"
+              }
+            ]
+          }
+        },
+        "id": "2046990809908879368",
+        "name": "リジー",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060729372013895680/wVCe3wl1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 606,
+          "following_count": 506,
+          "like_count": 7316,
+          "listed_count": 0,
+          "media_count": 172,
+          "tweet_count": 2071
+        },
+        "url": "https://t.co/TdKmbtj5RY",
+        "username": "silentbleeding1",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-06T11:59:22.000Z",
+        "description": "操蛋第11世\n寶寶@7q46843886669\n\n媽媽@zameru619",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 9,
+                "username": "7q46843886669"
+              },
+              {
+                "end": 37,
+                "start": 27,
+                "username": "zameru619"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_2",
+                "start": 0,
+                "url": "https://t.co/GHBdAGFG8e"
+              }
+            ]
+          }
+        },
+        "id": "2063228399586541568",
+        "location": "看看你身後呢",
+        "name": "番茄操蛋",
+        "pinned_tweet_id": "2066018609181372479",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063229850941579264/ABMYWBep_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 327,
+          "following_count": 120,
+          "like_count": 1515,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 983
+        },
+        "url": "https://t.co/GHBdAGFG8e",
+        "username": "_FanQie11_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046990809908879368",
+    "conversation_id": "2047315153834893479",
+    "created_at": "2026-04-23T14:05:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T15:05:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047315993043886338"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2042552907497902083",
+          "start": 0,
+          "username": "Smithollc4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047315993043886338",
+    "in_reply_to_user_id": "2042552907497902083",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047315679947510034",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Smithollc4 到底是谁一直在举报💩"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2047315679947510034].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2047315679947510034",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2047315679947510034"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046990809908879368",
+        "conversation_id": "2047315153834893479",
+        "created_at": "2026-04-23T14:05:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T15:05:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047315993043886338"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2042552907497902083",
+              "start": 0,
+              "username": "Smithollc4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047315993043886338",
+        "in_reply_to_user_id": "2042552907497902083",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047315679947510034",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Smithollc4 到底是谁一直在举报💩"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-22T16:36:22.000Z",
+        "description": "自残磕药发颠支黑负能号，关注请求会慢慢通过，怕被限关注…\n大号在此@Lizzy_522",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 33,
+                "username": "Lizzy_522"
+              }
+            ]
+          }
+        },
+        "id": "2046990809908879368",
+        "name": "リジー",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046991779866857472/235J5XiE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 32,
+          "like_count": 13,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 5
+        },
+        "username": "silentbleeding1",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-10T10:40:34.000Z",
+        "description": "圣诞帽三世前世@yunxvan1 好友位 78",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 7,
+                "username": "yunxvan1"
+              }
+            ]
+          }
+        },
+        "id": "2042552907497902083",
+        "name": "圣诞帽",
+        "pinned_tweet_id": "2042814467206209985",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042814742352531456/ZoRIh6wj_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 215,
+          "following_count": 228,
+          "like_count": 284,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 78
+        },
+        "username": "Smithollc4",
+        "verified": false
+      }
+    ]
+  }
+}

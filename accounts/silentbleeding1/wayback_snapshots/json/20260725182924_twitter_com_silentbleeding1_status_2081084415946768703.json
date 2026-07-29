@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046990809908879368",
+    "conversation_id": "2081083957194719432",
+    "created_at": "2026-07-25T18:29:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T19:29:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081084415946768703"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2081084415946768703",
+    "in_reply_to_user_id": "2046990809908879368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081083957194719432",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "cnm我房卡弄丢了回不去了😹"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2081083945790386176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOF-0piasAAVw2H.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2081083945786195968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOF-0phawAABoXb.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2081083945790365696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOF-0piaYAAFgeE.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2081083945773613056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOF-0peawAA6h-E.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046990809908879368",
+        "conversation_id": "2081083957194719432",
+        "created_at": "2026-07-25T18:29:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T19:29:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081084415946768703"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081084415946768703",
+        "in_reply_to_user_id": "2046990809908879368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081083957194719432",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "cnm我房卡弄丢了回不去了😹"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081083945790386176",
+            "3_2081083945786195968",
+            "3_2081083945790365696",
+            "3_2081083945773613056"
+          ]
+        },
+        "author_id": "2046990809908879368",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2081083957194719432",
+        "created_at": "2026-07-25T18:27:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T19:27:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081083957194719432"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mlPVLpsLt9",
+              "end": 27,
+              "expanded_url": "https://x.com/silentbleeding1/status/2081083957194719432/photo/1",
+              "media_key": "3_2081083945790386176",
+              "start": 4,
+              "url": "https://t.co/mlPVLpsLt9"
+            },
+            {
+              "display_url": "pic.x.com/mlPVLpsLt9",
+              "end": 27,
+              "expanded_url": "https://x.com/silentbleeding1/status/2081083957194719432/photo/1",
+              "media_key": "3_2081083945786195968",
+              "start": 4,
+              "url": "https://t.co/mlPVLpsLt9"
+            },
+            {
+              "display_url": "pic.x.com/mlPVLpsLt9",
+              "end": 27,
+              "expanded_url": "https://x.com/silentbleeding1/status/2081083957194719432/photo/1",
+              "media_key": "3_2081083945790365696",
+              "start": 4,
+              "url": "https://t.co/mlPVLpsLt9"
+            },
+            {
+              "display_url": "pic.x.com/mlPVLpsLt9",
+              "end": 27,
+              "expanded_url": "https://x.com/silentbleeding1/status/2081083957194719432/photo/1",
+              "media_key": "3_2081083945773613056",
+              "start": 4,
+              "url": "https://t.co/mlPVLpsLt9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081083957194719432",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好酥服 https://t.co/mlPVLpsLt9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-22T16:36:22.000Z",
+        "description": "前世@Lizzy_522 \nhe/they bpd。 #shtwt、#odtwt。喜各类摇滚和cult，每日高强度冲浪中。负能，日常吐苦水，友所有群体，迪哥们来找我互fo。里推@pillsandblood\n引路人@KKKaoru_",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 33,
+                "start": 27,
+                "tag": "shtwt"
+              },
+              {
+                "end": 40,
+                "start": 34,
+                "tag": "odtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "Lizzy_522"
+              },
+              {
+                "end": 102,
+                "start": 88,
+                "username": "pillsandblood"
+              },
+              {
+                "end": 115,
+                "start": 106,
+                "username": "KKKaoru_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizzy_5221",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizzy_5221",
+                "start": 0,
+                "url": "https://t.co/TdKmbtj5RY"
+              }
+            ]
+          }
+        },
+        "id": "2046990809908879368",
+        "name": "リジー",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060729372013895680/wVCe3wl1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 622,
+          "following_count": 513,
+          "like_count": 7909,
+          "listed_count": 1,
+          "media_count": 196,
+          "tweet_count": 2232
+        },
+        "url": "https://t.co/TdKmbtj5RY",
+        "username": "silentbleeding1",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046990809908879368",
+    "conversation_id": "2047313686344438148",
+    "created_at": "2026-04-23T23:47:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T00:47:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047462443811762323"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1804875241367433216",
+          "start": 0,
+          "username": "aberyoheiskm"
+        },
+        {
+          "end": 24,
+          "id": "1886289385177669632",
+          "start": 14,
+          "username": "Lizzy_522"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047462443811762323",
+    "in_reply_to_user_id": "1804875241367433216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047452679526666637",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aberyoheiskm @Lizzy_522 谢谢你喵😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046990809908879368",
+        "conversation_id": "2047313686344438148",
+        "created_at": "2026-04-23T23:47:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T00:47:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047462443811762323"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1804875241367433216",
+              "start": 0,
+              "username": "aberyoheiskm"
+            },
+            {
+              "end": 24,
+              "id": "1886289385177669632",
+              "start": 14,
+              "username": "Lizzy_522"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047462443811762323",
+        "in_reply_to_user_id": "1804875241367433216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047452679526666637",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aberyoheiskm @Lizzy_522 谢谢你喵😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804875241367433216",
+        "conversation_id": "2047313686344438148",
+        "created_at": "2026-04-23T23:08:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T00:08:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047452679526666637"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2046990809908879368",
+              "start": 0,
+              "username": "silentbleeding1"
+            },
+            {
+              "end": 27,
+              "id": "1886289385177669632",
+              "start": 17,
+              "username": "Lizzy_522"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047452679526666637",
+        "in_reply_to_user_id": "2046990809908879368",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047313686344438148",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@silentbleeding1 @Lizzy_522 助力助力🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-22T16:36:22.000Z",
+        "description": "🩸图磕药发颠支黑负能号，关注请求会慢慢通过，怕被限关注…\n大号在此@Lizzy_522",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 33,
+                "username": "Lizzy_522"
+              }
+            ]
+          }
+        },
+        "id": "2046990809908879368",
+        "name": "リジー（二世推u巡回中…",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047319984494534656/-SRMKdXI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 83,
+          "like_count": 116,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 25
+        },
+        "username": "silentbleeding1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-23T13:53:01.000Z",
+        "description": "⊹ 𝚜𝚞𝚣𝚞𝚖𝚎 ⊹ 不安所以到处评论见谅⌇逃离墙内中⌇𝟢𝟧⌇天使/水色界隈 🫧\nメンヘラ  ✟  依存症  ✟  OD ✟ お掃除 💉\n​*⑅୨୧  無言フォローでお迎え​  ୨୧⑅* \n仲良くしてくれる子 DM待ってます💤\n​他担・他界隈様◎同担◎( 恋愛不可 🆖)看成分互fo↓来玩提问箱！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aberyoheiskm",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aberyoheiskm",
+                "start": 0,
+                "url": "https://t.co/gj0HdlxzyS"
+              }
+            ]
+          }
+        },
+        "id": "1804875241367433216",
+        "location": "キラキラな世界ʚ✞ɞ ",
+        "name": "⊹すずめ⊹🩵",
+        "pinned_tweet_id": "2040494384823874007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040630139747553280/HymSNJZ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 184,
+          "like_count": 2059,
+          "listed_count": 0,
+          "media_count": 89,
+          "tweet_count": 1171
+        },
+        "url": "https://t.co/gj0HdlxzyS",
+        "username": "aberyoheiskm",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-03T05:43:38.000Z",
+        "description": "08 he/they enby.双相、焦虑症正在治疗。烟鬼、酗酒、磕药蛆戒割中。成分复杂，钢琴，硬摇滚、前卫摇滚、独立摇滚、jpop…负能，日常发神经吐苦水，友所有群体，查成分回fo。 现生认识的刷到我请自行绕道。血图见里推@silentbleeding1骚逼@KKKaoru_异父异母的弟弟@yu_huacs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 128,
+                "start": 112,
+                "username": "silentbleeding1"
+              },
+              {
+                "end": 139,
+                "start": 130,
+                "username": "KKKaoru_"
+              },
+              {
+                "end": 155,
+                "start": 146,
+                "username": "yu_huacs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizzy_522",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizzy_522",
+                "start": 0,
+                "url": "https://t.co/RDVwBMCX6v"
+              }
+            ]
+          }
+        },
+        "id": "1886289385177669632",
+        "name": "リジー",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997491540915294208/kFKVZs05_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 504,
+          "following_count": 421,
+          "like_count": 22205,
+          "listed_count": 0,
+          "media_count": 282,
+          "tweet_count": 3502
+        },
+        "url": "https://t.co/RDVwBMCX6v",
+        "username": "Lizzy_522",
+        "verified": false
+      }
+    ]
+  }
+}

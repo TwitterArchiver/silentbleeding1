@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046990809908879368",
+    "conversation_id": "2066378877996577183",
+    "created_at": "2026-06-15T10:22:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T11:22:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066466358469300593"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1902512265301258243",
+          "start": 0,
+          "username": "sacred1124"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066466358469300593",
+    "in_reply_to_user_id": "1902512265301258243",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066378877996577183",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sacred1124 好似好似"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2066378874410459136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK1Ao1ybYAA2xiL.jpg",
+        "width": 1180
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046990809908879368",
+        "conversation_id": "2066378877996577183",
+        "created_at": "2026-06-15T10:22:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T11:22:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066466358469300593"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1902512265301258243",
+              "start": 0,
+              "username": "sacred1124"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066466358469300593",
+        "in_reply_to_user_id": "1902512265301258243",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066378877996577183",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sacred1124 好似好似"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066378874410459136"
+          ]
+        },
+        "author_id": "1902512265301258243",
+        "conversation_id": "2066378877996577183",
+        "created_at": "2026-06-15T04:34:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T05:34:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066378877996577183"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/C98uYkdotw",
+              "end": 31,
+              "expanded_url": "https://x.com/sacred1124/status/2066378877996577183/photo/1",
+              "media_key": "3_2066378874410459136",
+              "start": 8,
+              "url": "https://t.co/C98uYkdotw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066378877996577183",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1599,
+          "like_count": 54,
+          "quote_count": 0,
+          "reply_count": 17,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "讣告：鸡哥死了 https://t.co/C98uYkdotw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-22T16:36:22.000Z",
+        "description": "前世@Lizzy_522 \n08 he/they enby.双相、焦虑症正在治疗。烟鬼、酗酒、#shtwt、#odtwt。成分复杂，公路车，日本文学/拉康精神分析，钢琴，硬/前卫/蓝调/独立摇滚，负能，日常发神经吐苦水，友所有群体，查成分回fo。里推@pillsandblood",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 53,
+                "start": 47,
+                "tag": "shtwt"
+              },
+              {
+                "end": 60,
+                "start": 54,
+                "tag": "odtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "Lizzy_522"
+              },
+              {
+                "end": 139,
+                "start": 125,
+                "username": "pillsandblood"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizzy_522",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizzy_522",
+                "start": 0,
+                "url": "https://t.co/AQMnPR82BG"
+              }
+            ]
+          }
+        },
+        "id": "2046990809908879368",
+        "name": "リジー",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060729372013895680/wVCe3wl1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 509,
+          "following_count": 433,
+          "like_count": 4506,
+          "listed_count": 0,
+          "media_count": 88,
+          "tweet_count": 1252
+        },
+        "url": "https://t.co/AQMnPR82BG",
+        "username": "silentbleeding1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-20T00:07:54.000Z",
+        "description": "药物报告及相关投稿请私信 | 提供免费药物咨询 | 药物文化研究 | 成瘾问题咨询和支持 | 安全用药知识 · 减害信息 | 官号 @Psycho_Wiki · 提问箱 https://t.co/IJlCV8Ds6B",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 66,
+                "username": "Psycho_Wiki"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/sacred14",
+                "end": 108,
+                "expanded_url": "https://ngl.link/sacred14",
+                "start": 85,
+                "url": "https://t.co/IJlCV8Ds6B"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "psychoactive.day",
+                "end": 23,
+                "expanded_url": "http://psychoactive.day",
+                "start": 0,
+                "url": "https://t.co/bSzFJaMT9O"
+              }
+            ]
+          }
+        },
+        "id": "1902512265301258243",
+        "location": "天国",
+        "name": "椎名Shiina2.0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059961828256747520/cvNao5Ps_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 358,
+          "following_count": 112,
+          "like_count": 246,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 140
+        },
+        "url": "https://t.co/bSzFJaMT9O",
+        "username": "sacred1124",
+        "verified": false
+      }
+    ]
+  }
+}

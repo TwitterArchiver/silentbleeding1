@@ -1,0 +1,338 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046990809908879368",
+    "conversation_id": "2077717819933048985",
+    "created_at": "2026-07-16T14:03:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T15:03:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077756093137301540"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1243590342911410176",
+          "start": 0,
+          "username": "bing2000100830"
+        },
+        {
+          "end": 25,
+          "id": "1999153024019869696",
+          "start": 16,
+          "username": "KKKaoru_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077756093137301540",
+    "in_reply_to_user_id": "1243590342911410176",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077717819933048985",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bing2000100830 @KKKaoru_ ？！🤤"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4080,
+        "media_key": "3_2077717796256186368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNWJU9VbgAAT9av.jpg",
+        "width": 3060
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046990809908879368",
+        "conversation_id": "2077717819933048985",
+        "created_at": "2026-07-16T14:03:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T15:03:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077756093137301540"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1243590342911410176",
+              "start": 0,
+              "username": "bing2000100830"
+            },
+            {
+              "end": 25,
+              "id": "1999153024019869696",
+              "start": 16,
+              "username": "KKKaoru_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077756093137301540",
+        "in_reply_to_user_id": "1243590342911410176",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077717819933048985",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bing2000100830 @KKKaoru_ ？！🤤"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077717796256186368"
+          ]
+        },
+        "author_id": "1243590342911410176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2077717819933048985",
+        "created_at": "2026-07-16T11:31:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T12:31:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077717819933048985"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1999153024019869696",
+              "start": 4,
+              "username": "KKKaoru_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kQV119A5p3",
+              "end": 37,
+              "expanded_url": "https://x.com/bing2000100830/status/2077717819933048985/photo/1",
+              "media_key": "3_2077717796256186368",
+              "start": 14,
+              "url": "https://t.co/kQV119A5p3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077717819933048985",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 163,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "某人。 @KKKaoru_ https://t.co/kQV119A5p3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-22T16:36:22.000Z",
+        "description": "前世@Lizzy_522 \nhe/they bpd。 #shtwt、#odtwt。喜各类摇滚和cult，每日高强度冲浪中。负能，日常吐苦水，友所有群体，迪哥们来找我互fo。里推@pillsandblood\n引路人@KKKaoru_",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 33,
+                "start": 27,
+                "tag": "shtwt"
+              },
+              {
+                "end": 40,
+                "start": 34,
+                "tag": "odtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "Lizzy_522"
+              },
+              {
+                "end": 102,
+                "start": 88,
+                "username": "pillsandblood"
+              },
+              {
+                "end": 115,
+                "start": 106,
+                "username": "KKKaoru_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizzy_5221",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizzy_5221",
+                "start": 0,
+                "url": "https://t.co/TdKmbtj5RY"
+              }
+            ]
+          }
+        },
+        "id": "2046990809908879368",
+        "name": "リジー",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060729372013895680/wVCe3wl1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 607,
+          "following_count": 506,
+          "like_count": 7458,
+          "listed_count": 0,
+          "media_count": 175,
+          "tweet_count": 2082
+        },
+        "url": "https://t.co/TdKmbtj5RY",
+        "username": "silentbleeding1",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。  \n最爱💊: @sleeping_dsc\n第一好: @KKKaoru_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 24,
+                "username": "sleeping_dsc"
+              },
+              {
+                "end": 52,
+                "start": 43,
+                "username": "KKKaoru_"
+              }
+            ]
+          }
+        },
+        "id": "1243590342911410176",
+        "location": "北极",
+        "name": "饼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 933,
+          "following_count": 1337,
+          "like_count": 51988,
+          "listed_count": 3,
+          "media_count": 109,
+          "tweet_count": 3218
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-11T16:25:44.000Z",
+        "description": "如果你认识的我叫何鸿，那我很抱歉 / 实名李彦齐 / 两个大傻逼@_Mizutani__ @bing2000100830 / 骚逼@pillsandblood",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 32,
+                "username": "_Mizutani__"
+              },
+              {
+                "end": 60,
+                "start": 45,
+                "username": "bing2000100830"
+              },
+              {
+                "end": 79,
+                "start": 65,
+                "username": "pillsandblood"
+              }
+            ]
+          }
+        },
+        "id": "1999153024019869696",
+        "name": "Kaoru",
+        "pinned_tweet_id": "2049167826510823759",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038276630154772481/2sQdzYrd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 33,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 97,
+          "tweet_count": 740
+        },
+        "url": "",
+        "username": "KKKaoru_",
+        "verified": false
+      }
+    ]
+  }
+}

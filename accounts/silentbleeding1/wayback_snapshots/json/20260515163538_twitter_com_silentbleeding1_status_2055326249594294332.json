@@ -1,0 +1,344 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2054869689843785728",
+        "3_2054869690414223360"
+      ],
+      "media_source_tweet_id": [
+        "2054869701185187912",
+        "2054869701185187912"
+      ]
+    },
+    "author_id": "2046990809908879368",
+    "conversation_id": "2055326249594294332",
+    "created_at": "2026-05-15T16:35:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T17:35:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055326249594294332"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2441905062",
+          "start": 3,
+          "username": "isokaze183"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/peULejVhqb",
+          "end": 69,
+          "expanded_url": "https://x.com/isokaze183/status/2054869701185187912/photo/1",
+          "media_key": "3_2054869689843785728",
+          "start": 46,
+          "url": "https://t.co/peULejVhqb"
+        },
+        {
+          "display_url": "pic.x.com/peULejVhqb",
+          "end": 69,
+          "expanded_url": "https://x.com/isokaze183/status/2054869701185187912/photo/1",
+          "media_key": "3_2054869690414223360",
+          "start": 46,
+          "url": "https://t.co/peULejVhqb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055326249594294332",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4378
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054869701185187912",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @isokaze183: 国家主席自ら淫夢4章を再現するとは流石は淫夢先進国は違う。 https://t.co/peULejVhqb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2054869689843785728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIRdGILbIAAkJK1.jpg",
+        "width": 1920
+      },
+      {
+        "height": 720,
+        "media_key": "3_2054869690414223360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIRdGKTbUAA0hku.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054869689843785728",
+            "3_2054869690414223360"
+          ],
+          "media_source_tweet_id": [
+            "2054869701185187912",
+            "2054869701185187912"
+          ]
+        },
+        "author_id": "2046990809908879368",
+        "conversation_id": "2055326249594294332",
+        "created_at": "2026-05-15T16:35:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T17:35:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055326249594294332"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2441905062",
+              "start": 3,
+              "username": "isokaze183"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/peULejVhqb",
+              "end": 69,
+              "expanded_url": "https://x.com/isokaze183/status/2054869701185187912/photo/1",
+              "media_key": "3_2054869689843785728",
+              "start": 46,
+              "url": "https://t.co/peULejVhqb"
+            },
+            {
+              "display_url": "pic.x.com/peULejVhqb",
+              "end": 69,
+              "expanded_url": "https://x.com/isokaze183/status/2054869701185187912/photo/1",
+              "media_key": "3_2054869690414223360",
+              "start": 46,
+              "url": "https://t.co/peULejVhqb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055326249594294332",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4378
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054869701185187912",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @isokaze183: 国家主席自ら淫夢4章を再現するとは流石は淫夢先進国は違う。 https://t.co/peULejVhqb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054869689843785728",
+            "3_2054869690414223360"
+          ]
+        },
+        "author_id": "2441905062",
+        "conversation_id": "2054866674009137323",
+        "created_at": "2026-05-14T10:21:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T11:21:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054869701185187912"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/peULejVhqb",
+              "end": 53,
+              "expanded_url": "https://x.com/isokaze183/status/2054869701185187912/photo/1",
+              "media_key": "3_2054869689843785728",
+              "start": 30,
+              "url": "https://t.co/peULejVhqb"
+            },
+            {
+              "display_url": "pic.x.com/peULejVhqb",
+              "end": 53,
+              "expanded_url": "https://x.com/isokaze183/status/2054869701185187912/photo/1",
+              "media_key": "3_2054869690414223360",
+              "start": 30,
+              "url": "https://t.co/peULejVhqb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054869701185187912",
+        "in_reply_to_user_id": "2441905062",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1961,
+          "impression_count": 2944711,
+          "like_count": 19240,
+          "quote_count": 273,
+          "reply_count": 97,
+          "retweet_count": 4378
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054866674009137323",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "国家主席自ら淫夢4章を再現するとは流石は淫夢先進国は違う。 https://t.co/peULejVhqb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-22T16:36:22.000Z",
+        "description": "08 he/they enby.双相、焦虑症正在治疗。烟鬼、酗酒、#shtwt、#odtwt。成分复杂，日本文学/拉康精神分析，钢琴，硬/前卫/蓝调/独立摇滚，虚无主义重建欲望中…负能，日常发神经吐苦水，友所有群体，查成分回fo。前世@Lizzy_522 里推@pillsandblood",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 39,
+                "start": 33,
+                "tag": "shtwt"
+              },
+              {
+                "end": 46,
+                "start": 40,
+                "tag": "odtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 127,
+                "start": 117,
+                "username": "Lizzy_522"
+              },
+              {
+                "end": 144,
+                "start": 130,
+                "username": "pillsandblood"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizzy_522",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizzy_522",
+                "start": 0,
+                "url": "https://t.co/AQMnPR82BG"
+              }
+            ]
+          }
+        },
+        "id": "2046990809908879368",
+        "name": "リジー",
+        "pinned_tweet_id": "2051150939533590911",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047319984494534656/-SRMKdXI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 393,
+          "following_count": 353,
+          "like_count": 1963,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 432
+        },
+        "url": "https://t.co/AQMnPR82BG",
+        "username": "silentbleeding1",
+        "verified": false
+      },
+      {
+        "created_at": "2014-04-13T16:09:14.000Z",
+        "description": "りっくじあーす仕様の痛車乗りです。\nあとカメコだったり。 送った写真について加工等はご自由にどうぞ。\nコス撮影案件絶賛募集中です。\n\nソウルの春アマプラにて絶賛配信中\n\n撮影した写真はこちら\nhttps://t.co/irJa7XcOSe\n↑\n参考にどうぞ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "cos.guide/i/isokaze183",
+                "end": 119,
+                "expanded_url": "https://cos.guide/i/isokaze183",
+                "start": 96,
+                "url": "https://t.co/irJa7XcOSe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mixi.jp/show_profile.p…",
+                "end": 23,
+                "expanded_url": "https://mixi.jp/show_profile.pl?from=l_navi&id=16195033",
+                "start": 0,
+                "url": "https://t.co/x5BC0mLeGG"
+              }
+            ]
+          }
+        },
+        "id": "2441905062",
+        "location": "神奈川 横須賀市",
+        "name": "いそかぜ",
+        "pinned_tweet_id": "1612428861945565185",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1460898900618125316/p1bNQYbw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2149,
+          "following_count": 860,
+          "like_count": 647263,
+          "listed_count": 58,
+          "media_count": 67314,
+          "tweet_count": 481985
+        },
+        "url": "https://t.co/x5BC0mLeGG",
+        "username": "isokaze183",
+        "verified": true
+      }
+    ]
+  }
+}

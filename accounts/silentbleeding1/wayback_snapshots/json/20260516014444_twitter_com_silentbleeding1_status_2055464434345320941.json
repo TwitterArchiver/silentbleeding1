@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046990809908879368",
+    "conversation_id": "2055319543095148872",
+    "created_at": "2026-05-16T01:44:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T02:44:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055464434345320941"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1738187540912607232",
+          "start": 0,
+          "username": "uu_salvation777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055464434345320941",
+    "in_reply_to_user_id": "1738187540912607232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055329395561361699",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@uu_salvation777 这是真的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046990809908879368",
+        "conversation_id": "2055319543095148872",
+        "created_at": "2026-05-16T01:44:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T02:44:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055464434345320941"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1738187540912607232",
+              "start": 0,
+              "username": "uu_salvation777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055464434345320941",
+        "in_reply_to_user_id": "1738187540912607232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055329395561361699",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uu_salvation777 这是真的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738187540912607232",
+        "conversation_id": "2055319543095148872",
+        "created_at": "2026-05-15T16:48:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T17:48:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055329395561361699"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2046990809908879368",
+              "start": 0,
+              "username": "silentbleeding1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055329395561361699",
+        "in_reply_to_user_id": "2046990809908879368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055319543095148872",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@silentbleeding1 磕嗨了宝宝"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-22T16:36:22.000Z",
+        "description": "08 he/they enby.双相、焦虑症正在治疗。烟鬼、酗酒、#shtwt、#odtwt。成分复杂，日本文学/拉康精神分析，钢琴，硬/前卫/蓝调/独立摇滚，虚无主义重建欲望中…负能，日常发神经吐苦水，友所有群体，查成分回fo。前世@Lizzy_522 里推@pillsandblood",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 39,
+                "start": 33,
+                "tag": "shtwt"
+              },
+              {
+                "end": 46,
+                "start": 40,
+                "tag": "odtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 127,
+                "start": 117,
+                "username": "Lizzy_522"
+              },
+              {
+                "end": 144,
+                "start": 130,
+                "username": "pillsandblood"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizzy_522",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizzy_522",
+                "start": 0,
+                "url": "https://t.co/AQMnPR82BG"
+              }
+            ]
+          }
+        },
+        "id": "2046990809908879368",
+        "name": "リジー",
+        "pinned_tweet_id": "2051150939533590911",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047319984494534656/-SRMKdXI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 398,
+          "following_count": 355,
+          "like_count": 1976,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 439
+        },
+        "url": "https://t.co/AQMnPR82BG",
+        "username": "silentbleeding1",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-22T13:19:47.000Z",
+        "description": "17岁小女孩 ［EN/简中 ］「抑郁/cptsd/贪食症/adhd」新教徒吧 首席teenager/保持一颗银子般的心 直女 前世@linny83215 ifw \n#shedtwt ✝️emo girl💙替西泊肽/tirzepatide/Mounjaro使用中💙hardcore享受者 gw54kg🚪好友位77",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 90,
+                "start": 82,
+                "tag": "shedtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 76,
+                "start": 65,
+                "username": "linny83215"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/miyu77",
+                "end": 23,
+                "expanded_url": "https://ngl.link/miyu77",
+                "start": 0,
+                "url": "https://t.co/jRKM0Ow0ap"
+              }
+            ]
+          }
+        },
+        "id": "1738187540912607232",
+        "location": "紫魔爪",
+        "name": "⁺‧ཐི⋆♱uuuUu7🇺🇸♱⋆ཋྀ‧⁺",
+        "pinned_tweet_id": "2051090194808598932",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048453870284832768/rxJGoiYL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 116,
+          "like_count": 1558,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 1855
+        },
+        "url": "https://t.co/jRKM0Ow0ap",
+        "username": "uu_salvation777",
+        "verified": false
+      }
+    ]
+  }
+}

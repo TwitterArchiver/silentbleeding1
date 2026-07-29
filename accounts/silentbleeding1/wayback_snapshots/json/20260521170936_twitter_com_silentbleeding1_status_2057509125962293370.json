@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046990809908879368",
+    "conversation_id": "2057509125962293370",
+    "created_at": "2026-05-21T17:09:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T18:09:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057509125962293370"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2057363646423117824",
+          "start": 3,
+          "username": "12sygdsbi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057509125962293370",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057366686211428663",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @12sygdsbi: 自介/嗯对我的号又炸了\n12 黄家盛（安）[我爹说我可能压不住这个名字，改名ing]/叫我12或者小黄~阿盛/小安/目前在干烟袋，需要问我^有点缺钱/。\n双相，可能带点阴性精神分裂。\n没有什么爱好，之前喜欢看大陆哲学。（这个海洋哲学中的智力太低下了…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2057366675889258496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI08F2EbAAAaws7.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2057366676568674304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI08F4maEAAjhkB.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2057366677038514177",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI08F6WbQAEEidL.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1037,
+        "media_key": "3_2057366677994749952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI08F96aQAASxjD.jpg",
+        "width": 1037
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046990809908879368",
+        "conversation_id": "2057509125962293370",
+        "created_at": "2026-05-21T17:09:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T18:09:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057509125962293370"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2057363646423117824",
+              "start": 3,
+              "username": "12sygdsbi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057509125962293370",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057366686211428663",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @12sygdsbi: 自介/嗯对我的号又炸了\n12 黄家盛（安）[我爹说我可能压不住这个名字，改名ing]/叫我12或者小黄~阿盛/小安/目前在干烟袋，需要问我^有点缺钱/。\n双相，可能带点阴性精神分裂。\n没有什么爱好，之前喜欢看大陆哲学。（这个海洋哲学中的智力太低下了…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057366675889258496",
+            "3_2057366676568674304",
+            "3_2057366677038514177",
+            "3_2057366677994749952"
+          ]
+        },
+        "author_id": "2057363646423117824",
+        "conversation_id": "2057366686211428663",
+        "created_at": "2026-05-21T07:43:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T08:43:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057366686211428663"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MvVYdlV5zJ",
+              "end": 167,
+              "expanded_url": "https://x.com/12sygdsbi/status/2057366686211428663/photo/1",
+              "media_key": "3_2057366675889258496",
+              "start": 144,
+              "url": "https://t.co/MvVYdlV5zJ"
+            },
+            {
+              "display_url": "pic.x.com/MvVYdlV5zJ",
+              "end": 167,
+              "expanded_url": "https://x.com/12sygdsbi/status/2057366686211428663/photo/1",
+              "media_key": "3_2057366676568674304",
+              "start": 144,
+              "url": "https://t.co/MvVYdlV5zJ"
+            },
+            {
+              "display_url": "pic.x.com/MvVYdlV5zJ",
+              "end": 167,
+              "expanded_url": "https://x.com/12sygdsbi/status/2057366686211428663/photo/1",
+              "media_key": "3_2057366677038514177",
+              "start": 144,
+              "url": "https://t.co/MvVYdlV5zJ"
+            },
+            {
+              "display_url": "pic.x.com/MvVYdlV5zJ",
+              "end": 167,
+              "expanded_url": "https://x.com/12sygdsbi/status/2057366686211428663/photo/1",
+              "media_key": "3_2057366677994749952",
+              "start": 144,
+              "url": "https://t.co/MvVYdlV5zJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057366686211428663",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 12359,
+          "like_count": 56,
+          "quote_count": 4,
+          "reply_count": 16,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "自介/嗯对我的号又炸了\n12 黄家盛（安）[我爹说我可能压不住这个名字，改名ing]/叫我12或者小黄~阿盛/小安/目前在干烟袋，需要问我^有点缺钱/。\n双相，可能带点阴性精神分裂。\n没有什么爱好，之前喜欢看大陆哲学。（这个海洋哲学中的智力太低下了🥵）\n刚洗完澡拍出来好看点 讨个口子先 https://t.co/MvVYdlV5zJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-22T16:36:22.000Z",
+        "description": "前世@Lizzy_522 \n08 he/they enby.双相、焦虑症正在治疗。烟鬼、酗酒、#shtwt、#odtwt。成分复杂，日本文学/拉康精神分析，钢琴，硬/前卫/蓝调/独立摇滚，虚无主义重建欲望中…负能，日常发神经吐苦水，友所有群体，查成分回fo。里推@pillsandblood",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 53,
+                "start": 47,
+                "tag": "shtwt"
+              },
+              {
+                "end": 60,
+                "start": 54,
+                "tag": "odtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "Lizzy_522"
+              },
+              {
+                "end": 145,
+                "start": 131,
+                "username": "pillsandblood"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizzy_522",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizzy_522",
+                "start": 0,
+                "url": "https://t.co/AQMnPR82BG"
+              }
+            ]
+          }
+        },
+        "id": "2046990809908879368",
+        "name": "リジー",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047319984494534656/-SRMKdXI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 414,
+          "following_count": 377,
+          "like_count": 2516,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 603
+        },
+        "url": "https://t.co/AQMnPR82BG",
+        "username": "silentbleeding1",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-21T07:32:40.000Z",
+        "description": "mtm/mua/mao/神秘烟男/健全人最好还是别看我的空间了",
+        "id": "2057363646423117824",
+        "name": "12",
+        "pinned_tweet_id": "2057366686211428663",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057374664301907968/Tggw9B0r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 63,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 59
+        },
+        "username": "12sygdsbi",
+        "verified": false
+      }
+    ]
+  }
+}

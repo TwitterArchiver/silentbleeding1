@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046990809908879368",
+    "conversation_id": "2058936607147958305",
+    "created_at": "2026-05-25T16:31:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T17:31:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058949168425804272"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1900422705415151618",
+          "start": 0,
+          "username": "uketamawarui"
+        },
+        {
+          "end": 24,
+          "id": "2033556052650975232",
+          "start": 14,
+          "username": "Ride_8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058949168425804272",
+    "in_reply_to_user_id": "1900422705415151618",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058944468842410036",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@uketamawarui @Ride_8964 我是情绪障碍、、"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046990809908879368",
+        "conversation_id": "2058936607147958305",
+        "created_at": "2026-05-25T16:31:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T17:31:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058949168425804272"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1900422705415151618",
+              "start": 0,
+              "username": "uketamawarui"
+            },
+            {
+              "end": 24,
+              "id": "2033556052650975232",
+              "start": 14,
+              "username": "Ride_8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058949168425804272",
+        "in_reply_to_user_id": "1900422705415151618",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058944468842410036",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uketamawarui @Ride_8964 我是情绪障碍、、"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1900422705415151618",
+        "conversation_id": "2058936607147958305",
+        "created_at": "2026-05-25T16:13:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T17:13:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058944468842410036"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2046990809908879368",
+              "start": 0,
+              "username": "silentbleeding1"
+            },
+            {
+              "end": 27,
+              "id": "2033556052650975232",
+              "start": 17,
+              "username": "Ride_8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058944468842410036",
+        "in_reply_to_user_id": "2046990809908879368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058944058643665263",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@silentbleeding1 @Ride_8964 我医生当时给我治疗了三年都没有给我确诊来着。。一直开的抑郁状态。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-22T16:36:22.000Z",
+        "description": "前世@Lizzy_522 \n08 he/they enby.双相、焦虑症正在治疗。烟鬼、酗酒、#shtwt、#odtwt。成分复杂，公路车，日本文学/拉康精神分析，钢琴，硬/前卫/蓝调/独立摇滚，虚无主义重建欲望中…负能，日常发神经吐苦水，友所有群体，查成分回fo。里推@pillsandblood",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 53,
+                "start": 47,
+                "tag": "shtwt"
+              },
+              {
+                "end": 60,
+                "start": 54,
+                "tag": "odtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "Lizzy_522"
+              },
+              {
+                "end": 149,
+                "start": 135,
+                "username": "pillsandblood"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizzy_522",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizzy_522",
+                "start": 0,
+                "url": "https://t.co/AQMnPR82BG"
+              }
+            ]
+          }
+        },
+        "id": "2046990809908879368",
+        "name": "リジー",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047319984494534656/-SRMKdXI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 441,
+          "following_count": 387,
+          "like_count": 2969,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 784
+        },
+        "url": "https://t.co/AQMnPR82BG",
+        "username": "silentbleeding1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-14T05:44:25.000Z",
+        "description": "等你忘记了我们就说拜拜",
+        "id": "1900422705415151618",
+        "location": "傍観",
+        "name": "torinaku",
+        "pinned_tweet_id": "1980166069944975774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057902455120396288/VRB_1ua2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 79,
+          "like_count": 5762,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 941
+        },
+        "username": "uketamawarui",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-16T14:48:51.000Z",
+        "description": "",
+        "id": "2033556052650975232",
+        "name": "雷妈妈舒肤佳私生子",
+        "pinned_tweet_id": "2057485048388243570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054892475215749120/E3G8nEsa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 284,
+          "following_count": 145,
+          "like_count": 32940,
+          "listed_count": 0,
+          "media_count": 185,
+          "tweet_count": 7462
+        },
+        "username": "Ride_8964",
+        "verified": false
+      }
+    ]
+  }
+}

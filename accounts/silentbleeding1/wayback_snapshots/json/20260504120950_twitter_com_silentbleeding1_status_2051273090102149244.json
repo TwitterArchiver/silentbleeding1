@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046990809908879368",
+    "conversation_id": "2050403117288534486",
+    "created_at": "2026-05-04T12:09:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T13:09:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051273090102149244"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1985353024244793345",
+          "start": 0,
+          "username": "Bitterpearlbird"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051273090102149244",
+    "in_reply_to_user_id": "1985353024244793345",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050403117288534486",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Bitterpearlbird 原来你也转生了🥲"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2050403095054516225",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHR-wF8WAAEAYg6.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046990809908879368",
+        "conversation_id": "2050403117288534486",
+        "created_at": "2026-05-04T12:09:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T13:09:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051273090102149244"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1985353024244793345",
+              "start": 0,
+              "username": "Bitterpearlbird"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051273090102149244",
+        "in_reply_to_user_id": "1985353024244793345",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050403117288534486",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bitterpearlbird 原来你也转生了🥲"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050403095054516225"
+          ]
+        },
+        "author_id": "1985353024244793345",
+        "conversation_id": "2050403117288534486",
+        "created_at": "2026-05-02T02:32:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T03:32:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050403117288534486"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OxCU1c9xm9",
+              "end": 63,
+              "expanded_url": "https://x.com/Bitterpearlbird/status/2050403117288534486/photo/1",
+              "media_key": "3_2050403095054516225",
+              "start": 40,
+              "url": "https://t.co/OxCU1c9xm9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050403117288534486",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3656,
+          "like_count": 53,
+          "quote_count": 0,
+          "reply_count": 28,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "halo这里是塞西莉娅一代目。我来寻回一下我二代目的互关。\n塞西莉娅有点死了。 https://t.co/OxCU1c9xm9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-22T16:36:22.000Z",
+        "description": "08 he/they enby.双相、焦虑症正在治疗。烟鬼、酗酒、#shtwt、#odtwt。成分复杂，曾经骑单车，三岛由纪夫，钢琴，硬/前卫/蓝调/独立摇滚，jpop…虚无主义重建欲望中…负能，日常发神经吐苦水，友所有群体，查成分回fo。永远怀念——被封的大号@Lizzy_522",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 39,
+                "start": 33,
+                "tag": "shtwt"
+              },
+              {
+                "end": 46,
+                "start": 40,
+                "tag": "odtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 141,
+                "start": 131,
+                "username": "Lizzy_522"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizzy_522",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizzy_522",
+                "start": 0,
+                "url": "https://t.co/AQMnPR82BG"
+              }
+            ]
+          }
+        },
+        "id": "2046990809908879368",
+        "name": "リジー 2.0（推友寻回中）",
+        "pinned_tweet_id": "2051150939533590911",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047319984494534656/-SRMKdXI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 227,
+          "following_count": 226,
+          "like_count": 551,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 133
+        },
+        "url": "https://t.co/AQMnPR82BG",
+        "username": "silentbleeding1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-03T14:27:54.000Z",
+        "description": "drink pure luv\n我的匿名信 https://t.co/cVOfxKUUbb\n和我玩好吗？爱你们。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/chessiaya",
+                "end": 44,
+                "expanded_url": "https://ngl.link/chessiaya",
+                "start": 21,
+                "url": "https://t.co/cVOfxKUUbb"
+              }
+            ]
+          }
+        },
+        "id": "1985353024244793345",
+        "location": "🚪288",
+        "name": "珍珠鸟",
+        "pinned_tweet_id": "2050634646363189629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020454920315654145/-RaDH-dC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3234,
+          "following_count": 392,
+          "like_count": 22794,
+          "listed_count": 3,
+          "media_count": 234,
+          "tweet_count": 2355
+        },
+        "username": "Bitterpearlbird",
+        "verified": false
+      }
+    ]
+  }
+}

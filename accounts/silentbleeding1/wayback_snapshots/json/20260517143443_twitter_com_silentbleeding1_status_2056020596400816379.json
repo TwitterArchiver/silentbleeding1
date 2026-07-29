@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046990809908879368",
+    "conversation_id": "2056010915804295427",
+    "created_at": "2026-05-17T14:34:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T15:34:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056020596400816379"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1647980508297719815",
+          "start": 0,
+          "username": "yanyejilennon"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056020596400816379",
+    "in_reply_to_user_id": "1647980508297719815",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056010915804295427",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yanyejilennon 可以自己点进去刷一次浏览量🤓👆"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 60,
+        "media_key": "3_2056010907264700416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIhrBuXXUAAj3je.jpg",
+        "width": 190
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046990809908879368",
+        "conversation_id": "2056010915804295427",
+        "created_at": "2026-05-17T14:34:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T15:34:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056020596400816379"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1647980508297719815",
+              "start": 0,
+              "username": "yanyejilennon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056020596400816379",
+        "in_reply_to_user_id": "1647980508297719815",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056010915804295427",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yanyejilennon 可以自己点进去刷一次浏览量🤓👆"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056010907264700416"
+          ]
+        },
+        "author_id": "1647980508297719815",
+        "conversation_id": "2056010915804295427",
+        "created_at": "2026-05-17T13:56:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T14:56:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056010915804295427"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6409R16QsA",
+              "end": 32,
+              "expanded_url": "https://x.com/yanyejilennon/status/2056010915804295427/photo/1",
+              "media_key": "3_2056010907264700416",
+              "start": 9,
+              "url": "https://t.co/6409R16QsA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056010915804295427",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 80,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "额我哭了就差一点 https://t.co/6409R16QsA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-22T16:36:22.000Z",
+        "description": "08 he/they enby.双相、焦虑症正在治疗。烟鬼、酗酒、#shtwt、#odtwt。成分复杂，日本文学/拉康精神分析，钢琴，硬/前卫/蓝调/独立摇滚，虚无主义重建欲望中…负能，日常发神经吐苦水，友所有群体，查成分回fo。前世@Lizzy_522 里推@pillsandblood",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 39,
+                "start": 33,
+                "tag": "shtwt"
+              },
+              {
+                "end": 46,
+                "start": 40,
+                "tag": "odtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 127,
+                "start": 117,
+                "username": "Lizzy_522"
+              },
+              {
+                "end": 144,
+                "start": 130,
+                "username": "pillsandblood"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizzy_522",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizzy_522",
+                "start": 0,
+                "url": "https://t.co/AQMnPR82BG"
+              }
+            ]
+          }
+        },
+        "id": "2046990809908879368",
+        "name": "リジー",
+        "pinned_tweet_id": "2051150939533590911",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047319984494534656/-SRMKdXI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 410,
+          "following_count": 368,
+          "like_count": 2289,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 514
+        },
+        "url": "https://t.co/AQMnPR82BG",
+        "username": "silentbleeding1",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-17T15:09:18.000Z",
+        "description": "握紧我矛盾密布的手",
+        "id": "1647980508297719815",
+        "location": "Liverpool, England",
+        "name": "21st Century Schizoid Man",
+        "pinned_tweet_id": "2051709632058380563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041206438568296448/01syet9V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 235,
+          "following_count": 315,
+          "like_count": 38579,
+          "listed_count": 1,
+          "media_count": 71,
+          "tweet_count": 3374
+        },
+        "username": "yanyejilennon",
+        "verified": false
+      }
+    ]
+  }
+}

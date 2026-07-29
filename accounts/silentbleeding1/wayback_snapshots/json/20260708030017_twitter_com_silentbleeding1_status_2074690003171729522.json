@@ -1,0 +1,358 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073394358649602048"
+      ],
+      "media_source_tweet_id": [
+        "2073394434520350768"
+      ]
+    },
+    "author_id": "2046990809908879368",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2074690003171729522",
+    "created_at": "2026-07-08T03:00:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T04:00:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074690003171729522"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "162974851",
+          "start": 3,
+          "username": "Paramjitt"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4KFnAvQqdt",
+          "end": 81,
+          "expanded_url": "https://x.com/Paramjitt/status/2073394434520350768/photo/1",
+          "media_key": "3_2073394358649602048",
+          "start": 58,
+          "url": "https://t.co/4KFnAvQqdt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074690003171729522",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 20
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073394434520350768",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Paramjitt: 你们好这里16.霖，互关寻回求转🙏🏻🙏🏻😭🙏🏻😭🙏🏻😭🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻😭😭😭 https://t.co/4KFnAvQqdt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1208,
+        "media_key": "3_2073394358649602048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMYtLxKbwAAdlDK.jpg",
+        "width": 1216
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073394358649602048"
+          ],
+          "media_source_tweet_id": [
+            "2073394434520350768"
+          ]
+        },
+        "author_id": "2046990809908879368",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2074690003171729522",
+        "created_at": "2026-07-08T03:00:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T04:00:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074690003171729522"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "162974851",
+              "start": 3,
+              "username": "Paramjitt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4KFnAvQqdt",
+              "end": 81,
+              "expanded_url": "https://x.com/Paramjitt/status/2073394434520350768/photo/1",
+              "media_key": "3_2073394358649602048",
+              "start": 58,
+              "url": "https://t.co/4KFnAvQqdt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074690003171729522",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 20
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073394434520350768",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Paramjitt: 你们好这里16.霖，互关寻回求转🙏🏻🙏🏻😭🙏🏻😭🙏🏻😭🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻😭😭😭 https://t.co/4KFnAvQqdt"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073394358649602048"
+          ]
+        },
+        "author_id": "162974851",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2073394434520350768",
+        "created_at": "2026-07-04T13:12:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T14:12:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073394434520350768"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4KFnAvQqdt",
+              "end": 66,
+              "expanded_url": "https://x.com/Paramjitt/status/2073394434520350768/photo/1",
+              "media_key": "3_2073394358649602048",
+              "start": 43,
+              "url": "https://t.co/4KFnAvQqdt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073394434520350768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2480,
+          "like_count": 37,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "你们好这里16.霖，互关寻回求转🙏🏻🙏🏻😭🙏🏻😭🙏🏻😭🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻😭😭😭 https://t.co/4KFnAvQqdt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-22T16:36:22.000Z",
+        "description": "前世@Lizzy_522 \n08 he/they bpd。 #shtwt、#odtwt。喜欢各类摇滚和cult，每日高强度冲浪中。负能，日常吐苦水，友所有群体，迪哥们来找我互fo。里推@pillsandblood\n引路人@KKKaoru_",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 36,
+                "start": 30,
+                "tag": "shtwt"
+              },
+              {
+                "end": 43,
+                "start": 37,
+                "tag": "odtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "Lizzy_522"
+              },
+              {
+                "end": 106,
+                "start": 92,
+                "username": "pillsandblood"
+              },
+              {
+                "end": 119,
+                "start": 110,
+                "username": "KKKaoru_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizzy_5221",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizzy_5221",
+                "start": 0,
+                "url": "https://t.co/TdKmbtj5RY"
+              }
+            ]
+          }
+        },
+        "id": "2046990809908879368",
+        "name": "リジー",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060729372013895680/wVCe3wl1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 576,
+          "following_count": 483,
+          "like_count": 6734,
+          "listed_count": 0,
+          "media_count": 157,
+          "tweet_count": 1893
+        },
+        "url": "https://t.co/TdKmbtj5RY",
+        "username": "silentbleeding1",
+        "verified": false
+      },
+      {
+        "created_at": "2010-07-05T06:05:17.000Z",
+        "description": "16.0互关寻回\n🚪52（加了啥也没有）\n你推六个月封11个号的人，传奇耐封王\n你应该刷到过我 所以不自介了\n性别末影人-爱我请给我钱吧*（orz）\n很健全无不良嗜好🤤请和我玩吧！！\nhttps://t.co/TYxFLX9MRG\n大号@Shivam3228\n牛马💊 @AminoXx_killer",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 129,
+                "start": 118,
+                "username": "Shivam3228"
+              },
+              {
+                "end": 149,
+                "start": 134,
+                "username": "AminoXx_killer"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ii_rin",
+                "end": 115,
+                "expanded_url": "https://ngl.link/ii_rin",
+                "start": 92,
+                "url": "https://t.co/TYxFLX9MRG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+A7UqL85q-kpkO…",
+                "end": 23,
+                "expanded_url": "https://t.me/+A7UqL85q-kpkOTEx",
+                "start": 0,
+                "url": "https://t.co/l2gjMdmFaC"
+              }
+            ]
+          }
+        },
+        "id": "162974851",
+        "location": "你身后",
+        "name": "霖🍥🏳️‍⚧️（16.0寻回爱妻）",
+        "pinned_tweet_id": "2074173391989531076",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074674134857232384/-bptbrhF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 665,
+          "following_count": 442,
+          "like_count": 1588,
+          "listed_count": 3,
+          "media_count": 74,
+          "tweet_count": 1052
+        },
+        "url": "https://t.co/l2gjMdmFaC",
+        "username": "Paramjitt",
+        "verified": true
+      }
+    ]
+  }
+}

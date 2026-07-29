@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046990809908879368",
+    "conversation_id": "2076258446350094742",
+    "created_at": "2026-07-12T12:00:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T13:00:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076275483323593031"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1896904934995656704",
+          "start": 0,
+          "username": "penpunx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076275483323593031",
+    "in_reply_to_user_id": "1896904934995656704",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076258446350094742",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@penpunx 👁️👁️👁️"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1334,
+        "media_key": "3_2076258440952049664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNBaDTLacAAhXVp.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046990809908879368",
+        "conversation_id": "2076258446350094742",
+        "created_at": "2026-07-12T12:00:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T13:00:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076275483323593031"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1896904934995656704",
+              "start": 0,
+              "username": "penpunx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076275483323593031",
+        "in_reply_to_user_id": "1896904934995656704",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076258446350094742",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@penpunx 👁️👁️👁️"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076258440952049664"
+          ]
+        },
+        "author_id": "1896904934995656704",
+        "conversation_id": "2076258446350094742",
+        "created_at": "2026-07-12T10:52:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T11:52:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076258446350094742"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yZftwfdqUT",
+              "end": 23,
+              "expanded_url": "https://x.com/penpunx/status/2076258446350094742/photo/1",
+              "media_key": "3_2076258440952049664",
+              "start": 0,
+              "url": "https://t.co/yZftwfdqUT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076258446350094742",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 132,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/yZftwfdqUT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-22T16:36:22.000Z",
+        "description": "前世@Lizzy_522 \n08 he/they bpd。 #shtwt、#odtwt。喜欢各类摇滚和cult，每日高强度冲浪中。负能，日常吐苦水，友所有群体，迪哥们来找我互fo。里推@pillsandblood\n引路人@KKKaoru_",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 36,
+                "start": 30,
+                "tag": "shtwt"
+              },
+              {
+                "end": 43,
+                "start": 37,
+                "tag": "odtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "Lizzy_522"
+              },
+              {
+                "end": 106,
+                "start": 92,
+                "username": "pillsandblood"
+              },
+              {
+                "end": 119,
+                "start": 110,
+                "username": "KKKaoru_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizzy_5221",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizzy_5221",
+                "start": 0,
+                "url": "https://t.co/TdKmbtj5RY"
+              }
+            ]
+          }
+        },
+        "id": "2046990809908879368",
+        "name": "リジー",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060729372013895680/wVCe3wl1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 588,
+          "following_count": 491,
+          "like_count": 7038,
+          "listed_count": 0,
+          "media_count": 168,
+          "tweet_count": 1976
+        },
+        "url": "https://t.co/TdKmbtj5RY",
+        "username": "silentbleeding1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "location": "形",
+        "name": "天",
+        "pinned_tweet_id": "2072618621621375104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076258070020386816/VU6lCfuE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 485,
+          "following_count": 662,
+          "like_count": 15010,
+          "listed_count": 2,
+          "media_count": 818,
+          "tweet_count": 6532
+        },
+        "url": "",
+        "username": "penpunx",
+        "verified": false
+      }
+    ]
+  }
+}

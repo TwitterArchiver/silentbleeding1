@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046990809908879368",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2055779206492230119",
+    "created_at": "2026-05-16T22:35:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T23:35:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055779206492230119"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1902512265301258243",
+          "start": 3,
+          "username": "sacred1124"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055779206492230119",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055662929291472953",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sacred1124: 我也认可健康od、可持续od的观念，但是不能抛开剂量谈毒性\n听起来吃\"化工原料\"好像很吓人。但是杂质完全可控，如还原胺化，淬灭还原剂后产生的硼盐之类在辛烷水之间几乎全部分配到水相，而致幻剂的用量在低Mg级，又能吃进多少杂质？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046990809908879368",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2055779206492230119",
+        "created_at": "2026-05-16T22:35:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T23:35:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055779206492230119"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1902512265301258243",
+              "start": 3,
+              "username": "sacred1124"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055779206492230119",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055662929291472953",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sacred1124: 我也认可健康od、可持续od的观念，但是不能抛开剂量谈毒性\n听起来吃\"化工原料\"好像很吓人。但是杂质完全可控，如还原胺化，淬灭还原剂后产生的硼盐之类在辛烷水之间几乎全部分配到水相，而致幻剂的用量在低Mg级，又能吃进多少杂质？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902512265301258243",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2055662929291472953",
+        "created_at": "2026-05-16T14:53:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T15:53:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055662929291472953"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055662929291472953",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 751,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "我也认可健康od、可持续od的观念，但是不能抛开剂量谈毒性\n听起来吃\"化工原料\"好像很吓人。但是杂质完全可控，如还原胺化，淬灭还原剂后产生的硼盐之类在辛烷水之间几乎全部分配到水相，而致幻剂的用量在低Mg级，又能吃进多少杂质？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-22T16:36:22.000Z",
+        "description": "08 he/they enby.双相、焦虑症正在治疗。烟鬼、酗酒、#shtwt、#odtwt。成分复杂，日本文学/拉康精神分析，钢琴，硬/前卫/蓝调/独立摇滚，虚无主义重建欲望中…负能，日常发神经吐苦水，友所有群体，查成分回fo。前世@Lizzy_522 里推@pillsandblood",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 39,
+                "start": 33,
+                "tag": "shtwt"
+              },
+              {
+                "end": 46,
+                "start": 40,
+                "tag": "odtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 127,
+                "start": 117,
+                "username": "Lizzy_522"
+              },
+              {
+                "end": 144,
+                "start": 130,
+                "username": "pillsandblood"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizzy_522",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizzy_522",
+                "start": 0,
+                "url": "https://t.co/AQMnPR82BG"
+              }
+            ]
+          }
+        },
+        "id": "2046990809908879368",
+        "name": "リジー",
+        "pinned_tweet_id": "2051150939533590911",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047319984494534656/-SRMKdXI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 405,
+          "following_count": 364,
+          "like_count": 2205,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 501
+        },
+        "url": "https://t.co/AQMnPR82BG",
+        "username": "silentbleeding1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-20T00:07:54.000Z",
+        "description": "接受药物报告及相关投稿 | 提供免费药物咨询 | 药物文化研究 | 成瘾问题咨询和支持 | 安全用药知识 减害信息！提问箱https://t.co/IJlCV8Ds6B",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sacred14",
+                "end": 84,
+                "expanded_url": "https://ngl.link/sacred14",
+                "start": 61,
+                "url": "https://t.co/IJlCV8Ds6B"
+              }
+            ]
+          }
+        },
+        "id": "1902512265301258243",
+        "location": "天国",
+        "name": "椎名Shiina2.0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054405564789350400/lk5mNF5T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 174,
+          "following_count": 67,
+          "like_count": 99,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 51
+        },
+        "username": "sacred1124",
+        "verified": false
+      }
+    ]
+  }
+}

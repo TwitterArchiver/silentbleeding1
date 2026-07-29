@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046990809908879368",
+    "conversation_id": "2066041028826861856",
+    "created_at": "2026-06-14T10:42:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T11:42:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066109130071589335"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1898308906994294784",
+          "start": 0,
+          "username": "TTBRAr12"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066109130071589335",
+    "in_reply_to_user_id": "1898308906994294784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066041028826861856",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TTBRAr12 原来这里面还有苯海拉明（"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2066041022258565120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKwNXQcbUAA74fs.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2066041022271119360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKwNXQfa4AA0YHP.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046990809908879368",
+        "conversation_id": "2066041028826861856",
+        "created_at": "2026-06-14T10:42:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T11:42:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066109130071589335"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1898308906994294784",
+              "start": 0,
+              "username": "TTBRAr12"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066109130071589335",
+        "in_reply_to_user_id": "1898308906994294784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066041028826861856",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TTBRAr12 原来这里面还有苯海拉明（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066041022258565120",
+            "3_2066041022271119360"
+          ]
+        },
+        "author_id": "1898308906994294784",
+        "conversation_id": "2066041028826861856",
+        "created_at": "2026-06-14T06:12:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T07:12:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066041028826861856"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Qfyv9KvSWh",
+              "end": 31,
+              "expanded_url": "https://x.com/TTBRAr12/status/2066041028826861856/photo/1",
+              "media_key": "3_2066041022258565120",
+              "start": 8,
+              "url": "https://t.co/Qfyv9KvSWh"
+            },
+            {
+              "display_url": "pic.x.com/Qfyv9KvSWh",
+              "end": 31,
+              "expanded_url": "https://x.com/TTBRAr12/status/2066041028826861856/photo/1",
+              "media_key": "3_2066041022271119360",
+              "start": 8,
+              "url": "https://t.co/Qfyv9KvSWh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066041028826861856",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 314,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "无比滴能不能o https://t.co/Qfyv9KvSWh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-22T16:36:22.000Z",
+        "description": "前世@Lizzy_522 \n08 he/they enby.双相、焦虑症正在治疗。烟鬼、酗酒、#shtwt、#odtwt。成分复杂，公路车，日本文学/拉康精神分析，钢琴，硬/前卫/蓝调/独立摇滚，负能，日常发神经吐苦水，友所有群体，查成分回fo。里推@pillsandblood",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 53,
+                "start": 47,
+                "tag": "shtwt"
+              },
+              {
+                "end": 60,
+                "start": 54,
+                "tag": "odtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "Lizzy_522"
+              },
+              {
+                "end": 139,
+                "start": 125,
+                "username": "pillsandblood"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizzy_522",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizzy_522",
+                "start": 0,
+                "url": "https://t.co/AQMnPR82BG"
+              }
+            ]
+          }
+        },
+        "id": "2046990809908879368",
+        "name": "リジー",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060729372013895680/wVCe3wl1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 511,
+          "following_count": 434,
+          "like_count": 4371,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 1205
+        },
+        "url": "https://t.co/AQMnPR82BG",
+        "username": "silentbleeding1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-08T09:44:56.000Z",
+        "description": "",
+        "id": "1898308906994294784",
+        "name": "TTAR",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966263377233403904/aqrIK04U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 779,
+          "like_count": 6584,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 1255
+        },
+        "username": "TTBRAr12",
+        "verified": false,
+        "withheld": {
+          "country_codes": [
+            "TR"
+          ]
+        }
+      }
+    ]
+  }
+}

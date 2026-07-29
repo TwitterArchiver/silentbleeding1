@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046990809908879368",
+    "conversation_id": "2076344278046146645",
+    "created_at": "2026-07-12T17:45:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T18:45:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076362263716663419"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1999153024019869696",
+          "start": 0,
+          "username": "KKKaoru_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076362263716663419",
+    "in_reply_to_user_id": "1999153024019869696",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076360235539947616",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KKKaoru_ 好🚬\n抱抱你，，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046990809908879368",
+        "conversation_id": "2076344278046146645",
+        "created_at": "2026-07-12T17:45:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T18:45:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076362263716663419"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1999153024019869696",
+              "start": 0,
+              "username": "KKKaoru_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076362263716663419",
+        "in_reply_to_user_id": "1999153024019869696",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076360235539947616",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KKKaoru_ 好🚬\n抱抱你，，"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1999153024019869696",
+        "conversation_id": "2076344278046146645",
+        "created_at": "2026-07-12T17:37:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T18:37:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076360235539947616"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2046990809908879368",
+              "start": 0,
+              "username": "silentbleeding1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076360235539947616",
+        "in_reply_to_user_id": "2046990809908879368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076359380317171879",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@silentbleeding1 那倒没有。。\n\n感觉我有几个，很亲密很重要的人。他们都喜欢对我整抽象。\n额，应该有一个不能算在里面。其他的都拉出去枪毙"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-22T16:36:22.000Z",
+        "description": "前世@Lizzy_522 \n08 he/they bpd。 #shtwt、#odtwt。喜欢各类摇滚和cult，每日高强度冲浪中。负能，日常吐苦水，友所有群体，迪哥们来找我互fo。里推@pillsandblood\n引路人@KKKaoru_",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 36,
+                "start": 30,
+                "tag": "shtwt"
+              },
+              {
+                "end": 43,
+                "start": 37,
+                "tag": "odtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "Lizzy_522"
+              },
+              {
+                "end": 106,
+                "start": 92,
+                "username": "pillsandblood"
+              },
+              {
+                "end": 119,
+                "start": 110,
+                "username": "KKKaoru_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizzy_5221",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizzy_5221",
+                "start": 0,
+                "url": "https://t.co/TdKmbtj5RY"
+              }
+            ]
+          }
+        },
+        "id": "2046990809908879368",
+        "name": "リジー",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060729372013895680/wVCe3wl1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 592,
+          "following_count": 496,
+          "like_count": 7112,
+          "listed_count": 0,
+          "media_count": 170,
+          "tweet_count": 2004
+        },
+        "url": "https://t.co/TdKmbtj5RY",
+        "username": "silentbleeding1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-11T16:25:44.000Z",
+        "description": "头像很唐致歉 两个大傻逼@_Mizutani__ @bing2000100830 骚逼@pillsandblood",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "_Mizutani__"
+              },
+              {
+                "end": 40,
+                "start": 25,
+                "username": "bing2000100830"
+              },
+              {
+                "end": 57,
+                "start": 43,
+                "username": "pillsandblood"
+              }
+            ]
+          }
+        },
+        "id": "1999153024019869696",
+        "name": "Kaoru",
+        "pinned_tweet_id": "2049167826510823759",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038276630154772481/2sQdzYrd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 32,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 93,
+          "tweet_count": 695
+        },
+        "url": "",
+        "username": "KKKaoru_",
+        "verified": false
+      }
+    ]
+  }
+}

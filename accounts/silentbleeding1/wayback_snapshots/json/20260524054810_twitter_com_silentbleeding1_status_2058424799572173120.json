@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046990809908879368",
+    "conversation_id": "2058422984654684389",
+    "created_at": "2026-05-24T05:48:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T06:48:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058424799572173120"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1647980508297719815",
+          "start": 0,
+          "username": "yanyejilennon"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058424799572173120",
+    "in_reply_to_user_id": "1647980508297719815",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058422984654684389",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yanyejilennon 好萌萌🤤🤤"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2058422971220348928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJD8yU0X0AAyemg.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046990809908879368",
+        "conversation_id": "2058422984654684389",
+        "created_at": "2026-05-24T05:48:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T06:48:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058424799572173120"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1647980508297719815",
+              "start": 0,
+              "username": "yanyejilennon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058424799572173120",
+        "in_reply_to_user_id": "1647980508297719815",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058422984654684389",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yanyejilennon 好萌萌🤤🤤"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058422971220348928"
+          ]
+        },
+        "author_id": "1647980508297719815",
+        "conversation_id": "2058422984654684389",
+        "created_at": "2026-05-24T05:40:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T06:40:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058422984654684389"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/A0tGg7Ylim",
+              "end": 32,
+              "expanded_url": "https://x.com/yanyejilennon/status/2058422984654684389/photo/1",
+              "media_key": "3_2058422971220348928",
+              "start": 9,
+              "url": "https://t.co/A0tGg7Ylim"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058422984654684389",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁来处理一下眼屎 https://t.co/A0tGg7Ylim"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-22T16:36:22.000Z",
+        "description": "前世@Lizzy_522 \n08 he/they enby.双相、焦虑症正在治疗。烟鬼、酗酒、#shtwt、#odtwt。成分复杂，公路车，日本文学/拉康精神分析，钢琴，硬/前卫/蓝调/独立摇滚，虚无主义重建欲望中…负能，日常发神经吐苦水，友所有群体，查成分回fo。里推@pillsandblood",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 53,
+                "start": 47,
+                "tag": "shtwt"
+              },
+              {
+                "end": 60,
+                "start": 54,
+                "tag": "odtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "Lizzy_522"
+              },
+              {
+                "end": 149,
+                "start": 135,
+                "username": "pillsandblood"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizzy_522",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizzy_522",
+                "start": 0,
+                "url": "https://t.co/AQMnPR82BG"
+              }
+            ]
+          }
+        },
+        "id": "2046990809908879368",
+        "name": "リジー",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047319984494534656/-SRMKdXI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 442,
+          "following_count": 389,
+          "like_count": 2842,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 748
+        },
+        "url": "https://t.co/AQMnPR82BG",
+        "username": "silentbleeding1",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-17T15:09:18.000Z",
+        "description": "握紧我矛盾密布的手",
+        "id": "1647980508297719815",
+        "location": "Liverpool, England",
+        "name": "21st Century Schizoid Man",
+        "pinned_tweet_id": "2051709632058380563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041206438568296448/01syet9V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 268,
+          "following_count": 337,
+          "like_count": 43931,
+          "listed_count": 1,
+          "media_count": 83,
+          "tweet_count": 4114
+        },
+        "username": "yanyejilennon",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046990809908879368",
+    "conversation_id": "2047313686344438148",
+    "created_at": "2026-04-23T16:35:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T17:35:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047353581540655128"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1743330426985594881",
+          "start": 0,
+          "username": "jianggejiang"
+        },
+        {
+          "end": 24,
+          "id": "1886289385177669632",
+          "start": 14,
+          "username": "Lizzy_522"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047353581540655128",
+    "in_reply_to_user_id": "1743330426985594881",
+    "lang": "in",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047339423180955987",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jianggejiang @Lizzy_522 smksmsm"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2047339423180955987].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2047339423180955987",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2047339423180955987"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046990809908879368",
+        "conversation_id": "2047313686344438148",
+        "created_at": "2026-04-23T16:35:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T17:35:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047353581540655128"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1743330426985594881",
+              "start": 0,
+              "username": "jianggejiang"
+            },
+            {
+              "end": 24,
+              "id": "1886289385177669632",
+              "start": 14,
+              "username": "Lizzy_522"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047353581540655128",
+        "in_reply_to_user_id": "1743330426985594881",
+        "lang": "in",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047339423180955987",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jianggejiang @Lizzy_522 smksmsm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-22T16:36:22.000Z",
+        "description": "🩸图磕药发颠支黑负能号，关注请求会慢慢通过，怕被限关注…\n大号在此@Lizzy_522",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 33,
+                "username": "Lizzy_522"
+              }
+            ]
+          }
+        },
+        "id": "2046990809908879368",
+        "name": "リジー（二世推u巡回中…",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047319984494534656/-SRMKdXI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 72,
+          "like_count": 94,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 23
+        },
+        "username": "silentbleeding1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-05T17:55:57.000Z",
+        "description": "-烟代找我 外烟电子烟💚🏳️‍🌈\n-叫我姜鴿江/阿团/JunoPhilip/J \n-CN/ENG🤏\n-从你妈逼良\n-🚪66￥ 详🔝plq\n-英文号:@jiangziqiqqq\n-备用:@poorspider1014",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 74,
+                "username": "jiangziqiqqq"
+              },
+              {
+                "end": 107,
+                "start": 92,
+                "username": "poorspider1014"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jianggejiang66…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jianggejiang66281",
+                "start": 0,
+                "url": "https://t.co/AFwFYoJq3x"
+              }
+            ]
+          }
+        },
+        "id": "1743330426985594881",
+        "location": "Ion Jupiter",
+        "name": "姜鸽江⑧⑨⑥④",
+        "pinned_tweet_id": "2046542186985226598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041290057857052672/gf13WBSQ_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 429,
+          "following_count": 892,
+          "like_count": 5524,
+          "listed_count": 0,
+          "media_count": 518,
+          "tweet_count": 3486
+        },
+        "url": "https://t.co/AFwFYoJq3x",
+        "username": "jianggejiang",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-03T05:43:38.000Z",
+        "description": "08 he/they enby.双相、焦虑症正在治疗。烟鬼、酗酒、磕药蛆戒割中。成分复杂，钢琴，硬摇滚、前卫摇滚、独立摇滚、jpop…负能，日常发神经吐苦水，友所有群体，查成分回fo。 现生认识的刷到我请自行绕道。血图见里推@silentbleeding1骚逼@KKKaoru_异父异母的弟弟@yu_huacs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 128,
+                "start": 112,
+                "username": "silentbleeding1"
+              },
+              {
+                "end": 139,
+                "start": 130,
+                "username": "KKKaoru_"
+              },
+              {
+                "end": 155,
+                "start": 146,
+                "username": "yu_huacs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizzy_522",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizzy_522",
+                "start": 0,
+                "url": "https://t.co/RDVwBMCX6v"
+              }
+            ]
+          }
+        },
+        "id": "1886289385177669632",
+        "name": "リジー",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997491540915294208/kFKVZs05_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 501,
+          "following_count": 422,
+          "like_count": 22209,
+          "listed_count": 0,
+          "media_count": 282,
+          "tweet_count": 3502
+        },
+        "url": "https://t.co/RDVwBMCX6v",
+        "username": "Lizzy_522",
+        "verified": false
+      }
+    ]
+  }
+}

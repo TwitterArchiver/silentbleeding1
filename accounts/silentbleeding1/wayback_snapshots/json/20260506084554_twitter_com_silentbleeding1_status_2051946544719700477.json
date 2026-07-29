@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046990809908879368",
+    "conversation_id": "2051919295018574212",
+    "created_at": "2026-05-06T08:45:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T09:45:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051946544719700477"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2019293013114253313",
+          "start": 0,
+          "username": "seeyouinthe2999"
+        },
+        {
+          "end": 29,
+          "id": "2032033299980566528",
+          "start": 17,
+          "username": "rinii165892"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051946544719700477",
+    "in_reply_to_user_id": "2019293013114253313",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051919295018574212",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@seeyouinthe2999 @rinii165892 对☠️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046990809908879368",
+        "conversation_id": "2051919295018574212",
+        "created_at": "2026-05-06T08:45:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T09:45:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051946544719700477"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2019293013114253313",
+              "start": 0,
+              "username": "seeyouinthe2999"
+            },
+            {
+              "end": 29,
+              "id": "2032033299980566528",
+              "start": 17,
+              "username": "rinii165892"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051946544719700477",
+        "in_reply_to_user_id": "2019293013114253313",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051919295018574212",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@seeyouinthe2999 @rinii165892 对☠️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2019293013114253313",
+        "conversation_id": "2051919295018574212",
+        "created_at": "2026-05-06T06:57:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T07:57:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051919295018574212"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051919295018574212",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 141,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "感觉有晶哥一直在暗处躲着然后我发一个帖他就举报一个帖很诡异"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-22T16:36:22.000Z",
+        "description": "08 he/they enby.双相、焦虑症正在治疗。烟鬼、酗酒、#shtwt、#odtwt。成分复杂，曾经骑单车，三岛由纪夫，钢琴，硬/前卫/蓝调/独立摇滚，jpop…虚无主义重建欲望中…负能，日常发神经吐苦水，友所有群体，查成分回fo。永远怀念——被封的大号@Lizzy_522",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 39,
+                "start": 33,
+                "tag": "shtwt"
+              },
+              {
+                "end": 46,
+                "start": 40,
+                "tag": "odtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 141,
+                "start": 131,
+                "username": "Lizzy_522"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizzy_522",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizzy_522",
+                "start": 0,
+                "url": "https://t.co/AQMnPR82BG"
+              }
+            ]
+          }
+        },
+        "id": "2046990809908879368",
+        "name": "リジー 2.0（推友寻回中）",
+        "pinned_tweet_id": "2051150939533590911",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047319984494534656/-SRMKdXI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 296,
+          "following_count": 283,
+          "like_count": 840,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 182
+        },
+        "url": "https://t.co/AQMnPR82BG",
+        "username": "silentbleeding1",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-05T06:12:54.000Z",
+        "description": "15岁高中生 oder💊 mtf 抑郁/焦虑/c-ptsd\n喜欢听摇滚  割🔪  重返未来1999 偶尔发一些意识流诗文\n只要有手机耳机我就在听歌睡觉也在\n被pr80空腹逼疯的胃病患者\n同类来互fo捏\n@seeinMillennium 备用号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 101,
+                "username": "seeinMillennium"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/seeyouinthe2999",
+                "end": 23,
+                "expanded_url": "https://ngl.link/seeyouinthe2999",
+                "start": 0,
+                "url": "https://t.co/FSmPgqNygM"
+              }
+            ]
+          }
+        },
+        "id": "2019293013114253313",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "马库斯爱吃蛋糕💊🍥",
+        "pinned_tweet_id": "2051915709974974926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022593862368448512/xmnoyp3e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 531,
+          "following_count": 579,
+          "like_count": 2413,
+          "listed_count": 2,
+          "media_count": 87,
+          "tweet_count": 1127
+        },
+        "url": "https://t.co/FSmPgqNygM",
+        "username": "seeyouinthe2999",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-12T09:58:00.000Z",
+        "description": "不发帖就是被抓进精神病院了【寻回推u】\n- ✰*🎀 ੈ✩🍥✰*💗 ੈ✩- \n互联网蛆虫，查成分回fo/低龄糖逼，十分抱歉\n宇宙严重失眠 -12现役初中生\n备用号@YiJin_0v0\n^✟❀♠@hg3551019177402✿永远纪念@wu_si787878❀✟",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 80,
+                "username": "YiJin_0v0"
+              },
+              {
+                "end": 111,
+                "start": 95,
+                "username": "hg3551019177402"
+              },
+              {
+                "end": 128,
+                "start": 116,
+                "username": "wu_si787878"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ii_rin",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ii_rin",
+                "start": 0,
+                "url": "https://t.co/SjYrlxhZzJ"
+              }
+            ]
+          }
+        },
+        "id": "2032033299980566528",
+        "location": "你看看你身后",
+        "name": "霖（完全病娇邪恶中2.0）",
+        "pinned_tweet_id": "2038261710612729866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047879655378870272/U6xQrdPQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1512,
+          "following_count": 960,
+          "like_count": 9874,
+          "listed_count": 5,
+          "media_count": 222,
+          "tweet_count": 5348
+        },
+        "url": "https://t.co/SjYrlxhZzJ",
+        "username": "rinii165892",
+        "verified": false
+      }
+    ]
+  }
+}

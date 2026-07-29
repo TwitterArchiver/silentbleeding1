@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046990809908879368",
+    "conversation_id": "2076933185695596684",
+    "created_at": "2026-07-14T10:47:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T11:47:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076982015581454835"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1753076943426301953",
+          "start": 0,
+          "username": "cixkn5703974462"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076982015581454835",
+    "in_reply_to_user_id": "1753076943426301953",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076947454155714867",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cixkn5703974462 还真是🌚"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046990809908879368",
+        "conversation_id": "2076933185695596684",
+        "created_at": "2026-07-14T10:47:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T11:47:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076982015581454835"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1753076943426301953",
+              "start": 0,
+              "username": "cixkn5703974462"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076982015581454835",
+        "in_reply_to_user_id": "1753076943426301953",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076947454155714867",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cixkn5703974462 还真是🌚"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753076943426301953",
+        "conversation_id": "2076933185695596684",
+        "created_at": "2026-07-14T08:30:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T09:30:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076947454155714867"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2046990809908879368",
+              "start": 0,
+              "username": "silentbleeding1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076947454155714867",
+        "in_reply_to_user_id": "2046990809908879368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 46,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076933185695596684",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@silentbleeding1 肚子里七斤屎😨"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-22T16:36:22.000Z",
+        "description": "前世@Lizzy_522 \n08 he/they bpd。 #shtwt、#odtwt。喜欢各类摇滚和cult，每日高强度冲浪中。负能，日常吐苦水，友所有群体，迪哥们来找我互fo。里推@pillsandblood\n引路人@KKKaoru_",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 36,
+                "start": 30,
+                "tag": "shtwt"
+              },
+              {
+                "end": 43,
+                "start": 37,
+                "tag": "odtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "Lizzy_522"
+              },
+              {
+                "end": 106,
+                "start": 92,
+                "username": "pillsandblood"
+              },
+              {
+                "end": 119,
+                "start": 110,
+                "username": "KKKaoru_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizzy_5221",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizzy_5221",
+                "start": 0,
+                "url": "https://t.co/TdKmbtj5RY"
+              }
+            ]
+          }
+        },
+        "id": "2046990809908879368",
+        "name": "リジー",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060729372013895680/wVCe3wl1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 603,
+          "following_count": 503,
+          "like_count": 7249,
+          "listed_count": 0,
+          "media_count": 172,
+          "tweet_count": 2061
+        },
+        "url": "https://t.co/TdKmbtj5RY",
+        "username": "silentbleeding1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-01T15:25:38.000Z",
+        "description": "喵🚪-0.01(加我转你一分诱人不                                                                                    愿所有人幸福 ║ 不要od…… ║ 留在这个世界",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtu.be/dQw4w9WgXcQ?si…",
+                "end": 23,
+                "expanded_url": "https://youtu.be/dQw4w9WgXcQ?si=QkTDIeIQcf5rYpfi",
+                "start": 0,
+                "url": "https://t.co/EQGfsYE7x9"
+              }
+            ]
+          }
+        },
+        "id": "1753076943426301953",
+        "location": "窗缝",
+        "name": "pAsserby",
+        "pinned_tweet_id": "2022392144930210188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073902743203299328/rCRSUDGG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 550,
+          "like_count": 8113,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 788
+        },
+        "url": "https://t.co/EQGfsYE7x9",
+        "username": "cixkn5703974462",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046990809908879368",
+    "conversation_id": "2073351426747883889",
+    "created_at": "2026-07-04T10:53:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T11:53:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073359500661432717"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2058029942198374400",
+          "start": 0,
+          "username": "yudia666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073359500661432717",
+    "in_reply_to_user_id": "2058029942198374400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073353986665799849",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yudia666 有美国网站"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046990809908879368",
+        "conversation_id": "2073351426747883889",
+        "created_at": "2026-07-04T10:53:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T11:53:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073359500661432717"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2058029942198374400",
+              "start": 0,
+              "username": "yudia666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073359500661432717",
+        "in_reply_to_user_id": "2058029942198374400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073353986665799849",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yudia666 有美国网站"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2058029942198374400",
+        "conversation_id": "2073351426747883889",
+        "created_at": "2026-07-04T10:31:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T11:31:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073353986665799849"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2046990809908879368",
+              "start": 0,
+              "username": "silentbleeding1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073353986665799849",
+        "in_reply_to_user_id": "2046990809908879368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073351426747883889",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@silentbleeding1 这个东西哪里有卖的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-22T16:36:22.000Z",
+        "description": "前世@Lizzy_522 \n08 he/they 一般路过普通精神病#shtwt、#odtwt。喜欢各类摇滚和cult，每日高强度冲浪中。负能，日常吐苦水，友所有群体，迪哥们来找我互fo。里推@pillsandblood\n引路人@KKKaoru_",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 47,
+                "start": 41,
+                "tag": "odtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "Lizzy_522"
+              },
+              {
+                "end": 110,
+                "start": 96,
+                "username": "pillsandblood"
+              },
+              {
+                "end": 123,
+                "start": 114,
+                "username": "KKKaoru_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizzy_5221",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizzy_5221",
+                "start": 0,
+                "url": "https://t.co/TdKmbtj5RY"
+              }
+            ]
+          }
+        },
+        "id": "2046990809908879368",
+        "name": "リジー",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060729372013895680/wVCe3wl1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 574,
+          "following_count": 480,
+          "like_count": 6342,
+          "listed_count": 0,
+          "media_count": 151,
+          "tweet_count": 1809
+        },
+        "url": "https://t.co/TdKmbtj5RY",
+        "username": "silentbleeding1",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-23T03:39:58.000Z",
+        "description": "killabot  正在学习人类语言  118",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuda21436",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yuda21436",
+                "start": 0,
+                "url": "https://t.co/BUKnKIH0FA"
+              }
+            ]
+          }
+        },
+        "id": "2058029942198374400",
+        "location": "“第二の世界”",
+        "name": "𝖞𝖚𝖉𝖆",
+        "pinned_tweet_id": "2071924273778921875",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068942921869758464/UJ-J2j84_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 137,
+          "like_count": 9089,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 1004
+        },
+        "url": "https://t.co/BUKnKIH0FA",
+        "username": "yudia666",
+        "verified": false
+      }
+    ]
+  }
+}

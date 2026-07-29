@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074686539666427904",
+        "3_2074686539662319616"
+      ]
+    },
+    "author_id": "2046990809908879368",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      }
+    ],
+    "conversation_id": "2074686551569879384",
+    "created_at": "2026-07-08T02:46:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T03:46:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074686551569879384"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/8SzmxnZDpP",
+          "end": 142,
+          "expanded_url": "https://x.com/silentbleeding1/status/2074686551569879384/photo/1",
+          "media_key": "3_2074686539666427904",
+          "start": 119,
+          "url": "https://t.co/8SzmxnZDpP"
+        },
+        {
+          "display_url": "pic.x.com/8SzmxnZDpP",
+          "end": 142,
+          "expanded_url": "https://x.com/silentbleeding1/status/2074686551569879384/photo/1",
+          "media_key": "3_2074686539662319616",
+          "start": 119,
+          "url": "https://t.co/8SzmxnZDpP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074686551569879384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "DAY24:Unfinished-Mineral\n这张绿专录到一半乐队就解散了，的确可惜这么好听的中西部情绪摇滚💔💔所以背后的故事更给这张专辑添增了一抹情绪色彩。\n另外虽然2014年重组了但是到去年也是二次解散了，这次算是圆满的句号了… https://t.co/8SzmxnZDpP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1296,
+        "media_key": "3_2074686539666427904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMrEamkaEAAZQI9.jpg",
+        "width": 1170
+      },
+      {
+        "height": 1415,
+        "media_key": "3_2074686539662319616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMrEamjbYAAFanp.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074686539666427904",
+            "3_2074686539662319616"
+          ]
+        },
+        "author_id": "2046990809908879368",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2074686551569879384",
+        "created_at": "2026-07-08T02:46:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T03:46:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074686551569879384"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8SzmxnZDpP",
+              "end": 142,
+              "expanded_url": "https://x.com/silentbleeding1/status/2074686551569879384/photo/1",
+              "media_key": "3_2074686539666427904",
+              "start": 119,
+              "url": "https://t.co/8SzmxnZDpP"
+            },
+            {
+              "display_url": "pic.x.com/8SzmxnZDpP",
+              "end": 142,
+              "expanded_url": "https://x.com/silentbleeding1/status/2074686551569879384/photo/1",
+              "media_key": "3_2074686539662319616",
+              "start": 119,
+              "url": "https://t.co/8SzmxnZDpP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074686551569879384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "DAY24:Unfinished-Mineral\n这张绿专录到一半乐队就解散了，的确可惜这么好听的中西部情绪摇滚💔💔所以背后的故事更给这张专辑添增了一抹情绪色彩。\n另外虽然2014年重组了但是到去年也是二次解散了，这次算是圆满的句号了… https://t.co/8SzmxnZDpP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-22T16:36:22.000Z",
+        "description": "前世@Lizzy_522 \n08 he/they bpd。 #shtwt、#odtwt。喜欢各类摇滚和cult，每日高强度冲浪中。负能，日常吐苦水，友所有群体，迪哥们来找我互fo。里推@pillsandblood\n引路人@KKKaoru_",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 36,
+                "start": 30,
+                "tag": "shtwt"
+              },
+              {
+                "end": 43,
+                "start": 37,
+                "tag": "odtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "Lizzy_522"
+              },
+              {
+                "end": 106,
+                "start": 92,
+                "username": "pillsandblood"
+              },
+              {
+                "end": 119,
+                "start": 110,
+                "username": "KKKaoru_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizzy_5221",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizzy_5221",
+                "start": 0,
+                "url": "https://t.co/TdKmbtj5RY"
+              }
+            ]
+          }
+        },
+        "id": "2046990809908879368",
+        "name": "リジー",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060729372013895680/wVCe3wl1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 576,
+          "following_count": 483,
+          "like_count": 6728,
+          "listed_count": 0,
+          "media_count": 157,
+          "tweet_count": 1890
+        },
+        "url": "https://t.co/TdKmbtj5RY",
+        "username": "silentbleeding1",
+        "verified": false
+      }
+    ]
+  }
+}

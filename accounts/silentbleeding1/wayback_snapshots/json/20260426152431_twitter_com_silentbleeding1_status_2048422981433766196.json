@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046990809908879368",
+    "conversation_id": "2048327790920110201",
+    "created_at": "2026-04-26T15:24:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T16:24:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048422981433766196"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1684269091849404416",
+          "start": 0,
+          "username": "hg3551019177402"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048422981433766196",
+    "in_reply_to_user_id": "1684269091849404416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048327790920110201",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hg3551019177402 哪里买的包真吗🤤我之前找的微商一买一个假"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2048327788189646848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG0fRVabAAA5GnS.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2048327787522719744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG0fRS7agAAbNJq.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2048327788005060608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG0fRUuacAAjsb-.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046990809908879368",
+        "conversation_id": "2048327790920110201",
+        "created_at": "2026-04-26T15:24:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T16:24:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048422981433766196"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1684269091849404416",
+              "start": 0,
+              "username": "hg3551019177402"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048422981433766196",
+        "in_reply_to_user_id": "1684269091849404416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048327790920110201",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hg3551019177402 哪里买的包真吗🤤我之前找的微商一买一个假"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048327788189646848",
+            "3_2048327787522719744",
+            "3_2048327788005060608"
+          ]
+        },
+        "author_id": "1684269091849404416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2048327790920110201",
+        "created_at": "2026-04-26T09:06:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T10:06:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048327790920110201"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RUwng7rIek",
+              "end": 34,
+              "expanded_url": "https://x.com/hg3551019177402/status/2048327790920110201/photo/1",
+              "media_key": "3_2048327788189646848",
+              "start": 11,
+              "url": "https://t.co/RUwng7rIek"
+            },
+            {
+              "display_url": "pic.x.com/RUwng7rIek",
+              "end": 34,
+              "expanded_url": "https://x.com/hg3551019177402/status/2048327790920110201/photo/1",
+              "media_key": "3_2048327787522719744",
+              "start": 11,
+              "url": "https://t.co/RUwng7rIek"
+            },
+            {
+              "display_url": "pic.x.com/RUwng7rIek",
+              "end": 34,
+              "expanded_url": "https://x.com/hg3551019177402/status/2048327790920110201/photo/1",
+              "media_key": "3_2048327788005060608",
+              "start": 11,
+              "url": "https://t.co/RUwng7rIek"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048327790920110201",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 388,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个呀，果子大味道足 https://t.co/RUwng7rIek"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-22T16:36:22.000Z",
+        "description": "🩸图💊发颠支黑负能号\n大号在此@Lizzy_522",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "Lizzy_522"
+              }
+            ]
+          }
+        },
+        "id": "2046990809908879368",
+        "name": "リジー 2.0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047319984494534656/-SRMKdXI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 134,
+          "like_count": 194,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 46
+        },
+        "username": "silentbleeding1",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-26T18:27:14.000Z",
+        "description": "黑圣徒和白罪女 我主人@Orion2588 药物治疗精神病中（每天吃很多就是了），每天直播一下精神病日常，我的语言自知门里下贱20万bei。黑色柳丁：@rinii165892",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 11,
+                "username": "Orion2588"
+              },
+              {
+                "end": 87,
+                "start": 75,
+                "username": "rinii165892"
+              }
+            ]
+          }
+        },
+        "id": "1684269091849404416",
+        "name": "12",
+        "pinned_tweet_id": "2043934459041645045",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045697198890119168/n-jopRK7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 679,
+          "following_count": 660,
+          "like_count": 18480,
+          "listed_count": 0,
+          "media_count": 531,
+          "tweet_count": 8806
+        },
+        "username": "hg3551019177402",
+        "verified": false
+      }
+    ]
+  }
+}

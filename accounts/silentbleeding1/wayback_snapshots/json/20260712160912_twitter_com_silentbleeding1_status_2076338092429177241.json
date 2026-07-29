@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046990809908879368",
+    "conversation_id": "2076333965930344715",
+    "created_at": "2026-07-12T16:09:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T17:09:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076338092429177241"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1751584887738716160",
+          "start": 0,
+          "username": "yekatinez"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076338092429177241",
+    "in_reply_to_user_id": "1751584887738716160",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076335487011475722",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yekatinez 是的😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046990809908879368",
+        "conversation_id": "2076333965930344715",
+        "created_at": "2026-07-12T16:09:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T17:09:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076338092429177241"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1751584887738716160",
+              "start": 0,
+              "username": "yekatinez"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076338092429177241",
+        "in_reply_to_user_id": "1751584887738716160",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076335487011475722",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yekatinez 是的😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751584887738716160",
+        "conversation_id": "2076333965930344715",
+        "created_at": "2026-07-12T15:58:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T16:58:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076335487011475722"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2046990809908879368",
+              "start": 0,
+              "username": "silentbleeding1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076335487011475722",
+        "in_reply_to_user_id": "2046990809908879368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076333965930344715",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@silentbleeding1 忧郁程度五颗星"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-22T16:36:22.000Z",
+        "description": "前世@Lizzy_522 \n08 he/they bpd。 #shtwt、#odtwt。喜欢各类摇滚和cult，每日高强度冲浪中。负能，日常吐苦水，友所有群体，迪哥们来找我互fo。里推@pillsandblood\n引路人@KKKaoru_",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 36,
+                "start": 30,
+                "tag": "shtwt"
+              },
+              {
+                "end": 43,
+                "start": 37,
+                "tag": "odtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "Lizzy_522"
+              },
+              {
+                "end": 106,
+                "start": 92,
+                "username": "pillsandblood"
+              },
+              {
+                "end": 119,
+                "start": 110,
+                "username": "KKKaoru_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizzy_5221",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizzy_5221",
+                "start": 0,
+                "url": "https://t.co/TdKmbtj5RY"
+              }
+            ]
+          }
+        },
+        "id": "2046990809908879368",
+        "name": "リジー",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060729372013895680/wVCe3wl1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 592,
+          "following_count": 496,
+          "like_count": 7085,
+          "listed_count": 0,
+          "media_count": 170,
+          "tweet_count": 1996
+        },
+        "url": "https://t.co/TdKmbtj5RY",
+        "username": "silentbleeding1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-28T12:36:02.000Z",
+        "description": "=怜/逃生舱@emiri7_/🩶@yu_huacs/心肝@SmoggyO_o",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 6,
+                "username": "emiri7_"
+              },
+              {
+                "end": 25,
+                "start": 16,
+                "username": "yu_huacs"
+              },
+              {
+                "end": 38,
+                "start": 28,
+                "username": "SmoggyO_o"
+              }
+            ]
+          }
+        },
+        "id": "1751584887738716160",
+        "location": "宇宙",
+        "name": "emrio",
+        "pinned_tweet_id": "1884115787520303208",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074890384388583424/Bp5Rlg-8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 437,
+          "following_count": 268,
+          "like_count": 1587,
+          "listed_count": 1,
+          "media_count": 139,
+          "tweet_count": 1636
+        },
+        "url": "",
+        "username": "yekatinez",
+        "verified": false
+      }
+    ]
+  }
+}

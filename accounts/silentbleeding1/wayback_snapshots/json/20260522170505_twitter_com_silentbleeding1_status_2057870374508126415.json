@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046990809908879368",
+    "conversation_id": "2057844013466825110",
+    "created_at": "2026-05-22T17:05:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T18:05:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057870374508126415"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1978032792383709184",
+          "start": 0,
+          "username": "Sabrina8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057870374508126415",
+    "in_reply_to_user_id": "1978032792383709184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057863339045433735",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sabrina8964 改天试试🚬"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046990809908879368",
+        "conversation_id": "2057844013466825110",
+        "created_at": "2026-05-22T17:05:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T18:05:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057870374508126415"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1978032792383709184",
+              "start": 0,
+              "username": "Sabrina8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057870374508126415",
+        "in_reply_to_user_id": "1978032792383709184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057863339045433735",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sabrina8964 改天试试🚬"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1978032792383709184",
+        "conversation_id": "2057844013466825110",
+        "created_at": "2026-05-22T16:37:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T17:37:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057863339045433735"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2046990809908879368",
+              "start": 0,
+              "username": "silentbleeding1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057863339045433735",
+        "in_reply_to_user_id": "2046990809908879368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057844013466825110",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@silentbleeding1 夹板夹一下试试"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-22T16:36:22.000Z",
+        "description": "前世@Lizzy_522 \n08 he/they enby.双相、焦虑症正在治疗。烟鬼、酗酒、#shtwt、#odtwt。成分复杂，公路车，日本文学/拉康精神分析，钢琴，硬/前卫/蓝调/独立摇滚，虚无主义重建欲望中…负能，日常发神经吐苦水，友所有群体，查成分回fo。里推@pillsandblood",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 53,
+                "start": 47,
+                "tag": "shtwt"
+              },
+              {
+                "end": 60,
+                "start": 54,
+                "tag": "odtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "Lizzy_522"
+              },
+              {
+                "end": 149,
+                "start": 135,
+                "username": "pillsandblood"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizzy_522",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizzy_522",
+                "start": 0,
+                "url": "https://t.co/AQMnPR82BG"
+              }
+            ]
+          }
+        },
+        "id": "2046990809908879368",
+        "name": "リジー",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047319984494534656/-SRMKdXI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 429,
+          "following_count": 385,
+          "like_count": 2715,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 694
+        },
+        "url": "https://t.co/AQMnPR82BG",
+        "username": "silentbleeding1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-14T09:39:22.000Z",
+        "description": "拿去吧！ 由於不是出自真心，話就說得格外動聽！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "girledm.com",
+                "end": 23,
+                "expanded_url": "https://girledm.com",
+                "start": 0,
+                "url": "https://t.co/Wbnd5PNLGq"
+              }
+            ]
+          }
+        },
+        "id": "1978032792383709184",
+        "location": "我要让所有虚伪的人都看清自己",
+        "name": "Heaven or Las Vegas",
+        "pinned_tweet_id": "2040397447449760065",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057746369935532032/7h2sgqXC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 641,
+          "following_count": 330,
+          "like_count": 18589,
+          "listed_count": 2,
+          "media_count": 113,
+          "tweet_count": 3508
+        },
+        "url": "https://t.co/Wbnd5PNLGq",
+        "username": "Sabrina8964",
+        "verified": false
+      }
+    ]
+  }
+}

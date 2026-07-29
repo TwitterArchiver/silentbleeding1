@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046990809908879368",
+    "conversation_id": "2052761201269149801",
+    "created_at": "2026-05-08T17:13:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T18:13:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052799004094931287"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2038463346576670720",
+          "start": 0,
+          "username": "zutto1105t"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052799004094931287",
+    "in_reply_to_user_id": "2038463346576670720",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052792794763448428",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zutto1105t 好诶🫶🥹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046990809908879368",
+        "conversation_id": "2052761201269149801",
+        "created_at": "2026-05-08T17:13:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T18:13:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052799004094931287"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2038463346576670720",
+              "start": 0,
+              "username": "zutto1105t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052799004094931287",
+        "in_reply_to_user_id": "2038463346576670720",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052792794763448428",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zutto1105t 好诶🫶🥹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2038463346576670720",
+        "conversation_id": "2052761201269149801",
+        "created_at": "2026-05-08T16:48:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T17:48:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052792794763448428"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2046990809908879368",
+              "start": 0,
+              "username": "silentbleeding1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052792794763448428",
+        "in_reply_to_user_id": "2046990809908879368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052761201269149801",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@silentbleeding1 好萌的吧🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-22T16:36:22.000Z",
+        "description": "08 he/they enby.双相、焦虑症正在治疗。烟鬼、酗酒、#shtwt、#odtwt。成分复杂，日本文学/拉康精神分析，钢琴，硬/前卫/蓝调/独立摇滚…虚无主义重建欲望中…负能，日常发神经吐苦水，友所有群体，查成分回fo。永远怀念——我的上一世@Lizzy_522 里推@pillsandblood",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 39,
+                "start": 33,
+                "tag": "shtwt"
+              },
+              {
+                "end": 46,
+                "start": 40,
+                "tag": "odtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 136,
+                "start": 126,
+                "username": "Lizzy_522"
+              },
+              {
+                "end": 153,
+                "start": 139,
+                "username": "pillsandblood"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizzy_522",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizzy_522",
+                "start": 0,
+                "url": "https://t.co/AQMnPR82BG"
+              }
+            ]
+          }
+        },
+        "id": "2046990809908879368",
+        "name": "リジー 2.0（推友寻回中）",
+        "pinned_tweet_id": "2051150939533590911",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047319984494534656/-SRMKdXI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 338,
+          "following_count": 316,
+          "like_count": 1142,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 256
+        },
+        "url": "https://t.co/AQMnPR82BG",
+        "username": "silentbleeding1",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-30T03:49:21.000Z",
+        "description": "裏垢//无言fo致歉//OD自伤",
+        "id": "2038463346576670720",
+        "name": "Knd",
+        "pinned_tweet_id": "2040665722179944689",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048857213448638464/uyGWHnlQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 53,
+          "like_count": 130,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 91
+        },
+        "username": "zutto1105t",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046990809908879368",
+    "conversation_id": "2077702350756851811",
+    "created_at": "2026-07-16T17:31:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T18:31:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077808443667452220"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1988906017778962432",
+          "start": 0,
+          "username": "inrainbows11451"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077808443667452220",
+    "in_reply_to_user_id": "1988906017778962432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077702350756851811",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@inrainbows11451 这是什么平台（？\n神佑黑帝不是在音乐流媒体全被下架了吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1716,
+        "media_key": "3_2077702341386792960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNV7RXdbcAA4JPa.jpg",
+        "width": 1179
+      },
+      {
+        "height": 1729,
+        "media_key": "3_2077702341512626176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNV7RX7bgAAyvpX.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046990809908879368",
+        "conversation_id": "2077702350756851811",
+        "created_at": "2026-07-16T17:31:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T18:31:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077808443667452220"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1988906017778962432",
+              "start": 0,
+              "username": "inrainbows11451"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077808443667452220",
+        "in_reply_to_user_id": "1988906017778962432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077702350756851811",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@inrainbows11451 这是什么平台（？\n神佑黑帝不是在音乐流媒体全被下架了吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077702341386792960",
+            "3_2077702341512626176"
+          ]
+        },
+        "author_id": "1988906017778962432",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2077702350756851811",
+        "created_at": "2026-07-16T10:30:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T11:30:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077702350756851811"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/maxOXM0AIl",
+              "end": 29,
+              "expanded_url": "https://x.com/inrainbows11451/status/2077702350756851811/photo/1",
+              "media_key": "3_2077702341386792960",
+              "start": 6,
+              "url": "https://t.co/maxOXM0AIl"
+            },
+            {
+              "display_url": "pic.x.com/maxOXM0AIl",
+              "end": 29,
+              "expanded_url": "https://x.com/inrainbows11451/status/2077702350756851811/photo/1",
+              "media_key": "3_2077702341512626176",
+              "start": 6,
+              "url": "https://t.co/maxOXM0AIl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077702350756851811",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 85,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "留不住时间 https://t.co/maxOXM0AIl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-22T16:36:22.000Z",
+        "description": "前世@Lizzy_522 \nhe/they bpd。 #shtwt、#odtwt。喜各类摇滚和cult，每日高强度冲浪中。负能，日常吐苦水，友所有群体，迪哥们来找我互fo。里推@pillsandblood\n引路人@KKKaoru_",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 33,
+                "start": 27,
+                "tag": "shtwt"
+              },
+              {
+                "end": 40,
+                "start": 34,
+                "tag": "odtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "Lizzy_522"
+              },
+              {
+                "end": 102,
+                "start": 88,
+                "username": "pillsandblood"
+              },
+              {
+                "end": 115,
+                "start": 106,
+                "username": "KKKaoru_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizzy_5221",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizzy_5221",
+                "start": 0,
+                "url": "https://t.co/TdKmbtj5RY"
+              }
+            ]
+          }
+        },
+        "id": "2046990809908879368",
+        "name": "リジー",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060729372013895680/wVCe3wl1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 607,
+          "following_count": 506,
+          "like_count": 7462,
+          "listed_count": 0,
+          "media_count": 175,
+          "tweet_count": 2083
+        },
+        "url": "https://t.co/TdKmbtj5RY",
+        "username": "silentbleeding1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-13T09:45:40.000Z",
+        "description": "民族自由主义(类Libertarian）/地方主义/L(G)B🏳️‍🌈/文化上有点保守/渴望贴贴喵😭/ dio-swa-nang 潮汕儂",
+        "id": "1988906017778962432",
+        "name": "In Rainbows 🇹🇼🇨🇳🏳️‍🌈",
+        "pinned_tweet_id": "2025825125665563063",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988906231881428992/BZ0uE1kX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 195,
+          "following_count": 161,
+          "like_count": 5160,
+          "listed_count": 0,
+          "media_count": 181,
+          "tweet_count": 2014
+        },
+        "url": "",
+        "username": "inrainbows11451",
+        "verified": false
+      }
+    ]
+  }
+}

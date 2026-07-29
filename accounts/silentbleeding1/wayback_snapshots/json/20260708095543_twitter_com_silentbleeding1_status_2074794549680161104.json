@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074794542696648705"
+      ]
+    },
+    "author_id": "2046990809908879368",
+    "conversation_id": "2074794549680161104",
+    "created_at": "2026-07-08T09:55:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T10:55:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074794549680161104"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 28,
+          "id": "1916113741328093187",
+          "start": 17,
+          "username": "0nemoresec"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lYYhO8Dv18",
+          "end": 76,
+          "expanded_url": "https://x.com/silentbleeding1/status/2074794549680161104/photo/1",
+          "media_key": "3_2074794542696648705",
+          "start": 53,
+          "url": "https://t.co/lYYhO8Dv18"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074794549680161104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "和000的每日推歌环节暂停更新直到@0nemoresec 被解除ghostban🏳️🏳️🏳️ \n双双坠机 https://t.co/lYYhO8Dv18"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 822,
+        "media_key": "3_2074794542696648705",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMsmpNNaUAE3hr6.jpg",
+        "width": 863
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074794542696648705"
+          ]
+        },
+        "author_id": "2046990809908879368",
+        "conversation_id": "2074794549680161104",
+        "created_at": "2026-07-08T09:55:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T10:55:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074794549680161104"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 28,
+              "id": "1916113741328093187",
+              "start": 17,
+              "username": "0nemoresec"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lYYhO8Dv18",
+              "end": 76,
+              "expanded_url": "https://x.com/silentbleeding1/status/2074794549680161104/photo/1",
+              "media_key": "3_2074794542696648705",
+              "start": 53,
+              "url": "https://t.co/lYYhO8Dv18"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074794549680161104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "和000的每日推歌环节暂停更新直到@0nemoresec 被解除ghostban🏳️🏳️🏳️ \n双双坠机 https://t.co/lYYhO8Dv18"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-22T16:36:22.000Z",
+        "description": "前世@Lizzy_522 \n08 he/they bpd。 #shtwt、#odtwt。喜欢各类摇滚和cult，每日高强度冲浪中。负能，日常吐苦水，友所有群体，迪哥们来找我互fo。里推@pillsandblood\n引路人@KKKaoru_",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 36,
+                "start": 30,
+                "tag": "shtwt"
+              },
+              {
+                "end": 43,
+                "start": 37,
+                "tag": "odtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "Lizzy_522"
+              },
+              {
+                "end": 106,
+                "start": 92,
+                "username": "pillsandblood"
+              },
+              {
+                "end": 119,
+                "start": 110,
+                "username": "KKKaoru_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizzy_5221",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizzy_5221",
+                "start": 0,
+                "url": "https://t.co/TdKmbtj5RY"
+              }
+            ]
+          }
+        },
+        "id": "2046990809908879368",
+        "name": "リジー",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060729372013895680/wVCe3wl1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 577,
+          "following_count": 483,
+          "like_count": 6758,
+          "listed_count": 0,
+          "media_count": 158,
+          "tweet_count": 1899
+        },
+        "url": "https://t.co/TdKmbtj5RY",
+        "username": "silentbleeding1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-26T12:54:58.000Z",
+        "description": "尸体在说话\n匿名信 https://t.co/dAFmIPsROM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/0nemoresec",
+                "end": 33,
+                "expanded_url": "https://ngl.link/0nemoresec",
+                "start": 10,
+                "url": "https://t.co/dAFmIPsROM"
+              }
+            ]
+          }
+        },
+        "id": "1916113741328093187",
+        "location": "空白",
+        "name": "000",
+        "pinned_tweet_id": "2068352892189438411",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063212015276232704/wKzUSuMr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162,
+          "following_count": 0,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 1382
+        },
+        "url": "",
+        "username": "0nemoresec",
+        "verified": false
+      }
+    ]
+  }
+}

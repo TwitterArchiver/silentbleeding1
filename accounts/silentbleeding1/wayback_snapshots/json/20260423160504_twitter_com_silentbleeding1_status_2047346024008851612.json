@@ -1,0 +1,322 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047280288292880384"
+      ],
+      "media_source_tweet_id": [
+        "2047280306672292242"
+      ]
+    },
+    "author_id": "2046990809908879368",
+    "conversation_id": "2047346024008851612",
+    "created_at": "2026-04-23T16:05:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T17:05:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047346024008851612"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2047273781098639360",
+          "start": 3,
+          "username": "Yamamotokoroshi"
+        },
+        {
+          "end": 37,
+          "id": "2045022236201918465",
+          "start": 21,
+          "username": "cVPrL20wIa42392"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hT1EmsmRwM",
+          "end": 121,
+          "expanded_url": "https://x.com/Yamamotokoroshi/status/2047280306672292242/photo/1",
+          "media_key": "3_2047280288292880384",
+          "start": 98,
+          "url": "https://t.co/hT1EmsmRwM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047346024008851612",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047280306672292242",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Yamamotokoroshi: @cVPrL20wIa42392二世，二世可以取关，有点累了，随缘fo吧，想先吃点，晚点再搞自介，希望熟人能快点刷到我，去药店买ym被拒绝了，就搞到俩。 https://t.co/hT1EmsmRwM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2047280288292880384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGlmk0NbQAAiRRa.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047280288292880384"
+          ],
+          "media_source_tweet_id": [
+            "2047280306672292242"
+          ]
+        },
+        "author_id": "2046990809908879368",
+        "conversation_id": "2047346024008851612",
+        "created_at": "2026-04-23T16:05:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T17:05:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047346024008851612"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2047273781098639360",
+              "start": 3,
+              "username": "Yamamotokoroshi"
+            },
+            {
+              "end": 37,
+              "id": "2045022236201918465",
+              "start": 21,
+              "username": "cVPrL20wIa42392"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hT1EmsmRwM",
+              "end": 121,
+              "expanded_url": "https://x.com/Yamamotokoroshi/status/2047280306672292242/photo/1",
+              "media_key": "3_2047280288292880384",
+              "start": 98,
+              "url": "https://t.co/hT1EmsmRwM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047346024008851612",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047280306672292242",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Yamamotokoroshi: @cVPrL20wIa42392二世，二世可以取关，有点累了，随缘fo吧，想先吃点，晚点再搞自介，希望熟人能快点刷到我，去药店买ym被拒绝了，就搞到俩。 https://t.co/hT1EmsmRwM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047280288292880384"
+          ]
+        },
+        "author_id": "2047273781098639360",
+        "conversation_id": "2047280306672292242",
+        "created_at": "2026-04-23T11:43:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T12:43:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047280306672292242"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2045022236201918465",
+              "start": 0,
+              "username": "cVPrL20wIa42392"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hT1EmsmRwM",
+              "end": 100,
+              "expanded_url": "https://x.com/Yamamotokoroshi/status/2047280306672292242/photo/1",
+              "media_key": "3_2047280288292880384",
+              "start": 77,
+              "url": "https://t.co/hT1EmsmRwM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047280306672292242",
+        "in_reply_to_user_id": "2045022236201918465",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 256,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "@cVPrL20wIa42392二世，二世可以取关，有点累了，随缘fo吧，想先吃点，晚点再搞自介，希望熟人能快点刷到我，去药店买ym被拒绝了，就搞到俩。 https://t.co/hT1EmsmRwM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-22T16:36:22.000Z",
+        "description": "🩸图磕药发颠支黑负能号，关注请求会慢慢通过，怕被限关注…\n大号在此@Lizzy_522",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 33,
+                "username": "Lizzy_522"
+              }
+            ]
+          }
+        },
+        "id": "2046990809908879368",
+        "name": "リジー（二世推u巡回中…",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047319984494534656/-SRMKdXI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 70,
+          "like_count": 83,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 20
+        },
+        "username": "silentbleeding1",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-23T11:24:20.000Z",
+        "description": "@cVPrL20wIa42392二世）白兔pr重度依赖，可以叫我小杀，od/不🔪🩸/致幻/不涉政/日语🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/二三涉/药理学习中🥰/随缘互fo/评论可能收不到，延迟回复抱歉，但请不要问我物质渠道，也不出售任何物质🙂‍↔️欢迎找我提问！！！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 0,
+                "username": "cVPrL20wIa42392"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B1%B1%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B1%B1%E6%9C%AC%E6%AE%BA%E3%81%97",
+                "start": 0,
+                "url": "https://t.co/N7xkTQ0fnX"
+              }
+            ]
+          }
+        },
+        "id": "2047273781098639360",
+        "location": "✟升天✟",
+        "name": "山本殺し✟秽土三",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047275597890727936/yfKW1ISI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 55,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 11
+        },
+        "url": "https://t.co/N7xkTQ0fnX",
+        "username": "Yamamotokoroshi",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-17T06:11:19.000Z",
+        "description": "白兔pr重度依赖，可以叫我小杀，02/od/不🔪🩸/致幻/不涉政/日语🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/药理学习中/二三涉/请自行避雷🥰/同类互fo（慢回怕号又崩了）/评论可能收不到，延迟回复抱歉，但请不要问我物质渠道，也不出售任何物质🙂‍↔️欢迎找我提问！！！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B1%B1%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B1%B1%E6%9C%AC%E6%AE%BA%E3%81%97",
+                "start": 0,
+                "url": "https://t.co/0J0vv0Ub53"
+              }
+            ]
+          }
+        },
+        "id": "2045022236201918465",
+        "location": "✟升天✟",
+        "name": "山本殺し（二世互fo寻回版）",
+        "pinned_tweet_id": "2045330605500698957",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045022879562231808/TOsi7poo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 690,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 733
+        },
+        "url": "https://t.co/0J0vv0Ub53",
+        "username": "cVPrL20wIa42392",
+        "verified": true
+      }
+    ]
+  }
+}

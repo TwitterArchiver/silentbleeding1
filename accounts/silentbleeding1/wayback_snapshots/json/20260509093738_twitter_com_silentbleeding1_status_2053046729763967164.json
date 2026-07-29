@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046990809908879368",
+    "conversation_id": "2053043485171765371",
+    "created_at": "2026-05-09T09:37:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T10:37:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053046729763967164"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1861500910658297857",
+          "start": 0,
+          "username": "M12171026"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053046729763967164",
+    "in_reply_to_user_id": "1861500910658297857",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053043485171765371",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@M12171026 不能（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046990809908879368",
+        "conversation_id": "2053043485171765371",
+        "created_at": "2026-05-09T09:37:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T10:37:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053046729763967164"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1861500910658297857",
+              "start": 0,
+              "username": "M12171026"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053046729763967164",
+        "in_reply_to_user_id": "1861500910658297857",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053043485171765371",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@M12171026 不能（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1861500910658297857",
+        "conversation_id": "2053043485171765371",
+        "created_at": "2026-05-09T09:24:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T10:24:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053043485171765371"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/silentbleeding…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/silentbleeding1/status/2053008653775692038",
+              "start": 7,
+              "url": "https://t.co/AQLwAgsUtZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053043485171765371",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053008653775692038",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好好奇能o吗 https://t.co/AQLwAgsUtZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-22T16:36:22.000Z",
+        "description": "08 he/they enby.双相、焦虑症正在治疗。烟鬼、酗酒、#shtwt、#odtwt。成分复杂，日本文学/拉康精神分析，钢琴，硬/前卫/蓝调/独立摇滚…虚无主义重建欲望中…负能，日常发神经吐苦水，友所有群体，查成分回fo。永远怀念——我的上一世@Lizzy_522 里推@pillsandblood",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 39,
+                "start": 33,
+                "tag": "shtwt"
+              },
+              {
+                "end": 46,
+                "start": 40,
+                "tag": "odtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 136,
+                "start": 126,
+                "username": "Lizzy_522"
+              },
+              {
+                "end": 153,
+                "start": 139,
+                "username": "pillsandblood"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizzy_522",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizzy_522",
+                "start": 0,
+                "url": "https://t.co/AQMnPR82BG"
+              }
+            ]
+          }
+        },
+        "id": "2046990809908879368",
+        "name": "リジー 2.0（推友寻回中）",
+        "pinned_tweet_id": "2051150939533590911",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047319984494534656/-SRMKdXI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 351,
+          "following_count": 327,
+          "like_count": 1222,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 281
+        },
+        "url": "https://t.co/AQMnPR82BG",
+        "username": "silentbleeding1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-26T20:03:11.000Z",
+        "description": "我是莫音 我是疯子精神病｜前世2kfo ｜bpd共病双向｜cptsd/｜主页有自残｜od｜穿刺｜穿孔｜纹身｜割凉席真皮脂肪｜小女孩可以来找我扩列☺️",
+        "id": "1861500910658297857",
+        "location": "我的小窝",
+        "name": "莫音",
+        "pinned_tweet_id": "1861532934974615764",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861502697394024448/aW36BXsb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 183,
+          "like_count": 575,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 184
+        },
+        "username": "M12171026",
+        "verified": false
+      }
+    ]
+  }
+}

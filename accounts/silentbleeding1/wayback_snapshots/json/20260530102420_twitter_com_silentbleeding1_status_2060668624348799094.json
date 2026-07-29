@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046990809908879368",
+    "conversation_id": "2060632693671653414",
+    "created_at": "2026-05-30T10:24:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T11:24:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060668624348799094"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1634944403872833536",
+          "start": 0,
+          "username": "wmy072011"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060668624348799094",
+    "in_reply_to_user_id": "1634944403872833536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060632693671653414",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wmy072011 斜刘海确实萌萌"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7070,
+        "height": 1280,
+        "media_key": "13_2060632276804026368",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2060632276804026368/img/-yQtw8pcIa1JMl8e.jpg",
+        "public_metrics": {
+          "view_count": 125
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2060632276804026368/vid/avc1/320x568/gjmIxrnf1zSTvYmG.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2060632276804026368/vid/avc1/480x852/6XecfBEEtEZ4Sv42.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2060632276804026368/vid/avc1/720x1280/8ctPW-QmKuSr4ylz.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2060632276804026368/pl/Sew_3-8oJ7XcgUyp.m3u8?tag=14"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046990809908879368",
+        "conversation_id": "2060632693671653414",
+        "created_at": "2026-05-30T10:24:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T11:24:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060668624348799094"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1634944403872833536",
+              "start": 0,
+              "username": "wmy072011"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060668624348799094",
+        "in_reply_to_user_id": "1634944403872833536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060632693671653414",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wmy072011 斜刘海确实萌萌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2060632276804026368"
+          ]
+        },
+        "author_id": "1634944403872833536",
+        "conversation_id": "2060632693671653414",
+        "created_at": "2026-05-30T08:01:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T09:01:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060632693671653414"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IjgDdgSIjk",
+              "end": 49,
+              "expanded_url": "https://x.com/wmy072011/status/2060632693671653414/video/1",
+              "media_key": "13_2060632276804026368",
+              "start": 26,
+              "url": "https://t.co/IjgDdgSIjk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060632693671653414",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 344,
+          "like_count": 37,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "虽然我真的很讨厌斜刘海 但我忽然觉得斜刘海还挺萌的 https://t.co/IjgDdgSIjk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-22T16:36:22.000Z",
+        "description": "前世@Lizzy_522 \n08 he/they enby.双相、焦虑症正在治疗。烟鬼、酗酒、#shtwt、#odtwt。成分复杂，公路车，日本文学/拉康精神分析，钢琴，硬/前卫/蓝调/独立摇滚，虚无主义重建欲望中…负能，日常发神经吐苦水，友所有群体，查成分回fo。里推@pillsandblood",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 53,
+                "start": 47,
+                "tag": "shtwt"
+              },
+              {
+                "end": 60,
+                "start": 54,
+                "tag": "odtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "Lizzy_522"
+              },
+              {
+                "end": 149,
+                "start": 135,
+                "username": "pillsandblood"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizzy_522",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizzy_522",
+                "start": 0,
+                "url": "https://t.co/AQMnPR82BG"
+              }
+            ]
+          }
+        },
+        "id": "2046990809908879368",
+        "name": "リジー",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047319984494534656/-SRMKdXI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 456,
+          "following_count": 404,
+          "like_count": 3281,
+          "listed_count": 1,
+          "media_count": 59,
+          "tweet_count": 843
+        },
+        "url": "https://t.co/AQMnPR82BG",
+        "username": "silentbleeding1",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-12T15:48:24.000Z",
+        "description": "希望明天过的顺利\n宝宝：@OTxiashu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 12,
+                "username": "OTxiashu"
+              }
+            ]
+          }
+        },
+        "id": "1634944403872833536",
+        "name": "十二点",
+        "pinned_tweet_id": "2034682318695407936",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1808798311559929856/zxLxGTxB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1793,
+          "following_count": 458,
+          "like_count": 49507,
+          "listed_count": 1,
+          "media_count": 1576,
+          "tweet_count": 15403
+        },
+        "username": "wmy072011",
+        "verified": false
+      }
+    ]
+  }
+}

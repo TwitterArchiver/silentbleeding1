@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046990809908879368",
+    "conversation_id": "2060701702987403691",
+    "created_at": "2026-05-30T14:02:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T15:02:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060723612362137928"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1741807657110147073",
+          "start": 0,
+          "username": "Ria8964kcw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060723612362137928",
+    "in_reply_to_user_id": "1741807657110147073",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060701702987403691",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ria8964kcw 袜还有asmr😍"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13100,
+        "height": 1280,
+        "media_key": "13_2060701629624819712",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2060701629624819712/img/0MbVRR5-BcmEfncp.jpg",
+        "public_metrics": {
+          "view_count": 14
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2060701629624819712/vid/avc1/320x568/p8wECudqwkJDo3RJ.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2060701629624819712/vid/avc1/480x852/KQRos5PUtO3uDckv.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2060701629624819712/vid/avc1/720x1280/kMzmfu9zM9UX4lxT.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2060701629624819712/pl/D62phbYIG3IL3KTc.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046990809908879368",
+        "conversation_id": "2060701702987403691",
+        "created_at": "2026-05-30T14:02:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T15:02:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060723612362137928"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1741807657110147073",
+              "start": 0,
+              "username": "Ria8964kcw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060723612362137928",
+        "in_reply_to_user_id": "1741807657110147073",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060701702987403691",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ria8964kcw 袜还有asmr😍"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2060701629624819712"
+          ]
+        },
+        "author_id": "1741807657110147073",
+        "conversation_id": "2060701702987403691",
+        "created_at": "2026-05-30T12:35:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T13:35:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060701702987403691"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sKuuuAB7hd",
+              "end": 45,
+              "expanded_url": "https://x.com/Ria8964kcw/status/2060701702987403691/video/1",
+              "media_key": "13_2060701629624819712",
+              "start": 22,
+              "url": "https://t.co/sKuuuAB7hd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060701702987403691",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "社工库大神利亚正在美美桑内地开你全家户籍中 https://t.co/sKuuuAB7hd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-22T16:36:22.000Z",
+        "description": "前世@Lizzy_522 \n08 he/they enby.双相、焦虑症正在治疗。烟鬼、酗酒、#shtwt、#odtwt。成分复杂，公路车，日本文学/拉康精神分析，钢琴，硬/前卫/蓝调/独立摇滚，虚无主义重建欲望中…负能，日常发神经吐苦水，友所有群体，查成分回fo。里推@pillsandblood",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 53,
+                "start": 47,
+                "tag": "shtwt"
+              },
+              {
+                "end": 60,
+                "start": 54,
+                "tag": "odtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "Lizzy_522"
+              },
+              {
+                "end": 149,
+                "start": 135,
+                "username": "pillsandblood"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizzy_522",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizzy_522",
+                "start": 0,
+                "url": "https://t.co/AQMnPR82BG"
+              }
+            ]
+          }
+        },
+        "id": "2046990809908879368",
+        "name": "リジー",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047319984494534656/-SRMKdXI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 459,
+          "following_count": 404,
+          "like_count": 3338,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 848
+        },
+        "url": "https://t.co/AQMnPR82BG",
+        "username": "silentbleeding1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 \n里推https://t.co/wDxQJbCEPA any pronouns\nenby，🏳️‍⚧️泛性恋🏳️‍🌈/金采源kim chaewon毒唯🐆🐯 /偶尔在互联网上释放善意 /彩虹友好🌈/看到就会回fo/爱玩烂梗恶俗无底线请注意",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/riafixcom?s=21",
+                "end": 30,
+                "expanded_url": "https://x.com/riafixcom?s=21",
+                "start": 7,
+                "url": "https://t.co/wDxQJbCEPA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的右心室",
+        "name": "赔钱货",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058504883213684736/-eX4OFjc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 172,
+          "following_count": 306,
+          "like_count": 7063,
+          "listed_count": 0,
+          "media_count": 246,
+          "tweet_count": 3684
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      }
+    ]
+  }
+}

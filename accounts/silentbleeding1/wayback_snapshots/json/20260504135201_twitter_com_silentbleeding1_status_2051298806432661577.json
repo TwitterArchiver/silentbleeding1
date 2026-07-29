@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2051296360478195712"
+      ],
+      "media_source_tweet_id": [
+        "2051296366752899302"
+      ]
+    },
+    "author_id": "2046990809908879368",
+    "conversation_id": "2051298806432661577",
+    "created_at": "2026-05-04T13:52:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T14:52:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051298806432661577"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1985353024244793345",
+          "start": 3,
+          "username": "Bitterpearlbird"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bYsvPZ7yp2",
+          "end": 58,
+          "expanded_url": "https://x.com/Bitterpearlbird/status/2051296366752899302/photo/1",
+          "media_key": "3_2051296360478195712",
+          "start": 35,
+          "url": "https://t.co/bYsvPZ7yp2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051298806432661577",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051296366752899302",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Bitterpearlbird: 互关们回家好吗娅娅想你们。 https://t.co/bYsvPZ7yp2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 795,
+        "media_key": "3_2051296360478195712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHerK-9awAA2R1c.jpg",
+        "width": 1102
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051296360478195712"
+          ],
+          "media_source_tweet_id": [
+            "2051296366752899302"
+          ]
+        },
+        "author_id": "2046990809908879368",
+        "conversation_id": "2051298806432661577",
+        "created_at": "2026-05-04T13:52:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T14:52:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051298806432661577"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1985353024244793345",
+              "start": 3,
+              "username": "Bitterpearlbird"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bYsvPZ7yp2",
+              "end": 58,
+              "expanded_url": "https://x.com/Bitterpearlbird/status/2051296366752899302/photo/1",
+              "media_key": "3_2051296360478195712",
+              "start": 35,
+              "url": "https://t.co/bYsvPZ7yp2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051298806432661577",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051296366752899302",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Bitterpearlbird: 互关们回家好吗娅娅想你们。 https://t.co/bYsvPZ7yp2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051296360478195712"
+          ]
+        },
+        "author_id": "1985353024244793345",
+        "conversation_id": "2051296366752899302",
+        "created_at": "2026-05-04T13:42:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T14:42:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051296366752899302"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bYsvPZ7yp2",
+              "end": 37,
+              "expanded_url": "https://x.com/Bitterpearlbird/status/2051296366752899302/photo/1",
+              "media_key": "3_2051296360478195712",
+              "start": 14,
+              "url": "https://t.co/bYsvPZ7yp2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051296366752899302",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 75,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "互关们回家好吗娅娅想你们。 https://t.co/bYsvPZ7yp2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-22T16:36:22.000Z",
+        "description": "08 he/they enby.双相、焦虑症正在治疗。烟鬼、酗酒、#shtwt、#odtwt。成分复杂，曾经骑单车，三岛由纪夫，钢琴，硬/前卫/蓝调/独立摇滚，jpop…虚无主义重建欲望中…负能，日常发神经吐苦水，友所有群体，查成分回fo。永远怀念——被封的大号@Lizzy_522",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 39,
+                "start": 33,
+                "tag": "shtwt"
+              },
+              {
+                "end": 46,
+                "start": 40,
+                "tag": "odtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 141,
+                "start": 131,
+                "username": "Lizzy_522"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizzy_522",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizzy_522",
+                "start": 0,
+                "url": "https://t.co/AQMnPR82BG"
+              }
+            ]
+          }
+        },
+        "id": "2046990809908879368",
+        "name": "リジー 2.0（推友寻回中）",
+        "pinned_tweet_id": "2051150939533590911",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047319984494534656/-SRMKdXI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 237,
+          "following_count": 237,
+          "like_count": 583,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 141
+        },
+        "url": "https://t.co/AQMnPR82BG",
+        "username": "silentbleeding1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-03T14:27:54.000Z",
+        "description": "drink pure luv\n我的匿名信 https://t.co/cVOfxKUUbb\n和我玩好吗？爱你们。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/chessiaya",
+                "end": 44,
+                "expanded_url": "https://ngl.link/chessiaya",
+                "start": 21,
+                "url": "https://t.co/cVOfxKUUbb"
+              }
+            ]
+          }
+        },
+        "id": "1985353024244793345",
+        "location": "🚪288",
+        "name": "珍珠鸟",
+        "pinned_tweet_id": "2050634646363189629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020454920315654145/-RaDH-dC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3234,
+          "following_count": 393,
+          "like_count": 22804,
+          "listed_count": 3,
+          "media_count": 235,
+          "tweet_count": 2357
+        },
+        "username": "Bitterpearlbird",
+        "verified": false
+      }
+    ]
+  }
+}

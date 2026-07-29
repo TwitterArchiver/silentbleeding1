@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046990809908879368",
+    "conversation_id": "2076630779686527235",
+    "created_at": "2026-07-14T10:49:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T11:49:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076982461658272012"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1289504272506392576",
+          "start": 0,
+          "username": "BabysnakeViolet"
+        },
+        {
+          "end": 27,
+          "id": "1902217890738401281",
+          "start": 17,
+          "username": "Sylvviiae"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076982461658272012",
+    "in_reply_to_user_id": "1289504272506392576",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076962775692394528",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BabysnakeViolet @Sylvviiae 好诶🤤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046990809908879368",
+        "conversation_id": "2076630779686527235",
+        "created_at": "2026-07-14T10:49:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T11:49:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076982461658272012"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1289504272506392576",
+              "start": 0,
+              "username": "BabysnakeViolet"
+            },
+            {
+              "end": 27,
+              "id": "1902217890738401281",
+              "start": 17,
+              "username": "Sylvviiae"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076982461658272012",
+        "in_reply_to_user_id": "1289504272506392576",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076962775692394528",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BabysnakeViolet @Sylvviiae 好诶🤤"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "2076630779686527235",
+        "created_at": "2026-07-14T09:31:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T10:31:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076962775692394528"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2046990809908879368",
+              "start": 0,
+              "username": "silentbleeding1"
+            },
+            {
+              "end": 27,
+              "id": "1902217890738401281",
+              "start": 17,
+              "username": "Sylvviiae"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076962775692394528",
+        "in_reply_to_user_id": "2046990809908879368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076630779686527235",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@silentbleeding1 @Sylvviiae 可爱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-22T16:36:22.000Z",
+        "description": "前世@Lizzy_522 \n08 he/they bpd。 #shtwt、#odtwt。喜欢各类摇滚和cult，每日高强度冲浪中。负能，日常吐苦水，友所有群体，迪哥们来找我互fo。里推@pillsandblood\n引路人@KKKaoru_",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 36,
+                "start": 30,
+                "tag": "shtwt"
+              },
+              {
+                "end": 43,
+                "start": 37,
+                "tag": "odtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "Lizzy_522"
+              },
+              {
+                "end": 106,
+                "start": 92,
+                "username": "pillsandblood"
+              },
+              {
+                "end": 119,
+                "start": 110,
+                "username": "KKKaoru_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizzy_5221",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizzy_5221",
+                "start": 0,
+                "url": "https://t.co/TdKmbtj5RY"
+              }
+            ]
+          }
+        },
+        "id": "2046990809908879368",
+        "name": "リジー",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060729372013895680/wVCe3wl1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 603,
+          "following_count": 504,
+          "like_count": 7254,
+          "listed_count": 0,
+          "media_count": 172,
+          "tweet_count": 2064
+        },
+        "url": "https://t.co/TdKmbtj5RY",
+        "username": "silentbleeding1",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "我是小蛇，我会查成分回fo，精神不稳定，推文当日记本发，入门请私信有涩涩福利\n🚪52/88/188/388 直接支付宝口令私我谢谢喵",
+        "id": "1289504272506392576",
+        "location": "你的背后",
+        "name": "亲爱的我饱含杀意",
+        "pinned_tweet_id": "2050668191840620596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050438559937773568/5VjxP0se_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2035,
+          "following_count": 618,
+          "like_count": 2921,
+          "listed_count": 5,
+          "media_count": 73,
+          "tweet_count": 2000
+        },
+        "url": "",
+        "username": "BabysnakeViolet",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-19T04:38:16.000Z",
+        "description": "bilingual, bisexual, bipolar, and bpd\n有fo就回，请来找我聊天(ifb and dms open)\n该小众文艺b想走近你的世界看一看\nTrying my best to be interesting lest I be jilted.",
+        "id": "1902217890738401281",
+        "name": "Sylwia",
+        "pinned_tweet_id": "2075321774791971305",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023853936030216193/teTeCxB-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1089,
+          "following_count": 905,
+          "like_count": 428,
+          "listed_count": 2,
+          "media_count": 85,
+          "tweet_count": 1672
+        },
+        "url": "",
+        "username": "Sylvviiae",
+        "verified": false
+      }
+    ]
+  }
+}

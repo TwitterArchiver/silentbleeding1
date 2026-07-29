@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046990809908879368",
+    "conversation_id": "2051184599049642055",
+    "created_at": "2026-05-04T11:50:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T12:50:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051268342082916380"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "142761596",
+          "start": 0,
+          "username": "FZY250926"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051268342082916380",
+    "in_reply_to_user_id": "142761596",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051267868235288592",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FZY250926 啊？？？为什么会这样啊…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1654,
+        "media_key": "3_2051267865429397504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHeRQWoX0AAmxvr.jpg",
+        "width": 1096
+      },
+      {
+        "height": 1120,
+        "media_key": "3_2051267865697767424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHeRQXoW0AA8UE-.jpg",
+        "width": 1096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046990809908879368",
+        "conversation_id": "2051184599049642055",
+        "created_at": "2026-05-04T11:50:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T12:50:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051268342082916380"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "142761596",
+              "start": 0,
+              "username": "FZY250926"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051268342082916380",
+        "in_reply_to_user_id": "142761596",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051267868235288592",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FZY250926 啊？？？为什么会这样啊…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051267865429397504",
+            "3_2051267865697767424"
+          ]
+        },
+        "author_id": "142761596",
+        "conversation_id": "2051184599049642055",
+        "created_at": "2026-05-04T11:49:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T12:49:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051267868235288592"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2046990809908879368",
+              "start": 0,
+              "username": "silentbleeding1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/B3OqecwaD2",
+              "end": 79,
+              "expanded_url": "https://x.com/FZY250926/status/2051267868235288592/photo/1",
+              "media_key": "3_2051267865429397504",
+              "start": 56,
+              "url": "https://t.co/B3OqecwaD2"
+            },
+            {
+              "display_url": "pic.x.com/B3OqecwaD2",
+              "end": 79,
+              "expanded_url": "https://x.com/FZY250926/status/2051267868235288592/photo/1",
+              "media_key": "3_2051267865697767424",
+              "start": 56,
+              "url": "https://t.co/B3OqecwaD2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051267868235288592",
+        "in_reply_to_user_id": "2046990809908879368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051184599049642055",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@silentbleeding1 🫂🫂🫂……\n我的话，第二次申诉通过了，但十多天过去了，依旧处于冻结状态😿…… https://t.co/B3OqecwaD2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-22T16:36:22.000Z",
+        "description": "08 he/they enby.双相、焦虑症正在治疗。烟鬼、酗酒、#shtwt、#odtwt。成分复杂，曾经骑单车，三岛由纪夫，钢琴，硬/前卫/蓝调/独立摇滚，jpop…虚无主义重建欲望中…负能，日常发神经吐苦水，友所有群体，查成分回fo。永远怀念——被封的大号@Lizzy_522",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 39,
+                "start": 33,
+                "tag": "shtwt"
+              },
+              {
+                "end": 46,
+                "start": 40,
+                "tag": "odtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 141,
+                "start": 131,
+                "username": "Lizzy_522"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizzy_522",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizzy_522",
+                "start": 0,
+                "url": "https://t.co/AQMnPR82BG"
+              }
+            ]
+          }
+        },
+        "id": "2046990809908879368",
+        "name": "リジー 2.0（推友寻回中）",
+        "pinned_tweet_id": "2051150939533590911",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047319984494534656/-SRMKdXI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 224,
+          "following_count": 222,
+          "like_count": 545,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 132
+        },
+        "url": "https://t.co/AQMnPR82BG",
+        "username": "silentbleeding1",
+        "verified": false
+      },
+      {
+        "created_at": "2010-05-11T17:58:18.000Z",
+        "description": "这是简介ฅ⁠^⁠•⁠ﻌ⁠•⁠^⁠ฅ\n这是某某ฅ⁠^⁠•⁠ﻌ⁠•⁠^⁠ฅ：@orbit_ZF",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 36,
+                "username": "orbit_ZF"
+              }
+            ]
+          }
+        },
+        "id": "142761596",
+        "location": "这是位置ฅ⁠^⁠•⁠ﻌ⁠•⁠^⁠ฅ",
+        "name": "溯᳐光᳐੭•G3",
+        "pinned_tweet_id": "2048232713686298920",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048433165912694784/TfB0rrth_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150,
+          "following_count": 231,
+          "like_count": 5853,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 103
+        },
+        "username": "FZY250926",
+        "verified": false
+      }
+    ]
+  }
+}

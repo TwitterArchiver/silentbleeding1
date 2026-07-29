@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046990809908879368",
+    "conversation_id": "2067149229945192827",
+    "created_at": "2026-06-17T10:48:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T11:48:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067197621303996660"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2033556052650975232",
+          "start": 0,
+          "username": "Ride_8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067197621303996660",
+    "in_reply_to_user_id": "2033556052650975232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067195345134858659",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ride_8964 是打雷姐那张吗🤤"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2067195345134858659].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2067195345134858659",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2067195345134858659"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046990809908879368",
+        "conversation_id": "2067149229945192827",
+        "created_at": "2026-06-17T10:48:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T11:48:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067197621303996660"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2033556052650975232",
+              "start": 0,
+              "username": "Ride_8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067197621303996660",
+        "in_reply_to_user_id": "2033556052650975232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067195345134858659",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ride_8964 是打雷姐那张吗🤤"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-22T16:36:22.000Z",
+        "description": "前世@Lizzy_522 \n08 he/they enby.双相、焦虑症正在治疗。烟鬼、酗酒、#shtwt、#odtwt。成分复杂，公路车，日本文学/拉康精神分析，钢琴，硬/前卫/蓝调/独立摇滚，负能，日常发神经吐苦水，友所有群体，查成分回fo。里推@pillsandblood",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 53,
+                "start": 47,
+                "tag": "shtwt"
+              },
+              {
+                "end": 60,
+                "start": 54,
+                "tag": "odtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "Lizzy_522"
+              },
+              {
+                "end": 139,
+                "start": 125,
+                "username": "pillsandblood"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizzy_522",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizzy_522",
+                "start": 0,
+                "url": "https://t.co/AQMnPR82BG"
+              }
+            ]
+          }
+        },
+        "id": "2046990809908879368",
+        "name": "リジー",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060729372013895680/wVCe3wl1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 516,
+          "following_count": 440,
+          "like_count": 4700,
+          "listed_count": 0,
+          "media_count": 94,
+          "tweet_count": 1314
+        },
+        "url": "https://t.co/AQMnPR82BG",
+        "username": "silentbleeding1",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-16T14:48:51.000Z",
+        "description": "精神病低素质婊子，不爱看滚出去我受够了傻逼健全比高道德人士对我指指点点了，09女高对习概毛概感兴趣的小女孩一枚呀",
+        "id": "2033556052650975232",
+        "name": "H巢精神病人",
+        "pinned_tweet_id": "2057485048388243570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064703276948615169/RKYmSnCp_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 307,
+          "following_count": 171,
+          "like_count": 41707,
+          "listed_count": 0,
+          "media_count": 225,
+          "tweet_count": 9255
+        },
+        "username": "Ride_8964",
+        "verified": false
+      }
+    ]
+  }
+}

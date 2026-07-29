@@ -1,0 +1,309 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046990809908879368",
+    "conversation_id": "2079551821484532020",
+    "created_at": "2026-07-21T17:35:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T18:35:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079621309236183488"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2039188116443947009",
+          "start": 0,
+          "username": "xichangan8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079621309236183488",
+    "in_reply_to_user_id": "2039188116443947009",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079551821484532020",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xichangan8964 吓晕😱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2079551802643746816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNwNWLiakAAb1tb.jpg",
+        "width": 885
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2079551802794766336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNwNWMGa8AA2oNH.jpg",
+        "width": 1152
+      },
+      {
+        "height": 1363,
+        "media_key": "3_2079551802643808256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNwNWLibgAAhcdJ.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046990809908879368",
+        "conversation_id": "2079551821484532020",
+        "created_at": "2026-07-21T17:35:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T18:35:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079621309236183488"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2039188116443947009",
+              "start": 0,
+              "username": "xichangan8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079621309236183488",
+        "in_reply_to_user_id": "2039188116443947009",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079551821484532020",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xichangan8964 吓晕😱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079551802643746816",
+            "3_2079551802794766336",
+            "3_2079551802643808256"
+          ]
+        },
+        "author_id": "2039188116443947009",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2079551821484532020",
+        "created_at": "2026-07-21T12:59:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T13:59:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079551821484532020"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/h708RRXgQY",
+              "end": 83,
+              "expanded_url": "https://x.com/xichangan8964/status/2079551821484532020/photo/1",
+              "media_key": "3_2079551802643746816",
+              "start": 60,
+              "url": "https://t.co/h708RRXgQY"
+            },
+            {
+              "display_url": "pic.x.com/h708RRXgQY",
+              "end": 83,
+              "expanded_url": "https://x.com/xichangan8964/status/2079551821484532020/photo/1",
+              "media_key": "3_2079551802794766336",
+              "start": 60,
+              "url": "https://t.co/h708RRXgQY"
+            },
+            {
+              "display_url": "pic.x.com/h708RRXgQY",
+              "end": 83,
+              "expanded_url": "https://x.com/xichangan8964/status/2079551821484532020/photo/1",
+              "media_key": "3_2079551802643808256",
+              "start": 60,
+              "url": "https://t.co/h708RRXgQY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079551821484532020",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2612,
+          "like_count": 44,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "此人偷我卧室图何意味，，，那么喜欢给你看一看正面哈，别让我抓到你😅这是我卧室我老婆（放点我那亲爱的黑猫和温馨政策研究室 https://t.co/h708RRXgQY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-22T16:36:22.000Z",
+        "description": "前世@Lizzy_522 \nhe/they bpd。 #shtwt、#odtwt。喜各类摇滚和cult，每日高强度冲浪中。负能，日常吐苦水，友所有群体，迪哥们来找我互fo。里推@pillsandblood\n引路人@KKKaoru_",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 33,
+                "start": 27,
+                "tag": "shtwt"
+              },
+              {
+                "end": 40,
+                "start": 34,
+                "tag": "odtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "Lizzy_522"
+              },
+              {
+                "end": 102,
+                "start": 88,
+                "username": "pillsandblood"
+              },
+              {
+                "end": 115,
+                "start": 106,
+                "username": "KKKaoru_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizzy_5221",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizzy_5221",
+                "start": 0,
+                "url": "https://t.co/TdKmbtj5RY"
+              }
+            ]
+          }
+        },
+        "id": "2046990809908879368",
+        "name": "リジー",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060729372013895680/wVCe3wl1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 615,
+          "following_count": 507,
+          "like_count": 7645,
+          "listed_count": 1,
+          "media_count": 182,
+          "tweet_count": 2140
+        },
+        "url": "https://t.co/TdKmbtj5RY",
+        "username": "silentbleeding1",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-01T03:49:46.000Z",
+        "description": "左右没有什么绝对，所以绝对超越左右。\n爱人永远留在1995年夏。https://t.co/k4XAsdVZAY\n本号含王沪宁元素极多，似推似梦似公似嬷都无所谓，学术研究也有，史料考究也有，只爱你哦沪宁😋",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "archiveofourown.org/works/78047201",
+                "end": 55,
+                "expanded_url": "https://archiveofourown.org/works/78047201",
+                "start": 32,
+                "url": "https://t.co/k4XAsdVZAY"
+              }
+            ]
+          }
+        },
+        "id": "2039188116443947009",
+        "location": "中南海某处垃圾桶中",
+        "name": "西长安街右转",
+        "pinned_tweet_id": "2039403921307787527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039310867985313792/ZXUZ_0Hg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 777,
+          "following_count": 305,
+          "like_count": 6371,
+          "listed_count": 1,
+          "media_count": 895,
+          "tweet_count": 3384
+        },
+        "url": "",
+        "username": "xichangan8964",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046990809908879368",
+    "conversation_id": "2050589152828326345",
+    "created_at": "2026-05-02T14:59:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T15:59:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050590946287665650"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1741807657110147073",
+          "start": 0,
+          "username": "yan_huan92807"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050590946287665650",
+    "in_reply_to_user_id": "1741807657110147073",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050589152828326345",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yan_huan92807 名校做题蛆魅力时刻。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046990809908879368",
+        "conversation_id": "2050589152828326345",
+        "created_at": "2026-05-02T14:59:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T15:59:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050590946287665650"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1741807657110147073",
+              "start": 0,
+              "username": "yan_huan92807"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050590946287665650",
+        "in_reply_to_user_id": "1741807657110147073",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050589152828326345",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yan_huan92807 名校做题蛆魅力时刻。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2050589152828326345",
+        "created_at": "2026-05-02T14:52:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T15:52:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050589152828326345"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2050589152828326345",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "各省什么八校联考名师联盟什么鬼一堆司马学校仗着生源好点就把卷子出的跟遗书一样傻逼，生怕别人不知道命题人是个孤儿"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-22T16:36:22.000Z",
+        "description": "@Lizzy_522",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 0,
+                "username": "Lizzy_522"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizzy_522",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizzy_522",
+                "start": 0,
+                "url": "https://t.co/AQMnPR82BG"
+              }
+            ]
+          }
+        },
+        "id": "2046990809908879368",
+        "name": "リジー 2.0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047319984494534656/-SRMKdXI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 154,
+          "following_count": 148,
+          "like_count": 386,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 87
+        },
+        "url": "https://t.co/AQMnPR82BG",
+        "username": "silentbleeding1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 \nany pronouns\n什么圈都搞/enby，ftx🏳️‍⚧️泛性恋🏳️‍🌈/金采源kim chaewon毒唯🐆🐯 /偶尔在互联网上释放善意 /彩虹友好🌈/查成分互fo喵\n老婆我最爱的母狗婊子宝贝https://t.co/ojLNRKtUJR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/gess828?s=21",
+                "end": 127,
+                "expanded_url": "https://x.com/gess828?s=21",
+                "start": 104,
+                "url": "https://t.co/ojLNRKtUJR"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的右心室",
+        "name": "小利亚是鳄鱼🐊女权人妖美女骚鸡妓妖景观装置法国新浪潮存在主义黑泽明喜欢困苦的雾都孤儿（私处好痒）",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043343874119307264/3Tdu7r0M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 214,
+          "like_count": 4005,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 1598
+        },
+        "username": "yan_huan92807",
+        "verified": false
+      }
+    ]
+  }
+}

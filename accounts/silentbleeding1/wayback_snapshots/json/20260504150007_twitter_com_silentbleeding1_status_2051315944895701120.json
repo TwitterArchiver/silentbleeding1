@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046990809908879368",
+    "conversation_id": "2051150939533590911",
+    "created_at": "2026-05-04T15:00:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T16:00:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051315944895701120"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1687876238474629120",
+          "start": 0,
+          "username": "AgNo3_xq0719"
+        },
+        {
+          "end": 28,
+          "id": "1536716629505359872",
+          "start": 14,
+          "username": "cigsafterdrug"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051315944895701120",
+    "in_reply_to_user_id": "1687876238474629120",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051191447932838019",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AgNo3_xq0719 @cigsafterdrug 来支持了😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046990809908879368",
+        "conversation_id": "2051150939533590911",
+        "created_at": "2026-05-04T15:00:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T16:00:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051315944895701120"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1687876238474629120",
+              "start": 0,
+              "username": "AgNo3_xq0719"
+            },
+            {
+              "end": 28,
+              "id": "1536716629505359872",
+              "start": 14,
+              "username": "cigsafterdrug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051315944895701120",
+        "in_reply_to_user_id": "1687876238474629120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051191447932838019",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AgNo3_xq0719 @cigsafterdrug 来支持了😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687876238474629120",
+        "conversation_id": "2051150939533590911",
+        "created_at": "2026-05-04T06:45:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T07:45:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051191447932838019"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2046990809908879368",
+              "start": 0,
+              "username": "silentbleeding1"
+            },
+            {
+              "end": 31,
+              "id": "1536716629505359872",
+              "start": 17,
+              "username": "cigsafterdrug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051191447932838019",
+        "in_reply_to_user_id": "2046990809908879368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051150939533590911",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@silentbleeding1 @cigsafterdrug 我来了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-22T16:36:22.000Z",
+        "description": "08 he/they enby.双相、焦虑症正在治疗。烟鬼、酗酒、#shtwt、#odtwt。成分复杂，曾经骑单车，三岛由纪夫，钢琴，硬/前卫/蓝调/独立摇滚，jpop…虚无主义重建欲望中…负能，日常发神经吐苦水，友所有群体，查成分回fo。永远怀念——被封的大号@Lizzy_522",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 39,
+                "start": 33,
+                "tag": "shtwt"
+              },
+              {
+                "end": 46,
+                "start": 40,
+                "tag": "odtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 141,
+                "start": 131,
+                "username": "Lizzy_522"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizzy_522",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizzy_522",
+                "start": 0,
+                "url": "https://t.co/AQMnPR82BG"
+              }
+            ]
+          }
+        },
+        "id": "2046990809908879368",
+        "name": "リジー 2.0（推友寻回中）",
+        "pinned_tweet_id": "2051150939533590911",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047319984494534656/-SRMKdXI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 240,
+          "following_count": 240,
+          "like_count": 602,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 149
+        },
+        "url": "https://t.co/AQMnPR82BG",
+        "username": "silentbleeding1",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-05T17:20:44.000Z",
+        "description": "09｜od｜自伤｜双相情感障碍｜istp-t｜爱人@llzvkeai @NiimiyaHoshi @fngkli131022",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 25,
+                "username": "llzvkeai"
+              },
+              {
+                "end": 48,
+                "start": 35,
+                "username": "NiimiyaHoshi"
+              },
+              {
+                "end": 62,
+                "start": 49,
+                "username": "fngkli131022"
+              }
+            ]
+          }
+        },
+        "id": "1687876238474629120",
+        "location": "普瑞巴林星球",
+        "name": "硝酸银#浅（三世）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049376709401841665/1z8Fy-mI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 158,
+          "like_count": 115,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 52
+        },
+        "username": "AgNo3_xq0719",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 359,
+          "following_count": 370,
+          "like_count": 23768,
+          "listed_count": 0,
+          "media_count": 115,
+          "tweet_count": 1928
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      }
+    ]
+  }
+}

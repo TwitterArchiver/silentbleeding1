@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046990809908879368",
+    "conversation_id": "2075122314874876098",
+    "created_at": "2026-07-09T13:09:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T14:09:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075205699332886666"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2063564638328147968",
+          "start": 0,
+          "username": "frontier_tut"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075205699332886666",
+    "in_reply_to_user_id": "2063564638328147968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075199209515716626",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@frontier_tut 我笑哭了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046990809908879368",
+        "conversation_id": "2075122314874876098",
+        "created_at": "2026-07-09T13:09:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T14:09:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075205699332886666"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2063564638328147968",
+              "start": 0,
+              "username": "frontier_tut"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075205699332886666",
+        "in_reply_to_user_id": "2063564638328147968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075199209515716626",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@frontier_tut 我笑哭了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063564638328147968",
+        "conversation_id": "2075122314874876098",
+        "created_at": "2026-07-09T12:43:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T13:43:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075199209515716626"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2046990809908879368",
+              "start": 0,
+              "username": "silentbleeding1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075199209515716626",
+        "in_reply_to_user_id": "2046990809908879368",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075122314874876098",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@silentbleeding1 我跑外卖be like："
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-22T16:36:22.000Z",
+        "description": "前世@Lizzy_522 \n08 he/they bpd。 #shtwt、#odtwt。喜欢各类摇滚和cult，每日高强度冲浪中。负能，日常吐苦水，友所有群体，迪哥们来找我互fo。里推@pillsandblood\n引路人@KKKaoru_",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 36,
+                "start": 30,
+                "tag": "shtwt"
+              },
+              {
+                "end": 43,
+                "start": 37,
+                "tag": "odtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "Lizzy_522"
+              },
+              {
+                "end": 106,
+                "start": 92,
+                "username": "pillsandblood"
+              },
+              {
+                "end": 119,
+                "start": 110,
+                "username": "KKKaoru_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizzy_5221",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizzy_5221",
+                "start": 0,
+                "url": "https://t.co/TdKmbtj5RY"
+              }
+            ]
+          }
+        },
+        "id": "2046990809908879368",
+        "name": "リジー",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060729372013895680/wVCe3wl1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 578,
+          "following_count": 485,
+          "like_count": 6821,
+          "listed_count": 0,
+          "media_count": 159,
+          "tweet_count": 1922
+        },
+        "url": "https://t.co/TdKmbtj5RY",
+        "username": "silentbleeding1",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-07T10:17:33.000Z",
+        "description": "我看著眼前幸福的日子被我親手摧毀後開心地閉上了眼\n|十代目账号|无性别 全性别友好\n|C-PTSD 因创伤而躲藏\n|姐姐大人 @Tsukiyasakura\n|我只是🐈请不要指责我🥺请投喂镜音谢谢喵🫶\n|魔法糖果购买https://t.co/oBTvsWsNpQ\n|匿名提问👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 63,
+                "username": "Tsukiyasakura"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/Kagamine_8964",
+                "end": 130,
+                "expanded_url": "http://t.me/Kagamine_8964",
+                "start": 107,
+                "url": "https://t.co/oBTvsWsNpQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hequanjingyin",
+                "end": 23,
+                "expanded_url": "https://ngl.link/hequanjingyin",
+                "start": 0,
+                "url": "https://t.co/Imrvv5DaCF"
+              }
+            ]
+          }
+        },
+        "id": "2063564638328147968",
+        "location": "௵宇宙௵",
+        "name": "鏡鏡金竟音",
+        "pinned_tweet_id": "2063574011272212721",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064032867697696768/7zjdu4Tm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 274,
+          "following_count": 224,
+          "like_count": 551,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 293
+        },
+        "url": "https://t.co/Imrvv5DaCF",
+        "username": "frontier_tut",
+        "verified": false
+      }
+    ]
+  }
+}
