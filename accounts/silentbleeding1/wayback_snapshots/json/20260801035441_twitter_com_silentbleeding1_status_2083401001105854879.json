@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046990809908879368",
+    "conversation_id": "2083400639707812307",
+    "created_at": "2026-08-01T03:54:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T04:54:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083401001105854879"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2082434496968966144",
+          "start": 0,
+          "username": "0nemoremin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083401001105854879",
+    "in_reply_to_user_id": "2046990809908879368",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083400639707812307",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0nemoremin 殴るように唇に血が滲む程\n好喜欢这句🤤"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1296,
+        "media_key": "3_2083400632892039168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOm51lhaoAAUbzE.jpg",
+        "width": 1170
+      },
+      {
+        "height": 1425,
+        "media_key": "3_2083400632900440064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOm51lja0AAOWoF.jpg",
+        "width": 1205
+      },
+      {
+        "height": 1410,
+        "media_key": "3_2083400632908812288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOm51llakAAU0-k.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046990809908879368",
+        "conversation_id": "2083400639707812307",
+        "created_at": "2026-08-01T03:54:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T04:54:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083401001105854879"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2082434496968966144",
+              "start": 0,
+              "username": "0nemoremin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083401001105854879",
+        "in_reply_to_user_id": "2046990809908879368",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083400639707812307",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0nemoremin 殴るように唇に血が滲む程\n好喜欢这句🤤"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083400632892039168",
+            "3_2083400632900440064",
+            "3_2083400632908812288"
+          ]
+        },
+        "author_id": "2046990809908879368",
+        "conversation_id": "2083400639707812307",
+        "created_at": "2026-08-01T03:53:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T04:53:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083400639707812307"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xe5BtaibF2",
+              "end": 121,
+              "expanded_url": "https://x.com/silentbleeding1/status/2083400639707812307/photo/1",
+              "media_key": "3_2083400632892039168",
+              "start": 98,
+              "url": "https://t.co/xe5BtaibF2"
+            },
+            {
+              "display_url": "pic.x.com/xe5BtaibF2",
+              "end": 121,
+              "expanded_url": "https://x.com/silentbleeding1/status/2083400639707812307/photo/1",
+              "media_key": "3_2083400632900440064",
+              "start": 98,
+              "url": "https://t.co/xe5BtaibF2"
+            },
+            {
+              "display_url": "pic.x.com/xe5BtaibF2",
+              "end": 121,
+              "expanded_url": "https://x.com/silentbleeding1/status/2083400639707812307/photo/1",
+              "media_key": "3_2083400632908812288",
+              "start": 98,
+              "url": "https://t.co/xe5BtaibF2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083400639707812307",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天和00双双推两首👽\nDAY26: Let's Get It On- Marvin Gaye\n好き好き大好き-户川纯\n第一首善良人格坠入爱河。\n第二首病娇人格坠入爱河，进行一个大口的啃咬？！🤤 https://t.co/xe5BtaibF2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-22T16:36:22.000Z",
+        "description": "he/they bpd。 #shtwt、#odtwt。喜各类摇滚和cult，每日高强度冲浪中。负能，日常吐苦水，友所有群体，迪哥们来找我互fo。里推@pillsandblood\n👽@0nemoresec 引路人@KKKaoru_",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 19,
+                "start": 13,
+                "tag": "shtwt"
+              },
+              {
+                "end": 26,
+                "start": 20,
+                "tag": "odtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 88,
+                "start": 74,
+                "username": "pillsandblood"
+              },
+              {
+                "end": 101,
+                "start": 90,
+                "username": "0nemoresec"
+              },
+              {
+                "end": 114,
+                "start": 105,
+                "username": "KKKaoru_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizzy_5221",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizzy_5221",
+                "start": 0,
+                "url": "https://t.co/TdKmbtj5RY"
+              }
+            ]
+          }
+        },
+        "id": "2046990809908879368",
+        "name": "リジー",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060729372013895680/wVCe3wl1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 627,
+          "following_count": 513,
+          "like_count": 8178,
+          "listed_count": 1,
+          "media_count": 209,
+          "tweet_count": 2335
+        },
+        "url": "https://t.co/TdKmbtj5RY",
+        "username": "silentbleeding1",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-29T11:56:25.000Z",
+        "description": "尸体在说话\n前世@0nemoresec 我又被gban了已畏惧\n匿名信 https://t.co/aDqZ0rknbk\n🌰@silentbleeding1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "0nemoresec"
+              },
+              {
+                "end": 77,
+                "start": 61,
+                "username": "silentbleeding1"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/0nemoresec",
+                "end": 59,
+                "expanded_url": "https://ngl.link/0nemoresec",
+                "start": 36,
+                "url": "https://t.co/aDqZ0rknbk"
+              }
+            ]
+          }
+        },
+        "id": "2082434496968966144",
+        "name": "0002.0",
+        "pinned_tweet_id": "2082440995145466099",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082436080654290944/3Xt839UE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 29,
+          "like_count": 19,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 19
+        },
+        "url": "",
+        "username": "0nemoremin",
+        "verified": false
+      }
+    ]
+  }
+}

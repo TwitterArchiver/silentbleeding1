@@ -1,0 +1,327 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046990809908879368",
+    "conversation_id": "2083997953522536900",
+    "created_at": "2026-08-03T03:37:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T04:37:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084121433404522694"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2083608195587874816",
+          "start": 0,
+          "username": "OuOshize666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084121433404522694",
+    "in_reply_to_user_id": "2083608195587874816",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083997953522536900",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OuOshize666 兄弟我哭了😭😭🤚"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1063,
+        "media_key": "3_2083997921562038272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOvZEXNbkAAP09U.jpg",
+        "width": 1080
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2083997930701434880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOvZE5QbsAASuP4.jpg",
+        "width": 3071
+      },
+      {
+        "height": 2304,
+        "media_key": "3_2083997941312978944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOvZFgybAAAkkWX.jpg",
+        "width": 1728
+      },
+      {
+        "height": 1037,
+        "media_key": "3_2083997947629604865",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOvZF4UbEAEKFev.jpg",
+        "width": 1037
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046990809908879368",
+        "conversation_id": "2083997953522536900",
+        "created_at": "2026-08-03T03:37:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T04:37:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084121433404522694"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2083608195587874816",
+              "start": 0,
+              "username": "OuOshize666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084121433404522694",
+        "in_reply_to_user_id": "2083608195587874816",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083997953522536900",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OuOshize666 兄弟我哭了😭😭🤚"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083997921562038272",
+            "3_2083997930701434880",
+            "3_2083997941312978944",
+            "3_2083997947629604865"
+          ]
+        },
+        "author_id": "2083608195587874816",
+        "conversation_id": "2083997953522536900",
+        "created_at": "2026-08-02T19:26:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T20:26:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083997953522536900"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/E2kmwALzQ5",
+              "end": 40,
+              "expanded_url": "https://x.com/OuOshize666/status/2083997953522536900/photo/1",
+              "media_key": "3_2083997921562038272",
+              "start": 17,
+              "url": "https://t.co/E2kmwALzQ5"
+            },
+            {
+              "display_url": "pic.x.com/E2kmwALzQ5",
+              "end": 40,
+              "expanded_url": "https://x.com/OuOshize666/status/2083997953522536900/photo/1",
+              "media_key": "3_2083997930701434880",
+              "start": 17,
+              "url": "https://t.co/E2kmwALzQ5"
+            },
+            {
+              "display_url": "pic.x.com/E2kmwALzQ5",
+              "end": 40,
+              "expanded_url": "https://x.com/OuOshize666/status/2083997953522536900/photo/1",
+              "media_key": "3_2083997941312978944",
+              "start": 17,
+              "url": "https://t.co/E2kmwALzQ5"
+            },
+            {
+              "display_url": "pic.x.com/E2kmwALzQ5",
+              "end": 40,
+              "expanded_url": "https://x.com/OuOshize666/status/2083997953522536900/photo/1",
+              "media_key": "3_2083997947629604865",
+              "start": 17,
+              "url": "https://t.co/E2kmwALzQ5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083997953522536900",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 339,
+          "like_count": 12,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "老牧师msk给我大号爆了，求帮转 https://t.co/E2kmwALzQ5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-22T16:36:22.000Z",
+        "description": "he/they bpd。 #shtwt、#odtwt。喜各类摇滚和cult，每日高强度冲浪中。负能，日常吐苦水，友所有群体，迪哥们来找我互fo。\n👽@0nemoresec @pillsandblood 引路人@KKKaoru_",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 19,
+                "start": 13,
+                "tag": "shtwt"
+              },
+              {
+                "end": 26,
+                "start": 20,
+                "tag": "odtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 85,
+                "start": 74,
+                "username": "0nemoresec"
+              },
+              {
+                "end": 100,
+                "start": 86,
+                "username": "pillsandblood"
+              },
+              {
+                "end": 113,
+                "start": 104,
+                "username": "KKKaoru_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizzy_5221",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizzy_5221",
+                "start": 0,
+                "url": "https://t.co/TdKmbtiy2q"
+              }
+            ]
+          }
+        },
+        "id": "2046990809908879368",
+        "name": "リジー",
+        "pinned_tweet_id": "2083914526408487286",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060729372013895680/wVCe3wl1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 632,
+          "following_count": 513,
+          "like_count": 8249,
+          "listed_count": 1,
+          "media_count": 214,
+          "tweet_count": 2375
+        },
+        "url": "https://t.co/TdKmbtiy2q",
+        "username": "silentbleeding1",
+        "verified": false
+      },
+      {
+        "created_at": "2026-08-01T17:39:00.000Z",
+        "description": "神聖かまってちゃん\n匿名问答@OuOshizego\n妈妈杯子宝宝狗@Qiuhuiiv3",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 14,
+                "username": "OuOshizego"
+              },
+              {
+                "end": 43,
+                "start": 33,
+                "username": "Qiuhuiiv3"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ouoshizego",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ouoshizego",
+                "start": 0,
+                "url": "https://t.co/mOB1u9ZEMm"
+              }
+            ]
+          }
+        },
+        "id": "2083608195587874816",
+        "location": "都灵街",
+        "name": "矢澤源義二代目",
+        "pinned_tweet_id": "2083997953522536900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083608603790094336/PkF9T3wI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 34,
+          "like_count": 84,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 5
+        },
+        "url": "https://t.co/mOB1u9ZEMm",
+        "username": "OuOshize666",
+        "verified": false
+      }
+    ]
+  }
+}

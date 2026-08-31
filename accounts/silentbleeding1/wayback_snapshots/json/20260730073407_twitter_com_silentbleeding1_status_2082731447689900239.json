@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2081972050386980864"
+      ],
+      "media_source_tweet_id": [
+        "2081972292851257591"
+      ]
+    },
+    "author_id": "2046990809908879368",
+    "conversation_id": "2082731447689900239",
+    "created_at": "2026-07-30T07:34:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T08:34:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082731447689900239"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2010357366466990080",
+          "start": 3,
+          "username": "shennaichuan_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/H4TBeM0GUn",
+          "end": 114,
+          "expanded_url": "https://x.com/shennaichuan_/status/2081972292851257591/photo/1",
+          "media_key": "3_2081972050386980864",
+          "start": 91,
+          "url": "https://t.co/H4TBeM0GUn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082731447689900239",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081972292851257591",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shennaichuan_: 唉家里人出事情了😭😭，最近工作又找不到我感觉我要去世了😭如果有好心的网友推油能不能让我圈一点，如果没有钱一分可以一毛可以，看到的谢谢宝子转个推 https://t.co/H4TBeM0GUn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1382,
+        "media_key": "3_2081972050386980864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOSmjI-bkAABvXH.jpg",
+        "width": 1382
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081972050386980864"
+          ]
+        },
+        "author_id": "2010357366466990080",
+        "conversation_id": "2081972292851257591",
+        "created_at": "2026-07-28T05:17:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T06:17:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081972292851257591"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/H4TBeM0GUn",
+              "end": 95,
+              "expanded_url": "https://x.com/shennaichuan_/status/2081972292851257591/photo/1",
+              "media_key": "3_2081972050386980864",
+              "start": 72,
+              "url": "https://t.co/H4TBeM0GUn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081972292851257591",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1740,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "唉家里人出事情了😭😭，最近工作又找不到我感觉我要去世了😭如果有好心的网友推油能不能让我圈一点，如果没有钱一分可以一毛可以，看到的谢谢宝子转个推 https://t.co/H4TBeM0GUn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081972050386980864"
+          ],
+          "media_source_tweet_id": [
+            "2081972292851257591"
+          ]
+        },
+        "author_id": "2046990809908879368",
+        "conversation_id": "2082731447689900239",
+        "created_at": "2026-07-30T07:34:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T08:34:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082731447689900239"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2010357366466990080",
+              "start": 3,
+              "username": "shennaichuan_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/H4TBeM0GUn",
+              "end": 114,
+              "expanded_url": "https://x.com/shennaichuan_/status/2081972292851257591/photo/1",
+              "media_key": "3_2081972050386980864",
+              "start": 91,
+              "url": "https://t.co/H4TBeM0GUn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082731447689900239",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081972292851257591",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shennaichuan_: 唉家里人出事情了😭😭，最近工作又找不到我感觉我要去世了😭如果有好心的网友推油能不能让我圈一点，如果没有钱一分可以一毛可以，看到的谢谢宝子转个推 https://t.co/H4TBeM0GUn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-22T16:36:22.000Z",
+        "description": "前世@Lizzy_522 \nhe/they bpd。 #shtwt、#odtwt。喜各类摇滚和cult，每日高强度冲浪中。负能，日常吐苦水，友所有群体，迪哥们来找我互fo。里推@pillsandblood\n引路人@KKKaoru_",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 33,
+                "start": 27,
+                "tag": "shtwt"
+              },
+              {
+                "end": 40,
+                "start": 34,
+                "tag": "odtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "Lizzy_522"
+              },
+              {
+                "end": 102,
+                "start": 88,
+                "username": "pillsandblood"
+              },
+              {
+                "end": 115,
+                "start": 106,
+                "username": "KKKaoru_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizzy_5221",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizzy_5221",
+                "start": 0,
+                "url": "https://t.co/TdKmbtj5RY"
+              }
+            ]
+          }
+        },
+        "id": "2046990809908879368",
+        "name": "リジー",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060729372013895680/wVCe3wl1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 620,
+          "following_count": 507,
+          "like_count": 8088,
+          "listed_count": 1,
+          "media_count": 205,
+          "tweet_count": 2294
+        },
+        "url": "https://t.co/TdKmbtj5RY",
+        "username": "silentbleeding1",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "给我转钱我都射射你😭🙏",
+        "id": "2010357366466990080",
+        "name": "河南说唱之神",
+        "pinned_tweet_id": "2081972292851257591",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4899,
+          "following_count": 638,
+          "like_count": 930,
+          "listed_count": 3,
+          "media_count": 454,
+          "tweet_count": 3507
+        },
+        "url": "",
+        "username": "shennaichuan_",
+        "verified": false
+      }
+    ]
+  }
+}

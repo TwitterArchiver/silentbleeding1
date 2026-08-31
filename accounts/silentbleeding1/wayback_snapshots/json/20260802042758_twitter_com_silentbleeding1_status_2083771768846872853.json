@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083771760705699840",
+        "3_2083771760651251712"
+      ]
+    },
+    "author_id": "2046990809908879368",
+    "conversation_id": "2083771768846872853",
+    "created_at": "2026-08-02T04:27:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T05:27:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083771768846872853"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/8fcIrK6AcH",
+          "end": 105,
+          "expanded_url": "https://x.com/silentbleeding1/status/2083771768846872853/photo/1",
+          "media_key": "3_2083771760705699840",
+          "start": 82,
+          "url": "https://t.co/8fcIrK6AcH"
+        },
+        {
+          "display_url": "pic.x.com/8fcIrK6AcH",
+          "end": 105,
+          "expanded_url": "https://x.com/silentbleeding1/status/2083771768846872853/photo/1",
+          "media_key": "3_2083771760651251712",
+          "start": 82,
+          "url": "https://t.co/8fcIrK6AcH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083771768846872853",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "DAY27:when you sleep-my bloody valentine\n每次夜深人静放loveless这张专我都想哭，无数个孤独的夜晚只有我和音乐度过… https://t.co/8fcIrK6AcH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1296,
+        "media_key": "3_2083771760705699840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOsLYEXagAA_eio.jpg",
+        "width": 1170
+      },
+      {
+        "height": 1420,
+        "media_key": "3_2083771760651251712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOsLYEKbsAA0Kxx.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083771760705699840",
+            "3_2083771760651251712"
+          ]
+        },
+        "author_id": "2046990809908879368",
+        "conversation_id": "2083771768846872853",
+        "created_at": "2026-08-02T04:27:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T05:27:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083771768846872853"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8fcIrK6AcH",
+              "end": 105,
+              "expanded_url": "https://x.com/silentbleeding1/status/2083771768846872853/photo/1",
+              "media_key": "3_2083771760705699840",
+              "start": 82,
+              "url": "https://t.co/8fcIrK6AcH"
+            },
+            {
+              "display_url": "pic.x.com/8fcIrK6AcH",
+              "end": 105,
+              "expanded_url": "https://x.com/silentbleeding1/status/2083771768846872853/photo/1",
+              "media_key": "3_2083771760651251712",
+              "start": 82,
+              "url": "https://t.co/8fcIrK6AcH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083771768846872853",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "DAY27:when you sleep-my bloody valentine\n每次夜深人静放loveless这张专我都想哭，无数个孤独的夜晚只有我和音乐度过… https://t.co/8fcIrK6AcH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-22T16:36:22.000Z",
+        "description": "he/they bpd。 #shtwt、#odtwt。喜各类摇滚和cult，每日高强度冲浪中。负能，日常吐苦水，友所有群体，迪哥们来找我互fo。\n👽@0nemoresec @pillsandblood 引路人@KKKaoru_",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 19,
+                "start": 13,
+                "tag": "shtwt"
+              },
+              {
+                "end": 26,
+                "start": 20,
+                "tag": "odtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 85,
+                "start": 74,
+                "username": "0nemoresec"
+              },
+              {
+                "end": 100,
+                "start": 86,
+                "username": "pillsandblood"
+              },
+              {
+                "end": 113,
+                "start": 104,
+                "username": "KKKaoru_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizzy_5221",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizzy_5221",
+                "start": 0,
+                "url": "https://t.co/TdKmbtiy2q"
+              }
+            ]
+          }
+        },
+        "id": "2046990809908879368",
+        "name": "リジー",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060729372013895680/wVCe3wl1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 625,
+          "following_count": 510,
+          "like_count": 8211,
+          "listed_count": 1,
+          "media_count": 212,
+          "tweet_count": 2354
+        },
+        "url": "https://t.co/TdKmbtiy2q",
+        "username": "silentbleeding1",
+        "verified": false
+      }
+    ]
+  }
+}

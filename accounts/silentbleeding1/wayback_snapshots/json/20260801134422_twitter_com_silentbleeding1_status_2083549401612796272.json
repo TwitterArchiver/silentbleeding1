@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2083548913374789632"
+      ]
+    },
+    "author_id": "2046990809908879368",
+    "conversation_id": "2083549401612796272",
+    "created_at": "2026-08-01T13:44:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T14:44:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083549401612796272"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/41fMdhTA0Y",
+          "end": 70,
+          "expanded_url": "https://x.com/silentbleeding1/status/2083549401612796272/video/1",
+          "media_key": "13_2083548913374789632",
+          "start": 47,
+          "url": "https://t.co/41fMdhTA0Y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083549401612796272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "靠。。歌声一出来我就绷不住哭了。。中西部青春期伤痛。。我最终也没成为自己期待的大人。。😭😭😭 https://t.co/41fMdhTA0Y"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 294356,
+        "height": 720,
+        "media_key": "13_2083548913374789632",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2083548913374789632/img/vY2_GBB3qdY6b1E-.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083548913374789632/vid/avc1/480x270/6MzwQyipj0owWgCz.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083548913374789632/vid/avc1/640x360/WwF_fEO44Om8bS84.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083548913374789632/vid/avc1/1280x720/RuzAoTuTHH5nvM0e.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2083548913374789632/pl/P5X-SsHoGjKUAimu.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2083548913374789632"
+          ]
+        },
+        "author_id": "2046990809908879368",
+        "conversation_id": "2083549401612796272",
+        "created_at": "2026-08-01T13:44:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T14:44:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083549401612796272"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/41fMdhTA0Y",
+              "end": 70,
+              "expanded_url": "https://x.com/silentbleeding1/status/2083549401612796272/video/1",
+              "media_key": "13_2083548913374789632",
+              "start": 47,
+              "url": "https://t.co/41fMdhTA0Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083549401612796272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "靠。。歌声一出来我就绷不住哭了。。中西部青春期伤痛。。我最终也没成为自己期待的大人。。😭😭😭 https://t.co/41fMdhTA0Y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-22T16:36:22.000Z",
+        "description": "he/they bpd。 #shtwt、#odtwt。喜各类摇滚和cult，每日高强度冲浪中。负能，日常吐苦水，友所有群体，迪哥们来找我互fo。里推@pillsandblood\n👽@0nemoresec 引路人@KKKaoru_",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 19,
+                "start": 13,
+                "tag": "shtwt"
+              },
+              {
+                "end": 26,
+                "start": 20,
+                "tag": "odtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 88,
+                "start": 74,
+                "username": "pillsandblood"
+              },
+              {
+                "end": 101,
+                "start": 90,
+                "username": "0nemoresec"
+              },
+              {
+                "end": 114,
+                "start": 105,
+                "username": "KKKaoru_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizzy_5221",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizzy_5221",
+                "start": 0,
+                "url": "https://t.co/TdKmbtj5RY"
+              }
+            ]
+          }
+        },
+        "id": "2046990809908879368",
+        "name": "リジー",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060729372013895680/wVCe3wl1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 624,
+          "following_count": 510,
+          "like_count": 8207,
+          "listed_count": 1,
+          "media_count": 211,
+          "tweet_count": 2340
+        },
+        "url": "https://t.co/TdKmbtj5RY",
+        "username": "silentbleeding1",
+        "verified": false
+      }
+    ]
+  }
+}

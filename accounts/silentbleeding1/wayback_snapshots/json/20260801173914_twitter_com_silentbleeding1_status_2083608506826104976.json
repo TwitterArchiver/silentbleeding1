@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046990809908879368",
+    "conversation_id": "2083559260357902724",
+    "created_at": "2026-08-01T17:39:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T18:39:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083608506826104976"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1805961850971992064",
+          "start": 0,
+          "username": "_taromeme_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083608506826104976",
+    "in_reply_to_user_id": "1805961850971992064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083559260357902724",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_taromeme_ 好馋这个薄荷万（（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046990809908879368",
+        "conversation_id": "2083559260357902724",
+        "created_at": "2026-08-01T17:39:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T18:39:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083608506826104976"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1805961850971992064",
+              "start": 0,
+              "username": "_taromeme_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083608506826104976",
+        "in_reply_to_user_id": "1805961850971992064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083559260357902724",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_taromeme_ 好馋这个薄荷万（（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805961850971992064",
+        "conversation_id": "2083559260357902724",
+        "created_at": "2026-08-01T14:23:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T15:23:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083559260357902724"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/_taromeme_/sta…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/_taromeme_/status/2079968916659679653",
+              "start": 17,
+              "url": "https://t.co/UIKbiWLG0e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083559260357902724",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 287,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079968916659679653",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有人要吗？一盒15三盒包邮～～～ https://t.co/UIKbiWLG0e"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-22T16:36:22.000Z",
+        "description": "he/they bpd。 #shtwt、#odtwt。喜各类摇滚和cult，每日高强度冲浪中。负能，日常吐苦水，友所有群体，迪哥们来找我互fo。\n👽@0nemoresec @pillsandblood 引路人@KKKaoru_",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 19,
+                "start": 13,
+                "tag": "shtwt"
+              },
+              {
+                "end": 26,
+                "start": 20,
+                "tag": "odtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 85,
+                "start": 74,
+                "username": "0nemoresec"
+              },
+              {
+                "end": 100,
+                "start": 86,
+                "username": "pillsandblood"
+              },
+              {
+                "end": 113,
+                "start": 104,
+                "username": "KKKaoru_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizzy_5221",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizzy_5221",
+                "start": 0,
+                "url": "https://t.co/TdKmbtiy2q"
+              }
+            ]
+          }
+        },
+        "id": "2046990809908879368",
+        "name": "リジー",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060729372013895680/wVCe3wl1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 624,
+          "following_count": 509,
+          "like_count": 8205,
+          "listed_count": 1,
+          "media_count": 211,
+          "tweet_count": 2352
+        },
+        "url": "https://t.co/TdKmbtiy2q",
+        "username": "silentbleeding1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-26T13:50:45.000Z",
+        "description": "名字的发音是タロミム，中/日/ EN/한，CHUNITHM，18 ↑ ，時々rkgk，フォローありがとう！！🏳️‍⚧️ 🏳️‍🌈 ☮️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "wavebox.me/wave/7imzxdsnl…",
+                "end": 23,
+                "expanded_url": "https://wavebox.me/wave/7imzxdsnlrpva16j/",
+                "start": 0,
+                "url": "https://t.co/39ZvkkSpXO"
+              }
+            ]
+          }
+        },
+        "id": "1805961850971992064",
+        "name": "taromeme",
+        "pinned_tweet_id": "2075317764143902822",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020574135781625856/MvatFbDu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 272,
+          "following_count": 605,
+          "like_count": 19782,
+          "listed_count": 0,
+          "media_count": 272,
+          "tweet_count": 3605
+        },
+        "url": "https://t.co/39ZvkkSpXO",
+        "username": "_taromeme_",
+        "verified": false
+      }
+    ]
+  }
+}

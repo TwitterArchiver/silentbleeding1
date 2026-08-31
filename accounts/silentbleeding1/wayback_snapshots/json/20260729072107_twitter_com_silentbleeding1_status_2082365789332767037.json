@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082365771834134528"
+      ]
+    },
+    "author_id": "2046990809908879368",
+    "conversation_id": "2082365789332767037",
+    "created_at": "2026-07-29T07:21:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T08:21:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082365789332767037"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/E0waoCKzxT",
+          "end": 48,
+          "expanded_url": "https://x.com/silentbleeding1/status/2082365789332767037/photo/1",
+          "media_key": "3_2082365771834134528",
+          "start": 25,
+          "url": "https://t.co/E0waoCKzxT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082365789332767037",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "哦齁齁齁这张好爽啊🔥🔥🔥\n逛唱片店一个迪哥推的👅 https://t.co/E0waoCKzxT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1231,
+        "media_key": "3_2082365771834134528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOYMovqbEAAZAvS.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082365771834134528"
+          ]
+        },
+        "author_id": "2046990809908879368",
+        "conversation_id": "2082365789332767037",
+        "created_at": "2026-07-29T07:21:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T08:21:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082365789332767037"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/E0waoCKzxT",
+              "end": 48,
+              "expanded_url": "https://x.com/silentbleeding1/status/2082365789332767037/photo/1",
+              "media_key": "3_2082365771834134528",
+              "start": 25,
+              "url": "https://t.co/E0waoCKzxT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082365789332767037",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哦齁齁齁这张好爽啊🔥🔥🔥\n逛唱片店一个迪哥推的👅 https://t.co/E0waoCKzxT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-22T16:36:22.000Z",
+        "description": "前世@Lizzy_522 \nhe/they bpd。 #shtwt、#odtwt。喜各类摇滚和cult，每日高强度冲浪中。负能，日常吐苦水，友所有群体，迪哥们来找我互fo。里推@pillsandblood\n引路人@KKKaoru_",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 33,
+                "start": 27,
+                "tag": "shtwt"
+              },
+              {
+                "end": 40,
+                "start": 34,
+                "tag": "odtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "Lizzy_522"
+              },
+              {
+                "end": 102,
+                "start": 88,
+                "username": "pillsandblood"
+              },
+              {
+                "end": 115,
+                "start": 106,
+                "username": "KKKaoru_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizzy_5221",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizzy_5221",
+                "start": 0,
+                "url": "https://t.co/TdKmbtj5RY"
+              }
+            ]
+          }
+        },
+        "id": "2046990809908879368",
+        "name": "リジー",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060729372013895680/wVCe3wl1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 623,
+          "following_count": 510,
+          "like_count": 8027,
+          "listed_count": 1,
+          "media_count": 203,
+          "tweet_count": 2270
+        },
+        "url": "https://t.co/TdKmbtj5RY",
+        "username": "silentbleeding1",
+        "verified": false
+      }
+    ]
+  }
+}

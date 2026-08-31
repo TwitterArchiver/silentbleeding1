@@ -1,0 +1,327 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046990809908879368",
+    "conversation_id": "2082962808954917327",
+    "created_at": "2026-07-31T05:20:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T06:20:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083060114936967353"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2082434496968966144",
+          "start": 0,
+          "username": "0nemoremin"
+        },
+        {
+          "end": 23,
+          "id": "1916113741328093187",
+          "start": 12,
+          "username": "0nemoresec"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083060114936967353",
+    "in_reply_to_user_id": "2082434496968966144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083038348147597396",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0nemoremin @0nemoresec 那我的天狼星ufo票什么时候能批下来🛸🤤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046990809908879368",
+        "conversation_id": "2082962808954917327",
+        "created_at": "2026-07-31T05:20:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T06:20:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083060114936967353"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2082434496968966144",
+              "start": 0,
+              "username": "0nemoremin"
+            },
+            {
+              "end": 23,
+              "id": "1916113741328093187",
+              "start": 12,
+              "username": "0nemoresec"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083060114936967353",
+        "in_reply_to_user_id": "2082434496968966144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083038348147597396",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0nemoremin @0nemoresec 那我的天狼星ufo票什么时候能批下来🛸🤤"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2082434496968966144",
+        "conversation_id": "2082962808954917327",
+        "created_at": "2026-07-31T03:53:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T04:53:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083038348147597396"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2046990809908879368",
+              "start": 0,
+              "username": "silentbleeding1"
+            },
+            {
+              "end": 28,
+              "id": "1916113741328093187",
+              "start": 17,
+              "username": "0nemoresec"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083038348147597396",
+        "in_reply_to_user_id": "2046990809908879368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082962808954917327",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@silentbleeding1 @0nemoresec www已办理成功"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-22T16:36:22.000Z",
+        "description": "he/they bpd。 #shtwt、#odtwt。喜各类摇滚和cult，每日高强度冲浪中。负能，日常吐苦水，友所有群体，迪哥们来找我互fo。里推@pillsandblood\n👽@0nemoresec 引路人@KKKaoru_",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 19,
+                "start": 13,
+                "tag": "shtwt"
+              },
+              {
+                "end": 26,
+                "start": 20,
+                "tag": "odtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 88,
+                "start": 74,
+                "username": "pillsandblood"
+              },
+              {
+                "end": 101,
+                "start": 90,
+                "username": "0nemoresec"
+              },
+              {
+                "end": 114,
+                "start": 105,
+                "username": "KKKaoru_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizzy_5221",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizzy_5221",
+                "start": 0,
+                "url": "https://t.co/TdKmbtj5RY"
+              }
+            ]
+          }
+        },
+        "id": "2046990809908879368",
+        "name": "リジー",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060729372013895680/wVCe3wl1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 624,
+          "following_count": 511,
+          "like_count": 8121,
+          "listed_count": 1,
+          "media_count": 207,
+          "tweet_count": 2315
+        },
+        "url": "https://t.co/TdKmbtj5RY",
+        "username": "silentbleeding1",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-29T11:56:25.000Z",
+        "description": "尸体在说话\n前世@0nemoresec\n匿名信 https://t.co/aDqZ0rknbk\n🌰@silentbleeding1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "0nemoresec"
+              },
+              {
+                "end": 65,
+                "start": 49,
+                "username": "silentbleeding1"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/0nemoresec",
+                "end": 47,
+                "expanded_url": "https://ngl.link/0nemoresec",
+                "start": 24,
+                "url": "https://t.co/aDqZ0rknbk"
+              }
+            ]
+          }
+        },
+        "id": "2082434496968966144",
+        "name": "0002.0",
+        "pinned_tweet_id": "2082440995145466099",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082436080654290944/3Xt839UE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 29,
+          "like_count": 13,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 12
+        },
+        "url": "",
+        "username": "0nemoremin",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-26T12:54:58.000Z",
+        "description": "尸体在说话\n匿名信 https://t.co/dAFmIPsROM\n被gban了 新号@0nemoremin\n🌰@silentbleeding1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 43,
+                "username": "0nemoremin"
+              },
+              {
+                "end": 72,
+                "start": 56,
+                "username": "silentbleeding1"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/0nemoresec",
+                "end": 33,
+                "expanded_url": "https://ngl.link/0nemoresec",
+                "start": 10,
+                "url": "https://t.co/dAFmIPsROM"
+              }
+            ]
+          }
+        },
+        "id": "1916113741328093187",
+        "location": "空白",
+        "name": "000",
+        "pinned_tweet_id": "2068352892189438411",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063212015276232704/wKzUSuMr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 160,
+          "following_count": 160,
+          "like_count": 3067,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 1376
+        },
+        "url": "",
+        "username": "0nemoresec",
+        "verified": false
+      }
+    ]
+  }
+}

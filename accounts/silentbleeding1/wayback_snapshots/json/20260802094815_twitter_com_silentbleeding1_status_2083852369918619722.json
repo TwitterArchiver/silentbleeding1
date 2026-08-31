@@ -1,0 +1,344 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083555880398979072",
+        "3_2083555893925568512"
+      ],
+      "media_source_tweet_id": [
+        "2083555905703198949",
+        "2083555905703198949"
+      ]
+    },
+    "author_id": "2046990809908879368",
+    "conversation_id": "2083852369918619722",
+    "created_at": "2026-08-02T09:48:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T10:48:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083852369918619722"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1970865362368610304",
+          "start": 3,
+          "username": "Brandy322512322"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Cj5i3ninSY",
+          "end": 65,
+          "expanded_url": "https://x.com/Brandy322512322/status/2083555905703198949/photo/1",
+          "media_key": "3_2083555880398979072",
+          "start": 42,
+          "url": "https://t.co/Cj5i3ninSY"
+        },
+        {
+          "display_url": "pic.x.com/Cj5i3ninSY",
+          "end": 65,
+          "expanded_url": "https://x.com/Brandy322512322/status/2083555905703198949/photo/1",
+          "media_key": "3_2083555893925568512",
+          "start": 42,
+          "url": "https://t.co/Cj5i3ninSY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083852369918619722",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083555905703198949",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Brandy322512322: 找找以前的大家 或者同好互fo都来吧来吧 https://t.co/Cj5i3ninSY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2772,
+        "media_key": "3_2083555880398979072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOpHCLjbgAAeqtr.jpg",
+        "width": 1280
+      },
+      {
+        "height": 2772,
+        "media_key": "3_2083555893925568512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOpHC98a4AAZ_-4.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083555880398979072",
+            "3_2083555893925568512"
+          ]
+        },
+        "author_id": "1970865362368610304",
+        "conversation_id": "2083555905703198949",
+        "created_at": "2026-08-01T14:10:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T15:10:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083555905703198949"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Cj5i3ninSY",
+              "end": 44,
+              "expanded_url": "https://x.com/Brandy322512322/status/2083555905703198949/photo/1",
+              "media_key": "3_2083555880398979072",
+              "start": 21,
+              "url": "https://t.co/Cj5i3ninSY"
+            },
+            {
+              "display_url": "pic.x.com/Cj5i3ninSY",
+              "end": 44,
+              "expanded_url": "https://x.com/Brandy322512322/status/2083555905703198949/photo/1",
+              "media_key": "3_2083555893925568512",
+              "start": 21,
+              "url": "https://t.co/Cj5i3ninSY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083555905703198949",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 513,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "找找以前的大家 或者同好互fo都来吧来吧 https://t.co/Cj5i3ninSY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083555880398979072",
+            "3_2083555893925568512"
+          ],
+          "media_source_tweet_id": [
+            "2083555905703198949",
+            "2083555905703198949"
+          ]
+        },
+        "author_id": "2046990809908879368",
+        "conversation_id": "2083852369918619722",
+        "created_at": "2026-08-02T09:48:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T10:48:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083852369918619722"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1970865362368610304",
+              "start": 3,
+              "username": "Brandy322512322"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Cj5i3ninSY",
+              "end": 65,
+              "expanded_url": "https://x.com/Brandy322512322/status/2083555905703198949/photo/1",
+              "media_key": "3_2083555880398979072",
+              "start": 42,
+              "url": "https://t.co/Cj5i3ninSY"
+            },
+            {
+              "display_url": "pic.x.com/Cj5i3ninSY",
+              "end": 65,
+              "expanded_url": "https://x.com/Brandy322512322/status/2083555905703198949/photo/1",
+              "media_key": "3_2083555893925568512",
+              "start": 42,
+              "url": "https://t.co/Cj5i3ninSY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083852369918619722",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083555905703198949",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Brandy322512322: 找找以前的大家 或者同好互fo都来吧来吧 https://t.co/Cj5i3ninSY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-22T16:36:22.000Z",
+        "description": "he/they bpd。 #shtwt、#odtwt。喜各类摇滚和cult，每日高强度冲浪中。负能，日常吐苦水，友所有群体，迪哥们来找我互fo。\n👽@0nemoresec @pillsandblood 引路人@KKKaoru_",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 19,
+                "start": 13,
+                "tag": "shtwt"
+              },
+              {
+                "end": 26,
+                "start": 20,
+                "tag": "odtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 85,
+                "start": 74,
+                "username": "0nemoresec"
+              },
+              {
+                "end": 100,
+                "start": 86,
+                "username": "pillsandblood"
+              },
+              {
+                "end": 113,
+                "start": 104,
+                "username": "KKKaoru_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizzy_5221",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizzy_5221",
+                "start": 0,
+                "url": "https://t.co/TdKmbtiy2q"
+              }
+            ]
+          }
+        },
+        "id": "2046990809908879368",
+        "name": "リジー",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060729372013895680/wVCe3wl1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 624,
+          "following_count": 510,
+          "like_count": 8223,
+          "listed_count": 1,
+          "media_count": 212,
+          "tweet_count": 2361
+        },
+        "url": "https://t.co/TdKmbtiy2q",
+        "username": "silentbleeding1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-24T14:58:20.000Z",
+        "description": "无我梦中                                                                                                    前世:@Donna1054957和@otxiashu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 120,
+                "start": 107,
+                "username": "Donna1054957"
+              },
+              {
+                "end": 130,
+                "start": 121,
+                "username": "otxiashu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ot78725",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ot78725",
+                "start": 0,
+                "url": "https://t.co/rAxtcjtivs"
+              }
+            ]
+          }
+        },
+        "id": "1970865362368610304",
+        "location": "沃尔库塔-5",
+        "name": "Ryoshu",
+        "pinned_tweet_id": "2082727062536880534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082721937508405249/1eGSC0rG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 96,
+          "like_count": 110,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 76
+        },
+        "url": "https://t.co/rAxtcjtivs",
+        "username": "Brandy322512322",
+        "verified": false
+      }
+    ]
+  }
+}

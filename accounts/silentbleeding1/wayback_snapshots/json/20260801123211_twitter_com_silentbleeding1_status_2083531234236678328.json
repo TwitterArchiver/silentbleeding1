@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046990809908879368",
+    "conversation_id": "2083531234236678328",
+    "created_at": "2026-08-01T12:32:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T13:32:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083531234236678328"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/silentbleeding…",
+          "end": 49,
+          "expanded_url": "https://twitter.com/silentbleeding1/status/2083520530876088409",
+          "start": 26,
+          "url": "https://t.co/u1Ux93L4mU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083531234236678328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083520530876088409",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "一开场大家全在喊choose life我真绷不住了 https://t.co/u1Ux93L4mU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2083520483165913088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOom1ylawAA8oyV.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2083520483174359041",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOom1ynboAECBG5.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2083520483149094912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOom1yhaIAAb4mA.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046990809908879368",
+        "conversation_id": "2083531234236678328",
+        "created_at": "2026-08-01T12:32:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T13:32:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083531234236678328"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/silentbleeding…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/silentbleeding1/status/2083520530876088409",
+              "start": 26,
+              "url": "https://t.co/u1Ux93L4mU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083531234236678328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083520530876088409",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "一开场大家全在喊choose life我真绷不住了 https://t.co/u1Ux93L4mU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083520483165913088",
+            "3_2083520483174359041",
+            "3_2083520483149094912"
+          ]
+        },
+        "author_id": "2046990809908879368",
+        "conversation_id": "2083520530876088409",
+        "created_at": "2026-08-01T11:49:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T12:49:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083520530876088409"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GqSDAYGper",
+              "end": 29,
+              "expanded_url": "https://x.com/silentbleeding1/status/2083520530876088409/photo/1",
+              "media_key": "3_2083520483165913088",
+              "start": 6,
+              "url": "https://t.co/GqSDAYGper"
+            },
+            {
+              "display_url": "pic.x.com/GqSDAYGper",
+              "end": 29,
+              "expanded_url": "https://x.com/silentbleeding1/status/2083520530876088409/photo/1",
+              "media_key": "3_2083520483174359041",
+              "start": 6,
+              "url": "https://t.co/GqSDAYGper"
+            },
+            {
+              "display_url": "pic.x.com/GqSDAYGper",
+              "end": 29,
+              "expanded_url": "https://x.com/silentbleeding1/status/2083520530876088409/photo/1",
+              "media_key": "3_2083520483149094912",
+              "start": 6,
+              "url": "https://t.co/GqSDAYGper"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083520530876088409",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 141,
+          "like_count": 19,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "来看美足了 https://t.co/GqSDAYGper"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-22T16:36:22.000Z",
+        "description": "he/they bpd。 #shtwt、#odtwt。喜各类摇滚和cult，每日高强度冲浪中。负能，日常吐苦水，友所有群体，迪哥们来找我互fo。里推@pillsandblood\n👽@0nemoresec 引路人@KKKaoru_",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 19,
+                "start": 13,
+                "tag": "shtwt"
+              },
+              {
+                "end": 26,
+                "start": 20,
+                "tag": "odtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 88,
+                "start": 74,
+                "username": "pillsandblood"
+              },
+              {
+                "end": 101,
+                "start": 90,
+                "username": "0nemoresec"
+              },
+              {
+                "end": 114,
+                "start": 105,
+                "username": "KKKaoru_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizzy_5221",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizzy_5221",
+                "start": 0,
+                "url": "https://t.co/TdKmbtj5RY"
+              }
+            ]
+          }
+        },
+        "id": "2046990809908879368",
+        "name": "リジー",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060729372013895680/wVCe3wl1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 623,
+          "following_count": 509,
+          "like_count": 8205,
+          "listed_count": 1,
+          "media_count": 210,
+          "tweet_count": 2339
+        },
+        "url": "https://t.co/TdKmbtj5RY",
+        "username": "silentbleeding1",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046990809908879368",
+    "conversation_id": "2083566029314421007",
+    "created_at": "2026-08-01T15:00:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T16:00:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083568447733276941"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2052771960225243136",
+          "start": 0,
+          "username": "pillsandblood"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083568447733276941",
+    "in_reply_to_user_id": "2052771960225243136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083566029314421007",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pillsandblood 来支持了🛸💨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046990809908879368",
+        "conversation_id": "2083566029314421007",
+        "created_at": "2026-08-01T15:00:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T16:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083568447733276941"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2052771960225243136",
+              "start": 0,
+              "username": "pillsandblood"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083568447733276941",
+        "in_reply_to_user_id": "2052771960225243136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083566029314421007",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pillsandblood 来支持了🛸💨"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2052771960225243136",
+        "conversation_id": "2083566029314421007",
+        "created_at": "2026-08-01T14:50:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T15:50:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083566029314421007"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/pillsandblood/…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/pillsandblood/status/2083555281972424968",
+              "start": 6,
+              "url": "https://t.co/gX0gjj8bQB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083566029314421007",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083555281972424968",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我已夺舍👽 https://t.co/gX0gjj8bQB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-22T16:36:22.000Z",
+        "description": "he/they bpd。 #shtwt、#odtwt。喜各类摇滚和cult，每日高强度冲浪中。负能，日常吐苦水，友所有群体，迪哥们来找我互fo。\n👽@0nemoresec 引路人@KKKaoru_",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 19,
+                "start": 13,
+                "tag": "shtwt"
+              },
+              {
+                "end": 26,
+                "start": 20,
+                "tag": "odtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 85,
+                "start": 74,
+                "username": "0nemoresec"
+              },
+              {
+                "end": 98,
+                "start": 89,
+                "username": "KKKaoru_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizzy_5221",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizzy_5221",
+                "start": 0,
+                "url": "https://t.co/TdKmbtiy2q"
+              }
+            ]
+          }
+        },
+        "id": "2046990809908879368",
+        "name": "リジー",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060729372013895680/wVCe3wl1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 625,
+          "following_count": 510,
+          "like_count": 8215,
+          "listed_count": 1,
+          "media_count": 211,
+          "tweet_count": 2346
+        },
+        "url": "https://t.co/TdKmbtiy2q",
+        "username": "silentbleeding1",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-08T15:28:41.000Z",
+        "description": "",
+        "id": "2052771960225243136",
+        "name": "000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083564984693583872/KJIYiNqY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 125,
+          "like_count": 387,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 58
+        },
+        "url": "",
+        "username": "pillsandblood",
+        "verified": false
+      }
+    ]
+  }
+}
