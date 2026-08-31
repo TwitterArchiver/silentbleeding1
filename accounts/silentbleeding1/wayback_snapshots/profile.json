@@ -1,7 +1,7 @@
 {
   "name": "リジー",
   "username": "@silentbleeding1",
-  "bio": "前世@Lizzy_522  he/they bpd。 #shtwt、#odtwt。喜各类摇滚和cult，每日高强度冲浪中。负能，日常吐苦水，友所有群体，迪哥们来找我互fo。里推@pillsandblood 引路人@KKKaoru_",
+  "bio": "he/they bpd。 #shtwt、#odtwt。喜各类摇滚和cult，每日高强度冲浪中。负能，日常吐苦水，友所有群体，迪哥们来找我互fo。\n💗👽@0nemoresec @pillsandblood 引路人@KKKaoru_",
   "location": "",
   "link": "https://ngl.link/lizzy_5221",
   "avatar": "avatar/avatar.jpg",
@@ -10,30 +10,30 @@
   "bio_entities": {
     "hashtags": [
       {
-        "end": 33,
-        "start": 27,
+        "end": 19,
+        "start": 13,
         "tag": "shtwt"
       },
       {
-        "end": 40,
-        "start": 34,
+        "end": 26,
+        "start": 20,
         "tag": "odtwt"
       }
     ],
     "mentions": [
       {
-        "end": 12,
-        "start": 2,
-        "username": "Lizzy_522"
+        "end": 86,
+        "start": 75,
+        "username": "0nemoresec"
       },
       {
-        "end": 102,
-        "start": 88,
+        "end": 101,
+        "start": 87,
         "username": "pillsandblood"
       },
       {
-        "end": 115,
-        "start": 106,
+        "end": 114,
+        "start": 105,
         "username": "KKKaoru_"
       }
     ]
